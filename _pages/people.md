@@ -9,7 +9,7 @@ author_profile: true
 
 ### **Dipanjan Roy**
 
-### **Associate Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science **
+### **Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science**
 
 ### **Indian Institute of Technology Jodhpur**
 
@@ -19,7 +19,7 @@ author_profile: true
 
 ## **Principal Investigator - Dipanjan Roy**
 
-### Dipanjan Roy currently leads a Cognitive and computational Neuroscience group focusing on understanding representation of time-scales, large-scale brain network dynamics, and brain connectivity alterations in attention, memory, perception, and multisensory integration. His lab primarily focuses on research areas related to Neuroimaging methods and data generation process during experiments, Brain Connectivity patterns in atypical neurodevelopment and aging, Multiscale computational modeling, EEG, MEG, fMRI, and behavioral studies about perceptual processing, multisensory speech perception, attention, and memory processing. The specific areas in which the group contributes to computational modeling, experiments, and stimulus design pertained to questions related to learning, Perceptual and sensory processing (visual and auditory), working and episodic memory, Aging, and Multisensory processing.[ Read Full Bio](http://www.nbrc.ac.in/newweb/research/groups/dipanjanroy)
+## **Dipanjan Roy currently leads a Cognitive and Computational Neuroscience group, focusing on understanding the representation of time scales, large-scale brain network dynamics, and brain connectivity alterations in attention, memory, perception, and multisensory integration. His lab primarily focuses on research areas related to Neuroimaging methods and data generation process during experiments, Brain Connectivity patterns in atypical neurodevelopment and aging, Multiscale computational modeling, EEG, MEG, fMRI, and behavioral studies about perceptual processing, multisensory speech perception, attention, and memory processing. The specific areas in which the group contributes to computational modeling, experiments, and stimulus design pertained to questions related to learning, Perceptual and sensory processing (visual and auditory), working and episodic memory, Aging, and Multisensory processing.**
 
 ## _PhD students_
 
