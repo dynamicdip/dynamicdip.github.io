@@ -40,3 +40,28 @@
 p {
   text-align: justify;
 }
+/* Global typography consistency */
+.page__content p,
+.page__content li,
+.page__content td,
+.page__content span,
+.page__content a {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.page__content h1 { font-size: 1.8em; }
+.page__content h2 { font-size: 1.5em; }
+.page__content h3 { font-size: 1.2em; }
+.page__content h4 { font-size: 1.0em; }
+
+/* Justified text across all pages */
+.page__content p {
+  text-align: justify;
+}
+
+/* Consistent table styling */
+.page__content table {
+  font-size: 16px;
+  line-height: 1.6;
+}
