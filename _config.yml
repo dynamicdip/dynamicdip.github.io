@@ -17,7 +17,7 @@ words_per_minute         : 160
 # Author info
 author:
   name             : "Dipanjan Roy"
-  avatar           : "/images/profile.jpg"
+  avatar           :"https://dynamicdip.github.io/images/profile.jpg"
   bio              : "Professor, Centre for Brain Science & Applications, IIT Jodhpur. Fellow of NASI. Adjunct Professor, NBRC."
   location         : "Jodhpur, Rajasthan, India"
   email            : "droy@iitj.ac.in"
