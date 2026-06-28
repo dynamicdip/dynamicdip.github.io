@@ -163,8 +163,7 @@ author_profile: true
   * **Inferring network properties of cortical neurons with synaptic coupling and parameter dispersion** _ **D Roy** , V Jirsa - Neural Masses and Fields: Modeling the Dynamics of …, **Frontiers in Computational Neuroscience** 2015 Edited by Karl Friston_
 
 
-  * _**Dipanjan Roy** , Rodrigo Sigala, Michael Breakspear, Anthony Randal McIntosh, Viktor K. Jirsa, Gustavo Deco, Petra Ritter.  _ **Using the Virtual Brain to Reveal the Role of Oscillations and Plasticity in Shaping Brain's Dynamical Landscape**._  **Brain  Connectivity** Journal 01 oct 201 dx.doi.org/10.1089/brain.2014.0252. [BC_2014](https://dipanjanr.com/wp-content/uploads/2015/04/bc2014roy_et_al.pdf)[![](https://dipanjanr.com/wp-content/uploads/2015/04/pdflogo.png)](https://dipanjanr.com/wp-content/uploads/2015/04/pdflogo.png)_
-
+  * _**Dipanjan Roy** , Rodrigo Sigala, Michael Breakspear, Anthony Randal McIntosh, Viktor K. Jirsa, Gustavo Deco, Petra Ritter.  _ **Using the Virtual Brain to Reveal the Role of Oscillations and Plasticity in Shaping Brain's Dynamical Landscape**._  **Brain  Connectivity** Journal 01 oct 201 dx.doi.org/10.1089/brain.2014.0252. 
 
   * **The role of alpha-rhythm states in perceptual learning: insights from experiments and  computational models** _(Rodrigo Sigala, Sebastian Haufe,**Dipanjan Roy** , Hubert R. Dinse, Petra Ritter) Frontiers in Computational Neuroscience 2014 March **Front. Comput. Neurosci.** | doi:10.3389/fncom.2014.00036_. 
 
