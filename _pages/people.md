@@ -61,7 +61,7 @@ author_profile: true
     <h3>Azman Akhtar</h3>
     <p class="role">Integrated Ph.D. student, NBRC</p>
     <p class="contact">azman.b17@nbrc.ac.in</p>
-    <p>Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC. His research investigates the neural correlates of reading across different orthographies in multiliterate individuals, focusing on Hindi and Urdu — two orthographically distinct scripts for the same spoken language. His broader interests lie in the neural dynamics of language processing and social cognition using EEG and fMRI in bilingual populations.</p>
+    <p>Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC. His research investigates the neural correlates of reading across different orthographies in multiliterate individuals, focusing on Hindi and Urdu — two orthographically distinct scripts for the same spoken language. His broader interests lie in the neural dynamics of language processing and social cognition, as studied using EEG and fMRI in bilingual populations.</p>
   </div>
 </div>
 
