@@ -5,84 +5,191 @@ permalink: /people/
 author_profile: true
 ---
 
-### 
+<style>
+.person {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid #eee;
+}
+.person img {
+  width: 160px;
+  min-width: 160px;
+  height: 200px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 6px;
+}
+.person-info h3 { margin-top: 0; margin-bottom: 4px; }
+.person-info .role { color: #555; font-size: 0.92em; margin-bottom: 4px; }
+.person-info .contact { font-size: 0.88em; color: #777; margin-bottom: 10px; }
+.person-info p { text-align: justify; margin-top: 0; font-size: 0.95em; }
+</style>
 
-### **Dipanjan Roy**
+## Principal Investigator
 
-### **Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science**
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2015/04/photo-on-9-27-14-at-11-44-am-2.jpg" alt="Dipanjan Roy">
+  <div class="person-info">
+    <h3>Dipanjan Roy</h3>
+    <p class="role">Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science, IIT Jodhpur<br>
+    Fellow of the National Academy of Sciences India (NASI)<br>
+    Adjunct Professor, National Brain Research Center, Manesar</p>
+    <p>Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks. <a href="http://www.nbrc.ac.in/newweb/research/groups/dipanjanroy">Read Full Bio</a></p>
+  </div>
+</div>
 
-### **Indian Institute of Technology Jodhpur**
+---
 
-**Fellow of the National Academy of Sciences India (NASI)** **Adjunct Professor, National Brain Research Center, Manesar**
+## PhD Students
 
-#### [![Photo on 9-27-14 at 11.44 AM 2](https://dipanjanr.com/wp-content/uploads/2015/04/photo-on-9-27-14-at-11-44-am-2.jpg?w=300)](https://dipanjanr.com/wp-content/uploads/2015/04/photo-on-9-27-14-at-11-44-am-2.jpg)
+<div class="person">
+  <img src="https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg" alt="Jeet Agnihotri">
+  <div class="person-info">
+    <h3>Jeet Agnihotri</h3>
+    <p class="role">Ph.D. student, CBSA School of AIDE</p>
+    <p class="contact">p24ai0201@iitj.ac.in</p>
+    <p>Jeet holds a B.E. in Information Technology from M.B.M. University, Jodhpur, and an M.Tech. from IIEST Shibpur. Driven by a deep interest in neurodiversity — particularly within the autism spectrum — she pivoted to computational neuroscience, where her work centres on understanding how brain organisation differs between typically and atypically developing individuals using functional MRI data.</p>
+  </div>
+</div>
 
-## **Principal Investigator - Dipanjan Roy**
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2019/02/azman.jpg" alt="Azman Akhtar">
+  <div class="person-info">
+    <h3>Azman Akhtar</h3>
+    <p class="role">Integrated Ph.D. student, NBRC</p>
+    <p class="contact">azman.b17@nbrc.ac.in</p>
+    <p>Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC. His research investigates the neural correlates of reading across different orthographies in multiliterate individuals, focusing on Hindi and Urdu — two orthographically distinct scripts for the same spoken language. His broader interests lie in the neural dynamics of language processing and social cognition using EEG and fMRI in bilingual populations.</p>
+  </div>
+</div>
 
-## **Dipanjan Roy currently leads a Cognitive and Computational Neuroscience group, focusing on understanding the representation of time scales, large-scale brain network dynamics, and brain connectivity alterations in attention, memory, perception, and multisensory integration. His lab primarily focuses on research areas related to Neuroimaging methods and data generation process during experiments, Brain Connectivity patterns in atypical neurodevelopment and aging, Multiscale computational modeling, EEG, MEG, fMRI, and behavioral studies about perceptual processing, multisensory speech perception, attention, and memory processing. The specific areas in which the group contributes to computational modeling, experiments, and stimulus design pertained to questions related to learning, Perceptual and sensory processing (visual and auditory), working and episodic memory, Aging, and Multisensory processing.**
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2023/08/photo-2.jpg" alt="Debottam Bhunia">
+  <div class="person-info">
+    <h3>Debottam Bhunia</h3>
+    <p class="role">Ph.D. Student, CBSA School of AIDE</p>
+    <p class="contact">p22ai203@iitj.ac.in</p>
+    <p>Debottam received his B.Tech in Electrical Engineering from NIT Durgapur and M.Tech in Power Electronics from IIT Dhanbad. Drawn by the complexity of the human brain, he steered his research interest towards computational neuroscience. His research centres on developing large-scale computational models of multisensory perception.</p>
+  </div>
+</div>
 
-## _PhD students_
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2020/05/img-20200309-wa0020.jpg" alt="Vinsea AV Singh">
+  <div class="person-info">
+    <h3>Vinsea AV Singh</h3>
+    <p class="role">Ph.D. student, NBRC</p>
+    <p class="contact">vinseab18@nbrc.ac.in</p>
+    <p>Vinsea is primarily interested in pre-stimulus neural oscillations to explain inter-individual and inter-trial variability in perception among participants subjected to the McGurk illusion. She studies differences in pre-stimulus EEG data between rare and frequent perceivers of the McGurk effect, elucidating how different brain regions drive multisensory perception and their distinct developmental trajectories.</p>
+  </div>
+</div>
 
-**Jeet Agnihotri (Ph.D. student, CBSA School of AIDE)****Contact: p24ai0201@iitj.ac.in** 
-[![](https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg?w=225)](https://dipanjanr.wordpress.com/wp-content/uploads/2025/09/whatsapp-image-2025-09-12-at-01.17.40.jpeg)
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2021/05/img-2819.jpg" alt="Ankit Yadav">
+  <div class="person-info">
+    <h3>Ankit Yadav</h3>
+    <p class="role">Ph.D. student</p>
+    <p class="contact">yadavankit99@gmail.com</p>
+    <p>Ankit studied zoology at bachelor's and master's level. He is investigating self and externally directed attention, the interaction between attention and working memory, and dissociation between self versus externally oriented attention using EEG and fMRI neuroimaging modalities. Apart from research, he likes to play chess.</p>
+  </div>
+</div>
 
-Jeet earned her B.E. in Information Technology from M.B.M. University, Jodhpur, followed by an M.Tech. in Information Technology from IIEST Shibpur, Howrah, West Bengal. Motivated by her interest in neurodiversity, particularly within the autism spectrum, she transitioned into the field of computational neuroscience. Her research focuses on characterizing network-level alterations between typically and atypically developing brains through the analysis of functional MRI (fMRI) data, to uncover connectivity patterns that underlie neurodevelopmental differences. 
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2024/02/whatsapp-image-2024-02-01-at-10.14.08-am.jpeg" alt="N Akhila">
+  <div class="person-info">
+    <h3>N Akhila</h3>
+    <p class="role">Ph.D. Student, CBSA School of AIDE</p>
+    <p class="contact">p23ai0001@iitj.ac.in</p>
+    <p>Akhila holds an M.Tech. in Data Science from Amrita Viswa Vidyapeetham and a B.Tech in Computer Science from Andhra University. Her research delves into the intricate dynamics of the brain using heart-brain coupling, using EEG, fMRI, and iEEG to contribute to a multimodal understanding of cognitive processes and their underlying physiological mechanisms.</p>
+  </div>
+</div>
 
-**Azman Akhtar (Integrated Ph.D. student )****Contact: azman.b17@nbrc.ac.in**
-![Azman](https://dipanjanr.com/wp-content/uploads/2019/02/azman.jpg)Azman did a BSc in Zoology from Aligarh Muslim University. He continued to do a PhD after an MSc in Neuroscience from NBRC itself. Currently, he is interested in understanding the neural correlates of reading in different orthographies by multiliterates and the underlying anatomical characteristics. He is utilizing the unique culture of North Indians to read and write two distinctly different orthographies, Hindi and Urdu, for the same language, Hindustani. His long-term interest is to understand the neural dynamics of language processing and social cognition in the brain, using EEG/fMRI in bilingual populations.
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2024/09/e2c213ed-fdcc-45d4-9449-872cc56bd836.jpeg" alt="Abinaya Vairam">
+  <div class="person-info">
+    <h3>Abinaya Vairam</h3>
+    <p class="role">Ph.D. Student, CBSA School of AIDE</p>
+    <p class="contact">p22ai001@iitj.ac.in</p>
+    <p>Abinaya is a working professional and part-time PhD student. Her research revolves around constructing whole-brain biologically annotated maps in developmental disorders, ASD, and ADHD using multimodal neuroimaging data and state-of-the-art AI/ML techniques for classification and prediction using both human and animal imaging data.</p>
+  </div>
+</div>
 
-**Debottam Bhunia (Ph.D. Student, CBSA School of AIDE)** **Contact: p22ai203@iitj.ac.in** ![Photo \(2\)](https://dipanjanr.com/wp-content/uploads/2023/08/photo-2.jpg)Debottam has received his B.Tech in electrical engineering from NIT Durgapur and M.Tech in power electronics and electrical drives from IIT Dhanbad. Riveting the complexity of the human brain, he has steered his research interest in computational neuroscience. His research area centres around developing the large-scale computational models of multisensory perception. **Vinsea AV Singh (Ph.D. student)** **Contact: vinseab18@nbrc.ac.in** ![IMG-20200309-WA0020](https://dipanjanr.com/wp-content/uploads/2020/05/img-20200309-wa0020.jpg)
+---
 
-Perception causes interaction among the neural entities. Vinsea is primarily interested in pre-stimulus neural oscillations to explain the inter-individual and inter-trial variability in perception among the participants subjected to the McGurk illusion (incongruent visual and auditory syllables perceived as a completely different syllable). More precisely, she is studying the differences in the pre-stimulus electrophysiological (EEG) data between the ‘rare’ and ‘frequent’ groups of perceivers of the McGurk effect. Her work focuses on elucidating the role of different brain regions driving multisensory perception and how these brain regions have distinct developmental trajectories leading to a difference in the degree of perception at the individual level.
+## MS and M.Tech Research Students
 
-**Ankit Yadav (Ph.D. student)** **Contact: yadavankit99@gmail.com** ![img-2819](https://dipanjanr.com/wp-content/uploads/2021/05/img-2819.jpg)Ankit studied zoology in his bachelor's and master's. Investigating self and externally directed attention, the interaction between attention and working memory, and dissociation between self versus externally oriented attention, particularly interested Ankit. He is exploring attention dynamics using EEG and fMRI neuroimaging modalities. Apart from research, he likes to play chess. **Kopal Rastogi (Ph.D. student, Computer Science)** **Jointly supervised with Dr.Dip Sankar Banerjee** **Contact: rastogi.1@iitj.ac.in/https://sites.google.com/view/krastogi![](https://mail.google.com/mail/u/0/images/cleardot.gif)**
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2024/09/3dede60a-c0af-4c57-96ea-a9037ed2984d.jpeg" alt="Shreya Deb">
+  <div class="person-info">
+    <h3>Shreya Deb</h3>
+    <p class="role">MS by Research (jointly with Dr. Vignesh Muralidharan, CBSA)</p>
+    <p class="contact">r23ab0002@iitj.ac.in</p>
+    <p>Shreya has a B.Tech in Electrical and Electronics Engineering from BIT Durg. She is currently pursuing an MS by Research at the Centre for Brain Science and Application, School of AIDE, IIT Jodhpur. She is fascinated by what sets the human brain apart from other creatures and how understanding it will help develop better artificial intelligence models.</p>
+  </div>
+</div>
 
-![kopal_rastogi_P20CS205](https://dipanjanr.com/wp-content/uploads/2024/03/kopal_rastogi_p20cs205.jpg)Kopal completed her Master's degree in Computer Science and Engineering from PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, India. She is passionate about bridging the realms of computer science and neuroscience, which in turn is driven by a profound curiosity about the workings of the human brain. She has embarked on a transformative journey into the emerging field of Neuro-AI, where cutting-edge technologies intersect with the complexities of the brain. Her main research interest is recognizing the patterns in the neural data leading to critical insights about human intelligence.
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2024/02/sireejaa.png" alt="Sireejaa Uppal">
+  <div class="person-info">
+    <h3>Sireejaa Uppal</h3>
+    <p class="role">M.Tech Research Student</p>
+    <p class="contact">m23cse023@iitj.ac.in</p>
+    <p>Sireejaa received her B.Tech in Computer Science Engineering from NIT Goa and is currently pursuing her M.Tech in CSE at IIT Jodhpur. Her research focuses on the intersection of data science and neurology, understanding brain functions and the phases of brain dynamics critical for cognitive processing using multimodal data fusion approaches.</p>
+  </div>
+</div>
 
-**N Akhila (Ph.D. Student, CBSA School of AIDE)** **Contact:![](https://mail.google.com/mail/u/0/images/cleardot.gif) p23ai0001@iitj.ac.in** ![WhatsApp Image 2024-02-01 at 10.14.08 AM](https://dipanjanr.com/wp-content/uploads/2024/02/whatsapp-image-2024-02-01-at-10.14.08-am.jpeg)Akhila did her M.Tech. in Data Science, Amrita Viswa Vidyapeetham, and B.Tech in Computer Science Engineering, AU College of Engineering, Andhra University. Her research revolves around the fascinating intersection of neuroscience and data science. Specifically, she is delving into the intricate dynamics of the brain using heart-brain coupling. In her research, she is using EEG, fMRI, and iEEG to contribute to a multimodal understanding of cognitive processes and their underlying physiological mechanisms. By leveraging multimodal data fusion techniques, she is working towards unveiling patterns and insights that can reveal distinct timescales of brain dynamics underlying cognitive processing. **Abinaya Vairam (Ph.D. Student, CBSA School of AIDE)** **Contact:![](https://mail.google.com/mail/u/0/images/cleardot.gif) p22ai001@iitj.ac.in** ![e2c213ed-fdcc-45d4-9449-872cc56bd836](https://dipanjanr.com/wp-content/uploads/2024/09/e2c213ed-fdcc-45d4-9449-872cc56bd836.jpeg)Abinaya is a working professional and part-time PhD student. Her research revolves around the fascinating intersection of neuroscience and AI/ML. Specifically, she is delving into constructing whole-brain biologically annotated maps in developmental disorders, ASD, and ADHD using multimodal neuroimaging data and state-of-the-art AI/ML techniques for classification and prediction. 
+<div class="person">
+  <img src="https://dipanjanr.com/wp-content/uploads/2024/09/07d547a4-0feb-4f2a-bedf-c29ec58f3830.jpeg" alt="Swatantra Dhara">
+  <div class="person-info">
+    <h3>Swatantra Dhara</h3>
+    <p class="role">MS by Research Student</p>
+    <p class="contact">r23ab0003@iitj.ac.in</p>
+    <p>Swatantra holds a B.Sc. in Biotechnology and a master's in Medical Biotechnology and Bioinformatics. He is currently pursuing his MS by Research at CBSA, School of AIDE, IIT Jodhpur. His research focuses on developing neuroscience methods to study episodic memory processing in naturalistic task conditions and investigating the role of aging in episodic memory dynamics.</p>
+  </div>
+</div>
 
-## **MS and M.Tech research students**
+---
 
-**Shreya Deb (M. by research student)****(Jointly with Dr.Vignesh Muralidharan CBSA)** **Contact: r23ab0002@iitj.ac.in** ![3dede60a-c0af-4c57-96ea-a9037ed2984d](https://dipanjanr.com/wp-content/uploads/2024/09/3dede60a-c0af-4c57-96ea-a9037ed2984d.jpeg) Shreya has done her B.Tech in Electrical and Electronics Engineering from BIT Durg. Currently, she is pursuing an MS(by Research) at the Centre for Brain Science and Application, School of AIDE from the Indian Institute of Technology, Jodhpur. How does the human brain work, what sets it apart from other creatures, and makes humans intelligent beings, and how exactly learning about these things will help develop better artificial intelligence models is what made her choose this field of study. 
+## Lab Alumni
 
-**Sireejaa Uppal (M.Tech research student)**
+| Name | Role | Current Position |
+|------|------|-----------------|
+| Govinda Surampudi | MS thesis | University of Maryland, Pessoa Lab |
+| Shruti Naik | MS thesis | PhD student, Neurospin France |
+| Vatika Harlalka | MS thesis | Facebook Research, USA & London |
+| Anirudh Vattikonda | MS thesis | Research Engineer (PhD), Aix-Marseille University |
+| Bikash Chandra Sahoo | Project Assistant | PhD student, University of Rochester, USA |
+| Moumita Das | Postdoctoral Research Associate | Assistant Professor, IIM Udaipur |
+| Amit Jaiswal | Project Assistant | PhD student, Aalto University, Finland |
+| Fahd Yazin | Project Assistant | University of Edinburgh |
+| Vivek Sharma | Project Assistant | Junior Researcher, Donders Institute, Radboud University |
+| Jasleen Gundh | Postdoctoral Fellow | — |
+| Rudradeep Mukherjee | Masters dissertation | University of Connecticut |
+| Priyanka Sigar | Project Assistant | PhD, Lucina Uddin Lab, UCLA |
+| Kusum Thuwal | Masters Dissertation | Hebrew University of Jerusalem |
+| Mrittika Dey | Masters Dissertation | Human Vision Lab, UCLouvain |
+| Indrajith Nair | PhD | Postdoctoral Researcher, UT Southwestern Medical Center |
+| Gargi Majumdar | PhD | Brigitte Roeder's Lab, University of Hamburg (Humboldt Fellow) |
+| Abhishek Narvaria | PhD | Ashoka University |
+| Alok Kumar Shukla | M.Tech thesis | — |
 
-**Contact: m23cse023@iitj.ac.in**
+---
 
-![Sireejaa](https://dipanjanr.com/wp-content/uploads/2024/02/sireejaa.png)Sireejaa has received her B.Tech in Computer Science Engineering from NIT Goa and is currently pursuing her M.Tech in CSE at IIT Jodhpur. Her research focuses on the intersection of data science and neurology, which is significant given the importance of their convergence. She is particularly interested in understanding the brain functions. At the same time, she is gaining insights into the phases of brain dynamics that are critical for cognitive processing and demonstrating patterns using multimodal data fusion approaches. 
+## Short-Term Visitors and Summer Interns
 
-**Swatantra Dhara (MS by research student)**
-
-****Contact: r23ab0003@iitj.ac.in****
-
-## ![07d547a4-0feb-4f2a-bedf-c29ec58f3830](https://dipanjanr.com/wp-content/uploads/2024/09/07d547a4-0feb-4f2a-bedf-c29ec58f3830.jpeg)
-
-Swatantra has received his B.Sc. honours in biotechnology and completed his master's in medical biotechnology and bioinformatics. He is currently pursuing his MS by research at CBSA, School of AIDE, IIT Jodhpur. His research focuses on developing neuroscience methods to study episodic memory processing in naturalistic task conditions and investigating the role of aging in episodic memory dynamics. 
-
-## 
-
-## **Lab Alumni**
-
-[gallery ids="351,286,220,73,538,540,544,803,801,539,800,785,906,907,806,1333,1335,904,1438,612,1415"] 
-
-### ****
-
-## **Short term visitors and summer interns**
-
-Vishal Verma 2024 IMSC Chennai Raj Mishra 2023 BS-MS dual degree IISER Bhopal Antarjot Kaur 2023 Undergraduate major in Psychology Thapar University Devanshi Singh 2023 Masters of Neuroscience University of Padua Italy Rishi Dey Chowdhury 2022 B.Stat ISI Kolkata Palak Sharma 2022 IIT Gandhinagar 
-
-Leesa Joyce 2020 IISER Mohali MSc Dissertation (Currently at LMU Munich)
-
-Titas Sil, IISER Bhopal, Summer Intern 2019 (Currently at University of Oregon, USA) 
-
-​Lipika Taneja IISER Mohali Summer Intern 2018
-
-Manasi Malik IIIT Delhi Summer Intern 2018 (PhD at Jhons Hopkins University, USA)
-
-Shrey Dutta (Project Assistant) Currently placed as a PhD student at University of Queensland, Australia
-
-Amba Khare (IIIT Allahabad) B.Tech IIIT Allahabad
-
-Himadri Agarwal (IIIT Allahabad) B.Tech IIIT Allahabad
-
-####
+| Name | Year | Institution |
+|------|------|-------------|
+| Vishal Verma | 2024 | IMSC Chennai |
+| Raj Mishra | 2023 | BS-MS IISER Bhopal |
+| Antarjot Kaur | 2023 | Thapar University |
+| Devanshi Singh | 2023 | University of Padua, Italy |
+| Rishi Dey Chowdhury | 2022 | ISI Kolkata |
+| Palak Sharma | 2022 | IIT Gandhinagar |
+| Leesa Joyce | 2020 | IISER Mohali (now LMU Munich) |
+| Titas Sil | 2019 | IISER Bhopal (now University of Oregon, USA) |
+| Lipika Taneja | 2018 | IISER Mohali |
+| Manasi Malik | 2018 | IIIT Delhi (PhD, Johns Hopkins University, USA) |
+| Shrey Dutta | — | Project Assistant (now PhD, University of Queensland, Australia) |
+| Amba Khare | — | IIIT Allahabad |
+| Himadri Agarwal | — | IIIT Allahabad |
