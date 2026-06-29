@@ -1,11 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://dipanjanr.com/</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
+
   <url>
     <loc>https://dipanjanr.com/about/</loc>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
   </url>
+
+  <url>
+    <loc>https://dipanjanr.com/dipanjans-bio/</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/lab-principles/</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/people-2/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/research-in-functional-neuroimaging-computational-modeling/</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/publications/</loc>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/recent-talks-and-presentation-in-conferences/</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/teaching/</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/ongoing-collaborations-national-and-international/</loc>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/current-open-positions-in-the-lab/</loc>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/software-data-and-lab-resources/</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/media-and-news/</loc>
+    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/lab-resources/</loc>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/contact/</loc>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://dipanjanr.com/2024/03/23/lab-recent-events-and-news/</loc>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>
