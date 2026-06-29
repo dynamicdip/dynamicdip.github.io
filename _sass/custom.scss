@@ -17,3 +17,38 @@
 .author__avatar img {
   object-fit: cover;
 }
+/* Dropdown menu fix */
+.greedy-nav .visible-links li:last-child ul.nav__sub-items {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  z-index: 9999;
+  background: #fff;
+  border: 1px solid #ddd;
+  min-width: 180px;
+  list-style: none;
+  padding: 0.5em 0;
+  margin: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.greedy-nav .visible-links li:last-child:hover ul.nav__sub-items {
+  display: block;
+}
+
+.greedy-nav .visible-links li:last-child ul.nav__sub-items li a {
+  display: block;
+  padding: 0.5em 1em;
+  white-space: nowrap;
+  color: #333;
+}
+
+.greedy-nav .visible-links li:last-child ul.nav__sub-items li a:hover {
+  background: #f5f5f5;
+  color: #000;
+}
+
+.greedy-nav .visible-links li:last-child > a::after {
+  content: " ▾";
+}
