@@ -1,41 +1,33 @@
-{% include base_path %}
-
-<!-- start custom head snippets -->
-
-<!-- Support for Academicons -->
-<link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></noscript>
-
-<!-- Support for Font Awesome -->
- <link rel="preload" href="{{ base_path }}/assets/css/fontawesome.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="{{ base_path }}/assets/css/fontawesome.css"></noscript>
-<link rel="stylesheet" href="{{ '/assets/css/navbar-fix.css' | relative_url }}">
-
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
-<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
-<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
-<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
-<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="var(--global-bg-color)"/>
 <style>
-  /* Larger circular avatar */
-  .author__avatar img {
-    max-width: 200px !important;
-    width: 200px !important;
-    height: 200px !important;
-    border-radius: 50% !important;
-    object-fit: cover !important;
-    display: block;
-    margin: 0 auto;
-  }
-
-  .author__avatar {
-    display: block !important;
-    text-align: center;
-    margin-bottom: 10px;
-  }
+/* Force all nav links visible, defeat greedy-nav JS */
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: static !important;
+  width: auto !important;
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+}
+.greedy-nav__toggle { display: none !important; }
 </style>
 
-<!-- end custom head snippets -->
+<script>
+// Disable greedy-nav overflow behaviour after page loads
+document.addEventListener('DOMContentLoaded', function() {
+  // Move all hidden links back to visible list
+  var visibleList = document.querySelector('.greedy-nav .visible-links');
+  var hiddenList = document.querySelector('.greedy-nav .hidden-links');
+  if (visibleList && hiddenList) {
+    while (hiddenList.children.length > 0) {
+      visibleList.appendChild(hiddenList.children[0]);
+    }
+  }
+  // Prevent greedy-nav from hiding links again
+  var toggle = document.querySelector('.greedy-nav__toggle');
+  if (toggle) toggle.style.display = 'none';
+});
+</script>
