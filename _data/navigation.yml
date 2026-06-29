@@ -1,33 +1,31 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Dipanjan's Bio"
+    url: /bio/
+  - title: "Lab Principles"
+    url: /lab-principles/
   - title: "People"
     url: /people/
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Doctoral Theses"
+    url: /theses/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Collaborations"
+    url: /collaborations/
   - title: "Open Positions"
     url: /positions/
+  - title: "Software & Data"
+    url: /software/
+  - title: "Media & News"
+    url: /news/
+  - title: "Lab Photos"
+    url: /photos/
   - title: "Contact"
     url: /contact/
-  - title: "More ▾"
-    children:
-      - title: "Dipanjan's Bio"
-        url: /bio/
-      - title: "Lab Principles"
-        url: /lab-principles/
-      - title: "Doctoral Theses"
-        url: /theses/
-      - title: "Talks"
-        url: /talks/
-      - title: "Teaching"
-        url: /teaching/
-      - title: "Collaborations"
-        url: /collaborations/
-      - title: "Software & Data"
-        url: /software/
-      - title: "Media & News"
-        url: /news/
-      - title: "Lab Photos"
-        url: /photos/
