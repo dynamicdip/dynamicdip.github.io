@@ -1,0 +1,34 @@
+// ============================================================
+// Force all 6 nav links to show in the top masthead bar.
+// Hides the "More ▾" overflow toggle button.
+//
+// STEP 1: Place this file at:  _sass/_navbar-fix.scss
+// STEP 2: In your repo, open:  assets/css/main.scss
+//         and add this line at the very end:
+//         @import "navbar-fix";
+// ============================================================
+
+// Always show the visible-links list — never collapse to "More"
+.greedy-nav .visible-links {
+  display: -webkit-box !important;
+  display: -ms-flexbox  !important;
+  display: flex         !important;
+  flex-wrap: wrap       !important;
+  align-items: center   !important;
+}
+
+// Hide the "More ▾" toggle button completely
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+// Hide the hidden/overflow dropdown (belt-and-suspenders)
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+// Tighten link spacing so all 6 links fit comfortably on one line
+.greedy-nav .visible-links a {
+  padding:   0.5em 0.65em !important;
+  font-size: 0.85em       !important;
+}
