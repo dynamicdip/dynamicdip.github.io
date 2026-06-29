@@ -1,11 +1,8 @@
 /* Two-row navigation menu */
-
-/* Make the masthead flexible and allow wrapping */
 .masthead__inner-wrap {
   flex-wrap: wrap !important;
 }
 
-/* Force nav to wrap into two rows */
 .greedy-nav {
   display: flex;
   flex-wrap: wrap;
@@ -13,7 +10,7 @@
 }
 
 .greedy-nav .visible-links {
-  display: flex;
+  display: flex !important;
   flex-wrap: wrap;
   width: 100%;
 }
@@ -22,7 +19,22 @@
   flex-shrink: 0;
 }
 
-/* Hide the hamburger toggle since we show all items */
+/* Also show any links the JS moved to the hidden list */
+.greedy-nav .hidden-links {
+  display: flex !important;
+  flex-wrap: wrap;
+  position: static !important;
+  box-shadow: none !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+.greedy-nav .hidden-links li a {
+  color: inherit;
+  padding: 0.5em 0.65em;
+}
+
+/* Hide the hamburger toggle */
 .greedy-nav__toggle {
   display: none !important;
 }
