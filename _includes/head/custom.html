@@ -10,12 +10,18 @@
 .greedy-nav .visible-links {
   overflow: visible !important;
   flex-wrap: nowrap !important;
+  display: flex !important;
+  align-items: center !important;
+}
+.greedy-nav .visible-links > li {
+  margin-right: 0 !important;
 }
 
 .has-dropdown {
   position: relative !important;
   display: inline-flex !important;
   align-items: center !important;
+  margin-left: 16px !important;
 }
 .has-dropdown .dropdown-btn {
   display: inline-block !important;
@@ -27,6 +33,7 @@
   font: inherit !important;
   cursor: pointer !important;
   white-space: nowrap !important;
+  padding: 0 !important;
 }
 .has-dropdown .dropdown-menu.open {
   display: block !important;
@@ -39,6 +46,7 @@
 #theme-toggle {
   display: inline-flex !important;
   align-items: center !important;
+  margin-left: 16px !important;
 }
 #theme-toggle a,
 #theme-toggle i {
