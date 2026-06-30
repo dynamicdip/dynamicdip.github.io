@@ -1,5 +1,4 @@
 <style>
-/* === FORCE NAV DROPDOWN AND THEME TOGGLE VISIBLE === */
 .greedy-nav__toggle {
   display: none !important;
 }
@@ -24,31 +23,29 @@
   font: inherit !important;
   cursor: pointer !important;
 }
+.has-dropdown .dropdown-menu.open {
+  display: block !important;
+}
+.has-dropdown .dropdown-menu.open li {
+  display: block !important;
+  width: 100% !important;
+}
 
 #theme-toggle {
   display: table-cell !important;
 }
-#theme-toggle a {
-  display: inline-flex !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  align-items: center !important;
-  padding: 0 12px !important;
-  color: #333 !important;
-  cursor: pointer !important;
-}
-#theme-icon {
+#theme-toggle a,
+#theme-toggle i {
   display: inline-block !important;
   visibility: visible !important;
   opacity: 1 !important;
   color: #333 !important;
-  font-size: 1.1em !important;
+  font-size: 1.2em !important;
 }
 </style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  // Ensure dropdown buttons have visible text even if template content is empty
   document.querySelectorAll('.has-dropdown .dropdown-btn').forEach(function (btn) {
     if (!btn.textContent.trim()) {
       btn.innerHTML = 'More <span class="dropdown-caret">▾</span>';
@@ -62,13 +59,11 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  // Ensure theme toggle icon exists even if empty
   var themeLink = document.querySelector('#theme-toggle a');
   if (themeLink && !themeLink.querySelector('i')) {
     themeLink.innerHTML = '<i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>';
   }
 
-  // Close dropdown when clicking outside
   document.addEventListener('click', function (e) {
     if (!e.target.closest('.has-dropdown')) {
       document.querySelectorAll('.dropdown-menu.open').forEach(function (m) {
