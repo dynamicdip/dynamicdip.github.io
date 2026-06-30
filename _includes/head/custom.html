@@ -44,4 +44,16 @@
   color: #333 !important;
   font-size: 1.2em !important;
 }
+  .masthead__menu-item.selected {
+  border-bottom: none !important;
+}
+.masthead__menu-item.selected a {
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+.masthead__menu-item.selected::after,
+.masthead__menu-item.selected::before {
+  display: none !important;
+  content: none !important;
+}
 </style>
