@@ -116,9 +116,11 @@ Roy, D., Sigala, R., Breakspear, M., McIntosh, A. R., Jirsa, V. K., Deco, G., & 
 
 ---
 
+![Figure_1](/images/research-figure-1.png)
+
 ## Brain state dependent neurostimulations, feedback and modulation of neurophysiological responses during multisensory perceptual processing and oscillatory BCI models
 
-Collective dynamics can create complex patterns of the population of neurons. Spiking dynamics occur on a fast time scale typically observed in-vivo in neuronal microcircuits and bursting dynamics occur on a much slower time scales. We study the behavior of large populations constrained by properties and the paucity of physical connections between the connected units and subtype of synapses. In this work, we build classes of models and apply machine learning principles such as gradient descent algorithm, multi-parametric search to infer the underlying model state space, biophysical mechanisms responsible for observed neuronal dynamics.
+Collective dynamics can create complex patterns of the population of neurons. Spiking dynamics occur on a fast time scale, typically observed in vivo in neuronal microcircuits, and bursting dynamics occur on a much slower time scale. We study the behavior of large populations constrained by properties and the paucity of physical connections between the connected units and the subtype of synapses. In this work, we build classes of models and apply machine learning principles such as the gradient descent algorithm, multi-parametric search to infer the underlying model state space, and biophysical mechanisms responsible for observed neuronal dynamics.
 
 ### *selected papers:*
 
