@@ -116,7 +116,7 @@ Roy, D., Sigala, R., Breakspear, M., McIntosh, A. R., Jirsa, V. K., Deco, G., & 
 
 ---
 
-![figure-1](/images/research-figure-1.png)
+![](/images/research-figure-1.png)
 
 ## Brain state dependent neurostimulations, feedback and modulation of neurophysiological responses during multisensory perceptual processing and oscillatory BCI models
 
