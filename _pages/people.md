@@ -107,6 +107,19 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
+<img src="/images/phd-arpit-shirmankar.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Arpit Shirmankar">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:15px;">Arpit Shirmankar</strong><br>
+<span style="color:#555; font-size:15px;">Ph.D. Student, CBSA School of AIDE &nbsp;|&nbsp; p23ai0001@iitj.ac.in</span><br><br>
+<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Arpit has completed his bachelor's and master's degrees in Biomedical Engineering. He is working on understanding the neuroscience of action control and attention modulation, aiming to develop computational models investigating action control. In his free time, he enjoys learning about spirituality and meditation, and spending time in nature with friends and family. (Joint Supervision with Dr. Vignesh Muralidharan).</span>
+</td>
+</tr>
+</table>
+
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
 <img src="/images/phd-abinaya-vairam.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Abinaya Vairam">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
@@ -129,7 +142,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Shreya Deb</strong><br>
 <span style="color:#555; font-size:15px;">MS by Research (jointly with Dr. Vignesh Muralidharan, CBSA) &nbsp;|&nbsp; r23ab0002@iitj.ac.in</span><br><br>
-<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Shreya has a B.Tech in Electrical and Electronics Engineering from BIT Durg. She is currently pursuing an MS by Research at the Centre for Brain Science and Application, School of AIDE, IIT Jodhpur. She is fascinated by what sets the human brain apart from other creatures and how understanding it will help develop better artificial intelligence models.</span>
+<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Shreya has a B.Tech in Electrical and Electronics Engineering from BIT Durg. She is currently pursuing an MS by Research at the Centre for Brain Science and Application, School of AIDE, IIT Jodhpur. She is fascinated by what sets the human brain apart from other creatures and how understanding it will help develop better artificial intelligence models(Joint Supervision with Dr. Vignesh Muralidharan).</span>
 </td>
 </tr>
 </table>
