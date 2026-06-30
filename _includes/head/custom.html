@@ -1,33 +1,14 @@
 <style>
-/* Force all nav links visible, defeat greedy-nav JS */
-.greedy-nav .visible-links,
-.greedy-nav .hidden-links {
-  display: flex !important;
-  flex-wrap: wrap !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  position: static !important;
-  width: auto !important;
-  box-shadow: none !important;
-  border: none !important;
-  background: transparent !important;
+/* Disable greedy-nav auto-collapse JS behavior entirely.
+   We rely on navigation.yml's manual "More" dropdown instead. */
+.greedy-nav__toggle {
+  display: none !important;
 }
-.greedy-nav__toggle { display: none !important; }
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+.greedy-nav .visible-links {
+  overflow: visible !important;
+  flex-wrap: wrap;
+}
 </style>
-
-<script>
-// Disable greedy-nav overflow behaviour after page loads
-document.addEventListener('DOMContentLoaded', function() {
-  // Move all hidden links back to visible list
-  var visibleList = document.querySelector('.greedy-nav .visible-links');
-  var hiddenList = document.querySelector('.greedy-nav .hidden-links');
-  if (visibleList && hiddenList) {
-    while (hiddenList.children.length > 0) {
-      visibleList.appendChild(hiddenList.children[0]);
-    }
-  }
-  // Prevent greedy-nav from hiding links again
-  var toggle = document.querySelector('.greedy-nav__toggle');
-  if (toggle) toggle.style.display = 'none';
-});
-</script>
