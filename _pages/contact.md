@@ -28,7 +28,7 @@ author_profile: true
   <div style="flex:1; min-width:280px;">
     <h2>Find Our Lab</h2>
 <iframe
-src="https://www.google.com/maps/place/CBSA+Lab/@26.4719143,73.1078429,17z/data=!3m1!4b1!4m6!3m5!1s0x3941ebcded3dfbaf:0xf4015205c9859596!8m2!3d26.4719095!4d73.1104178!16s%2Fg%2F11trrpwnp3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3568.5!2d73.1104178!3d26.4719095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3941ebcded3dfbaf%3A0xf4015205c9859596!2sCBSA%20Lab!5e0!3m2!1sen!2sin!4v1700000000000"
   width="100%"
   height="400"
   style="border:0; border-radius:8px;"
