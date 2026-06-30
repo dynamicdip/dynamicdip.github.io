@@ -138,7 +138,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/ms-swatantra-dhara.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
+<img src="/images/ms-swatantra-dhara.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Swatantra Dhara</strong><br>
