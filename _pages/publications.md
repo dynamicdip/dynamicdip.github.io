@@ -15,11 +15,11 @@ author_profile: true
 
 ### **2026**
 
-* Akhila, N., & Ekbal, A., **Roy, D._**† (2026). MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers*. **doi:**  [10.64898/2026.07.03.26357258]([https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3](https://www.medrxiv.org/content/10.64898/2026.07.03.26357258v1))
+* Akhila, N., & Ekbal, A., **Roy, D._**† (2026). MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers*. **doi:**  [10.64898/2026.07.03.26357258]([https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3]<https://www.medrxiv.org/content/10.64898/2026.07.03.26357258v1>)
   
 * **Roy, D._**†**_**, & Banerjee, A. (2026). Competition in the brain: a conserved principle with lifespan consequences.*Nature Communications Biology*.
 
-* Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844][https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3] (Accepted in *Imaging Neuroscience*)
+* Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844]<https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3> (Accepted in *Imaging Neuroscience*)
 * Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
 
 * Yadav, A., Banerjee, A., & **Roy, D._**†**_** (2026). Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition. *Frontiers in Human Neuroscience*, 20, 1791453.
