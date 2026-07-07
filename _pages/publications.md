@@ -19,7 +19,7 @@ author_profile: true
   
 * **Roy, D._**†**_**, & Banerjee, A. (2026). Competition in the brain: a conserved principle with lifespan consequences.*Nature Communications Biology*.
 
-* Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844](https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3) (Accepted in *Imaging Neuroscience*)
+* Saluja, Kirti, **Dipanjan Roy** , and Arpan Banerjee. "When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing" _bioRxiv_  (2025): 2024-05. **doi:**  [https://doi.org/10.1101/2024.05.31.596844][https://www.biorxiv.org/content/10.1101/2024.05.31.596844v3] (Accepted in *Imaging Neuroscience*)
 * Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D._**†**_** (2026). Aging increases orbitofrontal neural volatility during affective inference. *Cerebral Cortex*, 36(4), bhag053.
 
 * Yadav, A., Banerjee, A., & **Roy, D._**†**_** (2026). Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition. *Frontiers in Human Neuroscience*, 20, 1791453.
