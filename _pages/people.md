@@ -183,10 +183,11 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Priyanka Sigar</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">PhD, Lucina Uddin Lab, UCLA</td></tr>
 <tr><td style="border:none; padding:6px 12px;">Kusum Thuwal</td><td style="border:none; padding:6px 12px;">Masters Dissertation</td><td style="border:none; padding:6px 12px;">Hebrew University of Jerusalem</td></tr>
 <tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Mrittika Dey</td><td style="border:none; padding:6px 12px;">Masters Dissertation</td><td style="border:none; padding:6px 12px;">Human Vision Lab, UCLouvain</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Alok Kumar Shukla</td><td style="border:none; padding:6px 12px;">M.Tech thesis</td><td style="border:none; padding:6px 12px;">—</td></tr>
 <tr><td style="border:none; padding:6px 12px;">Indrajith Nair</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Postdoctoral Researcher, UT Southwestern Medical Center</td></tr>
 <tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Gargi Majumdar</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Brigitte Roeder's Lab, University of Hamburg (Humboldt Fellow)</td></tr>
 <tr><td style="border:none; padding:6px 12px;">Abhishek Narvaria</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Ashoka University</td></tr>
-<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Alok Kumar Shukla</td><td style="border:none; padding:6px 12px;">M.Tech thesis</td><td style="border:none; padding:6px 12px;">—</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Km Bhavna</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;"> Assistant Professor, Dept of CSE, IIIT Kota</td></tr>
 </table>
 
 <hr style="margin: 8px 0 16px 0;">
