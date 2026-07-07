@@ -15,7 +15,7 @@ author_profile: true
 
 ### **2026**
 
-* Akhila, N., & Ekbal, A., **Roy, D._**† (2026). MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers*. **doi:**  [10.64898/2026.07.03.26357258] <https://www.biorxiv.org/content/10.1101/2022.01.20.477172v2> 
+* Akhila, N., & Ekbal, A., **Roy, D._**† (2026). MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers*. **doi:**  [https://DOI: 10.64898/2026.07.03.26357258] <https://www.medrxiv.org/content/10.64898/2026.07.03.26357258v1> 
   
 * **Roy, D._**†**_**, & Banerjee, A. (2026). Competition in the brain: a conserved principle with lifespan consequences.*Nature Communications Biology*.
 
