@@ -9,8 +9,8 @@ author_profile: true
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/pi-dipanjan-roy.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Dipanjan Roy">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/pi-dipanjan-roy.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Dipanjan Roy">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Dipanjan Roy</strong><br>
@@ -28,8 +28,8 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-Debarpita-Barman.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Debarpita Barman">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-Debarpita-Barman.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Debarpita Barman">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Debarpita Barman</strong><br>
@@ -41,8 +41,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 </table>
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-jeet-agnihotri.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Jeet Agnihotri">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-jeet-agnihotri.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Jeet Agnihotri">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Jeet Agnihotri</strong><br>
@@ -54,8 +54,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-azman-akhtar.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Azman Akhtar">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-azman-akhtar.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Azman Akhtar">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Azman Akhtar</strong><br>
@@ -67,8 +67,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-debottam-bhunia.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Debottam Bhunia">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-debottam-bhunia.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Debottam Bhunia">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Debottam Bhunia</strong><br>
@@ -80,8 +80,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-vinsea-singh.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Vinsea AV Singh">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-vinsea-singh.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Vinsea AV Singh">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Vinsea AV Singh</strong><br>
@@ -93,8 +93,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-ankit-yadav.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Ankit Yadav">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-ankit-yadav.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Ankit Yadav">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Ankit Yadav</strong><br>
@@ -106,8 +106,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-n-akhila.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="N Akhila">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-n-akhila.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="N Akhila">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">N Akhila</strong><br>
@@ -119,8 +119,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-arpit-shirmankar.jpg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Arpit Shirmankar">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-arpit-shirmankar.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Arpit Shirmankar">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Arpit Shirmankar</strong><br>
@@ -132,8 +132,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/phd-abinaya-vairam.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Abinaya Vairam">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-abinaya-vairam.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Abinaya Vairam">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Abinaya Vairam</strong><br>
@@ -149,8 +149,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/ms-shreya-deb.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Shreya Deb">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/ms-shreya-deb.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Shreya Deb">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Shreya Deb</strong><br>
@@ -163,8 +163,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
-<td style="border:none; vertical-align:top; padding:0 20px 0 0; width:170px;">
-<img src="/images/ms-swatantra-dhara.jpeg" style="width:150px; height:190px; object-fit:cover; object-position:top; border-radius:6px;" alt="Swatantra Dhara">
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/ms-swatantra-dhara.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Swatantra Dhara">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Swatantra Dhara</strong><br>
@@ -232,3 +232,8 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Amba Khare</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
 <tr><td style="border:none; padding:6px 12px;">Himadri Agarwal</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
 </table>
+
+
+
+
+
