@@ -60,7 +60,7 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Azman Akhtar</strong><br>
 <span style="color:#555; font-size:15px;">Integrated Ph.D. student, NBRC &nbsp;|&nbsp; azman.b17@nbrc.ac.in</span><br><br>
-<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC. His research investigates the neural correlates of reading across different orthographies in multiliterate individuals, focusing on Hindi and Urdu — two orthographically distinct scripts for the same spoken language. His broader interests lie in the neural dynamics of language processing and social cognition using EEG and fMRI in bilingual populations.</span>
+<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC.  He completed his Master's dissertation at NBRC studying visual word recognition between two orthographies in an Indian sub-population that can write the same language, Hindustani, in two different ways, Hindi and Urdu. Currently, Azman investigates how traits like Extraversion or Neuroticism shape the way our brains align or diverge during real-world experiences. For his PhD thesis, he uses naturalistic fMRI, the Big-Five personality model, intersubject BOLD synchrony measures, and Intersubject Representational Analysis with Anna-Karenina similarity model. Specifically, a novel multidimensional AK to track how personality as a whole dynamically manifests while people watch movies. On the side, he likes investigating nuances in the BOLD-driven proxies of neuronal activities, specifically that of different intersubject synchronies like ISC, ISPS, functional alignment, and how they may differently capture the stimulus-related activity. Outside research, one can find him at the badminton court, lost in nature, or deep in conversations about cultures, beliefs, and the quirks of human bias, much like his bias towards cats. (Joint Supervision with Prof. Arpan Banerjee, NBRC).)</span>
 </td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Vinsea AV Singh</strong><br>
 <span style="color:#555; font-size:15px;">Ph.D. student, NBRC &nbsp;|&nbsp; vinseab18@nbrc.ac.in</span><br><br>
-<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Vinsea is primarily interested in pre-stimulus neural oscillations to explain inter-individual and inter-trial variability in perception among participants subjected to the McGurk illusion. She studies differences in pre-stimulus EEG data between rare and frequent perceivers of the McGurk effect, elucidating how different brain regions drive multisensory perception and their distinct developmental trajectories.</span>
+<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Vinsea is primarily interested in pre-stimulus neural oscillations to explain inter-individual and inter-trial variability in perception among participants subjected to the McGurk illusion. She studies differences in pre-stimulus EEG data between rare and frequent perceivers of the McGurk effect, elucidating how different brain regions drive multisensory perception and their distinct developmental trajectories. (Joint Supervision with Prof. Arpan Banerjee, NBRC).</span>
 </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Ankit Yadav</strong><br>
 <span style="color:#555; font-size:15px;">Ph.D. student &nbsp;|&nbsp; yadavankit99@gmail.com</span><br><br>
-<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Ankit studied zoology at bachelor's and master's level. He is investigating self and externally directed attention, the interaction between attention and working memory, and dissociation between self versus externally oriented attention using EEG and fMRI neuroimaging modalities. Apart from research, he likes to play chess.</span>
+<span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Ankit studied zoology at bachelor's and master's levels. He is investigating self- and externally directed attention, the interaction between attention and working memory, and dissociation between self versus externally oriented attention using EEG and fMRI neuroimaging modalities. Apart from research, he likes to play chess.(Joint Supervision with Prof. Arpan Banerjee, NBRC)</span>
 </td>
 </tr>
 </table>
