@@ -232,8 +232,3 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Amba Khare</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
 <tr><td style="border:none; padding:6px 12px;">Himadri Agarwal</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
 </table>
-
-
-
-
-
