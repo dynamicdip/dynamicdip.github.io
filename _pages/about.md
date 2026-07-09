@@ -5,6 +5,28 @@ permalink: /about/
 author_profile: true
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+.about-content, .about-content * {
+  font-family: 'Quicksand', sans-serif !important;
+}
+.about-content h2 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.about-content p, .about-content li {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #333;
+}
+.about-content strong {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+</style>
+
+<div class="about-content" markdown="1">
+
 ## Welcome to the Cognitive Brain Dynamics Lab
 
 The Cognitive Brain Dynamics Lab (CBDL) is now running from two places! While some of our team continue their work at NBRC, we've a fully functioning lab at IIT Jodhpur, in the Center for Brain Science and Applications — part of the new School of Artificial Intelligence and Data Science.
@@ -38,12 +60,12 @@ There is no risk involved and you will help us discover the mystery of brain fun
 Our research is generously supported by:
 
 <div class="logo-grid">
-  <img src="/images/dst.png" alt="Department of Science and Technology">
-  <img src="/images/serb.png" alt="Science and Engineering Research Board">
-  <img src="/images/dbt.png" alt="Department of Biotechnology">
-  <img src="/images/mhrd.png" alt="Ministry of Human Resource and Development">
-  <img src="/images/iitj.jpg" alt="IIT Jodhpur">
-  <img src="/images/anrf.png" alt="Anusandhan National Research Foundation">
+  <img src="/images/logos/dst.png" alt="Department of Science and Technology">
+  <img src="/images/logos/serb.png" alt="Science and Engineering Research Board">
+  <img src="/images/logos/dbt.png" alt="Department of Biotechnology">
+  <img src="/images/logos/mhrd.png" alt="Ministry of Human Resource and Development">
+  <img src="/images/logos/iitj.png" alt="IIT Jodhpur">
+  <img src="/images/logos/anrf.png" alt="Anusandhan National Research Foundation">
 </div>
 
 <style>
@@ -69,3 +91,5 @@ Our research is generously supported by:
   }
 }
 </style>
+
+</div>
