@@ -69,26 +69,21 @@ Our research is generously supported by:
 </div>
 
 <style>
-.logo-grid {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 3rem;
-  padding: 2rem 0;
+.about-content, .about-content * {
+  font-family: 'Quicksand', sans-serif !important;
 }
-.logo-grid img {
-  max-height: 110px;
-  max-width: 260px;
-  width: auto;
-  height: auto;
-  object-fit: contain;
+.about-content h2 {
+  font-weight: 700;
+  color: #1a1a1a;
 }
-@media (max-width: 600px) {
-  .logo-grid img {
-    max-height: 70px;
-    max-width: 160px;
-  }
+.about-content p, .about-content li {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+.about-content strong {
+  font-weight: 600;
+  color: #1a1a1a;
 }
 </style>
 
