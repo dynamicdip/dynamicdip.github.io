@@ -33,12 +33,39 @@ There is no risk involved and you will help us discover the mystery of brain fun
 
 ---
 
-## Funding Sources
+## Funding & Collaborating Partners
 
 Our research is generously supported by:
 
-- **Department of Science and Technology (DST)**
-- **Science and Engineering Research Board (SERB)**
-- **Department of Biotechnology (DBT)**
-- **Ministry of Human Resource and Development (MHRD)**
-- **IIT Jodhpur Core Funding**
+<div class="logo-grid">
+  <img src="/images/logos/dst.png" alt="Department of Science and Technology">
+  <img src="/images/logos/serb.png" alt="Science and Engineering Research Board">
+  <img src="/images/logos/dbt.png" alt="Department of Biotechnology">
+  <img src="/images/logos/mhrd.png" alt="Ministry of Human Resource and Development">
+  <img src="/images/logos/iitj.png" alt="IIT Jodhpur">
+  <img src="/images/logos/anrf.png" alt="Anusandhan National Research Foundation">
+</div>
+
+<style>
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  padding: 1.5rem 0;
+}
+.logo-grid img {
+  max-height: 70px;
+  max-width: 160px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+@media (max-width: 600px) {
+  .logo-grid img {
+    max-height: 50px;
+    max-width: 120px;
+  }
+}
+</style>
