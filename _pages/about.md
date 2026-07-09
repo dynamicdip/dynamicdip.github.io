@@ -5,18 +5,19 @@ permalink: /about/
 author_profile: true
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 .about-content, .about-content * {
-  font-family: 'Quicksand', sans-serif !important;
+  font-family: 'Comfortaa', sans-serif !important;
 }
 .about-content h2 {
   font-weight: 700;
   color: #1a1a1a;
 }
 .about-content p, .about-content li {
-  font-size: 15px;
-  line-height: 1.8;
+  font-size: 18.67px;
+  font-weight: 300;
+  line-height: 1.6;
   color: #333;
 }
 .about-content strong {
@@ -60,30 +61,35 @@ There is no risk involved and you will help us discover the mystery of brain fun
 Our research is generously supported by:
 
 <div class="logo-grid">
-  <img src="/images/dst.png" alt="Department of Science and Technology">
-  <img src="/images/serb.png" alt="Science and Engineering Research Board">
-  <img src="/images/dbt.png" alt="Department of Biotechnology">
-  <img src="/images/mhrd.png" alt="Ministry of Human Resource and Development">
-  <img src="/images/iitj.jpg" alt="IIT Jodhpur">
-  <img src="/images/anrf.png" alt="Anusandhan National Research Foundation">
+  <img src="/images/logos/dst.png" alt="Department of Science and Technology">
+  <img src="/images/logos/serb.png" alt="Science and Engineering Research Board">
+  <img src="/images/logos/dbt.png" alt="Department of Biotechnology">
+  <img src="/images/logos/mhrd.png" alt="Ministry of Human Resource and Development">
+  <img src="/images/logos/iitj.png" alt="IIT Jodhpur">
+  <img src="/images/logos/anrf.png" alt="Anusandhan National Research Foundation">
 </div>
 
 <style>
-.about-content, .about-content * {
-  font-family: 'Quicksand', sans-serif !important;
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  padding: 2rem 0;
 }
-.about-content h2 {
-  font-weight: 700;
-  color: #1a1a1a;
+.logo-grid img {
+  max-height: 110px;
+  max-width: 260px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
 }
-.about-content p, .about-content li {
-  font-size: 16px;
-  line-height: 1.6;
-  color: #333;
-}
-.about-content strong {
-  font-weight: 600;
-  color: #1a1a1a;
+@media (max-width: 600px) {
+  .logo-grid img {
+    max-height: 70px;
+    max-width: 160px;
+  }
 }
 </style>
 
