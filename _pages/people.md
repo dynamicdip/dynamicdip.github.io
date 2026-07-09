@@ -33,7 +33,7 @@ Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:15px;">Debarpita Barman</strong><br>
-<span style="color:#555; font-size:15px;">Ph.D. student, CBSA School of AIDE &nbsp;|&nbsp; p24ai0201@iitj.ac.in</span><br><br>
+<span style="color:#555; font-size:15px;">Ph.D. student, CBSA School of AIDE &nbsp;|&nbsp; p25ai0202@iitj.ac.in</span><br><br>
 <span style="text-align:justify; display:block; font-size:15px; line-height:1.6;">Debarpita Barman did her BSc in physics honours from Siliguri College, University of North Bengal, and MSc in physics from Visva-bharati. 
 She has a deep interest in Nonlinear Dynamics and studying the whole brain dynamics using computational models to understand brain dynamics and information processing in the neural circuits during sensory processing. </span>
 </td>
