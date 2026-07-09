@@ -74,20 +74,20 @@ Our research is generously supported by:
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 2.5rem;
-  padding: 1.5rem 0;
+  gap: 3rem;
+  padding: 2rem 0;
 }
 .logo-grid img {
-  max-height: 70px;
-  max-width: 160px;
+  max-height: 110px;
+  max-width: 260px;
   width: auto;
   height: auto;
   object-fit: contain;
 }
 @media (max-width: 600px) {
   .logo-grid img {
-    max-height: 50px;
-    max-width: 120px;
+    max-height: 70px;
+    max-width: 160px;
   }
 }
 </style>
