@@ -5,10 +5,10 @@ permalink: /people/
 author_profile: true
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 .people-content, .people-content * {
-  font-family: 'Quicksand', sans-serif !important;
+  font-family: 'Comfortaa', sans-serif !important;
 }
 .people-content h2 {
   font-weight: 700;
