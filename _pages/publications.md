@@ -5,6 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+.publications-content, .publications-content * {
+  font-family: 'Comfortaa', sans-serif !important;
+}
+.publications-content h2 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.publications-content h3 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.publications-content p, .publications-content li {
+  font-size: 18.67px;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #333;
+}
+.publications-content strong {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+</style>
+
+<div class="publications-content" markdown="1">
+
 ## **Publications | Dipanjan Roy**
 
 ###  [[Google Scholar Profile]](http://scholar.google.co.in/citations?user=9Z9gTzEAAAAJ&hl=en) [[PubFact Bibliography] ](http://www.pubfacts.com/author/Dipanjan+Roy)[[Frontiers Profile]](http://loop.frontiersin.org/people/51193/overview)**** ****
@@ -202,3 +229,5 @@ _Generalized Lorenz models and their routes to chaos. III. Energy-conserving hor
 _Generalized Lorenz models and their routes to chaos. I. Energy-conserving vertical mode truncations. (Dipanjan Roy and Z.E.Musielak) Chaos, Solitons & Fractals, Volume 32, Issue 3, May 2007, Pages 1038-1052._
 
 _Generalized Lorenz models and their routes to chaos. II. Energy-conserving horizontal mode truncations. (Dipanjan Roy and Z.E.Musielak) Chaos, Solitons & Fractals, Volume 31, Issue 3, February 2007, Pages 747-756._
+
+</div>
