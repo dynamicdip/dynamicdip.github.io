@@ -5,6 +5,33 @@ permalink: /research/
 author_profile: true
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+.research-content, .research-content * {
+  font-family: 'Comfortaa', sans-serif !important;
+}
+.research-content h2 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.research-content h3 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.research-content p, .research-content li {
+  font-size: 18.67px;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #333;
+}
+.research-content strong {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+</style>
+
+<div class="research-content" markdown="1">
+
 ## Brain Aging, Brain health, and neurocompensatory mechanisms in large-scale brain network dynamics and cognitive functions (attention, perception, memory, and emotion)
 
 ![Presentation2](/images/research-presentation2.png)
@@ -144,3 +171,5 @@ Mohit H. Adhikari, Pascale P. Quilchini, Dipanjan Roy, Viktor K. Jirsa, Christop
 - **Department of Science and Technology (DST)** Cognitive Science Research Initiative, Govt. of India
 - **Department of Science and Technology (DST)**
 - **NBRC and IIT Jodhpur core**
+
+</div>
