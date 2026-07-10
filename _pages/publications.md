@@ -34,7 +34,9 @@ author_profile: true
   text-align: center;
 }
 </style>
-
+<div style="width: 100%; max-height: 320px; overflow: hidden; margin-bottom: 30px; border-radius: 8px;">
+  <img src="/images/research-presentation2.png" alt="Research Banner" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+</div>
 <div class="publications-content" markdown="1">
 
 ## Publications | Dipanjan Roy
