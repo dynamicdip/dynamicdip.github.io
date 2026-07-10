@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: /images/research-presentation2.png
+  overlay_image: ![Presentation2](/images/research-presentation2.png)
   overlay_filter: 0.5
 ---
 
