@@ -145,8 +145,7 @@ author_profile: true
 <a href="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" target="_blank"><img src="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/mp-4-1.jpeg" target="_blank"><img src="/images/mp-4-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" target="_blank"><img src="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/lab2_orig.jpeg" target="_blank"><img src="/images/lab2_orig.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-</div>
+
 
 **Brain Modes International Conference 2017**
 
