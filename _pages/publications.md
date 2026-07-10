@@ -9,14 +9,6 @@ header:
   caption: "Brain network dynamics across the lifespan"
 ---
 
-<style>
-.page__hero--overlay .page__title,
-.page__hero--overlay .page__lead {
-  width: 100%;
-  text-align: center;
-}
-</style>
-
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 .publications-content, .publications-content * {
