@@ -3,9 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-header:
-  overlay_image: ![Presentation2](/images/research-presentation2.png)
-  overlay_filter: 0.5
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
