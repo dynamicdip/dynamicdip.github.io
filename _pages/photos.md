@@ -31,7 +31,7 @@ author_profile: true
 
 **BrainDy 2026 Udaipur Rajasthan**
 
-[![](/images/Braindy26%20-%201.jpeg)](/images/Braindy26%20-%201.jpeg) [![](/images/Braindy26%20-%202.jpeg)](/images/Braindy26%20-%202.jpeg) [![](/images/Braindy26%20-%203.jpeg)](/images/Braindy26%20-%203.jpeg) [![](/images/Braindy26%20-%204.jpeg)](/images/Braindy26%20-%204.jpeg) [![](/images/Braindy26%20-%205.jpeg)](/images/Braindy26%20-%205.jpeg) [![](/images/Braindy26%20-%206.jpeg)](/images/Braindy26%20-%206.jpeg) [![](/images/Braindy26%20-%207.jpeg)](/images/Braindy26%20-%207.jpeg) [![](/images/Braindy26%20-%208.jpeg)](/images/Braindy26%20-%208.jpeg) [![](/images/Braindy26%20-%209.jpeg)](/images/Braindy26%20-%209.jpeg)
+[![](/images/Braindy26%20-%201.jpg)](/images/Braindy26%20-%201.jpg) [![](/images/Braindy26%20-%202.jpg)](/images/Braindy26%20-%202.jpg) [![](/images/Braindy26%20-%203.jpg)](/images/Braindy26%20-%203.jpg) [![](/images/Braindy26%20-%204.jpeg)](/images/Braindy26%20-%204.jpeg) [![](/images/Braindy26%20-%205.jpg)](/images/Braindy26%20-%205.jpg) [![](/images/Braindy26%20-%206.jpg)](/images/Braindy26%20-%206.jpg) [![](/images/Braindy26%20-%207.jpg)](/images/Braindy26%20-%207.jpg) [![](/images/Braindy26%20-%208.jpg)](/images/Braindy26%20-%208.jpg) [![](/images/Braindy26%20-%209.jpg)](/images/Braindy26%20-%209.jpg)
 
 [![](/images/Braindy26%20-%2036.jpeg)](/images/Braindy26%20-%2036.jpeg) [![](/images/Braindy26%20-%2037.jpeg)](/images/Braindy26%20-%2037.jpeg) [![](/images/Braindy26%20-%2038.jpeg)](/images/Braindy26%20-%2038.jpeg) [![](/images/Braindy26%20-%2039.jpeg)](/images/Braindy26%20-%2039.jpeg) [![](/images/Braindy26%20-%2040.jpeg)](/images/Braindy26%20-%2040.jpeg)
 
