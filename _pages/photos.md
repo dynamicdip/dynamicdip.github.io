@@ -77,11 +77,9 @@ author_profile: true
 <div class="photo-gallery">
 <a href="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" target="_blank"><img src="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/7a71d0b9-1189-4466-8301-aa34c13385d9.jpeg" target="_blank"><img src="/images/7a71d0b9-1189-4466-8301-aa34c13385d9.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/031b0dc2-8bde-41a7-865e-87e4460e3ad9.jpeg" target="_blank"><img src="/images/031b0dc2-8bde-41a7-865e-87e4460e3ad9.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/81d1735c-ae14-4cf1-8d60-14d66a14c59a.jpeg" target="_blank"><img src="/images/81d1735c-ae14-4cf1-8d60-14d66a14c59a.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/301ced8f-fe0a-4cd2-8be1-edf452c00c83.jpeg" target="_blank"><img src="/images/301ced8f-fe0a-4cd2-8be1-edf452c00c83.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/0687c133-f66d-43bd-b8cf-3fea46b18a2f.jpeg" target="_blank"><img src="/images/0687c133-f66d-43bd-b8cf-3fea46b18a2f.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/884897fe-bb7e-4414-9555-9bed49e89e4b.jpeg" target="_blank"><img src="/images/884897fe-bb7e-4414-9555-9bed49e89e4b.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/a8e4a020-54ad-4ebd-9755-7db78d4a2073.jpeg" target="_blank"><img src="/images/a8e4a020-54ad-4ebd-9755-7db78d4a2073.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 <a href="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" target="_blank"><img src="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 </div>
