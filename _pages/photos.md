@@ -70,7 +70,6 @@ author_profile: true
 <a href="/images/Braindy26%20-%2040.jpeg" target="_blank"><img src="/images/Braindy26%20-%2040.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 </div>
 
-###  **2024 CBSA School of AIDE IITJ LAB MEETING**
 
 **PhD thesis defense and lab gathering at IIT Jodhpur 2025**
 
@@ -84,14 +83,14 @@ author_profile: true
 <a href="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" target="_blank"><img src="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 </div>
 
-**2024 CBDL IIT Jodhpur, NBRC, and Ashoka University together on a Lab Trip to Mukteshwar, Nainital district of Uttarakhand**
 
+###  **2024 CBSA School of AIDE IITJ LAB Photos**
 <div class="photo-gallery">
 <a href="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" target="_blank"><img src="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
 <a href="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" target="_blank"><img src="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
 </div>
 
-**Lab gathering in Jodhpur and Gurgaon 2024**
+**2024 CBDL IIT Jodhpur, NBRC, and Ashoka University together on a Lab Trip to Mukteshwar, Nainital district of Uttarakhand**
 
 <div class="photo-gallery">
 <a href="/images/img_3346-2.jpg" target="_blank"><img src="/images/img_3346-2.jpg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
@@ -104,7 +103,7 @@ author_profile: true
 <a href="/images/img_3951.jpeg" target="_blank"><img src="/images/img_3951.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
 </div>
 
-**PhD thesis defense and lab gathering at NBRC 2024**
+**Lab gathering of CBDL members in Jodhpur and Gurgaon 2024**
 
 <div class="photo-gallery">
 <a href="/images/photo-2024-01-09-14-20-26-1.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-26-1.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
@@ -113,7 +112,7 @@ author_profile: true
 <a href="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" target="_blank"><img src="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
 </div>
 
-**Lab Trip to McLeodganj, Himachal Pradesh 2020**
+**PhD Thesis defense of CBDL lab members**
 
 <div class="photo-gallery">
 <a href="/images/1705571278005.jpeg" target="_blank"><img src="/images/1705571278005.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
@@ -128,7 +127,7 @@ author_profile: true
 <a href="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" target="_blank"><img src="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
 </div>
 
-**Lab work and conference presentation by students**
+****Lab Trip to McLeodganj, Himachal Pradesh 2020**
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
@@ -136,7 +135,7 @@ author_profile: true
 <a href="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
 </div>
 
-**Lab birthday celebrations and meeting pre and post Covid**
+**Lab meeting & presentation in various conferences**
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
