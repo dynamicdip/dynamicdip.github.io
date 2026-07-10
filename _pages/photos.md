@@ -64,7 +64,7 @@ author_profile: true
 <a href="/images/Braindy26%20-%208.jpg" target="_blank"><img src="/images/Braindy26%20-%208.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 <a href="/images/Braindy26%20-%209.jpg" target="_blank"><img src="/images/Braindy26%20-%209.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 <a href="/images/Braindy26%20-%2036.jpeg" target="_blank"><img src="/images/Braindy26%20-%2036.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2037.jpeg" target="_blank"><img src="/images/Braindy26%20-%2037.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
+<a href="/images/Braindy26%20-%2026.jpeg" target="_blank"><img src="/images/Braindy26%20-%2026.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 <a href="/images/Braindy26%20-%2038.jpeg" target="_blank"><img src="/images/Braindy26%20-%2038.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 <a href="/images/Braindy26%20-%2039.jpeg" target="_blank"><img src="/images/Braindy26%20-%2039.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 <a href="/images/Braindy26%20-%2040.jpeg" target="_blank"><img src="/images/Braindy26%20-%2040.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
