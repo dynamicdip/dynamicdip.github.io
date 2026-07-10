@@ -34,8 +34,18 @@ author_profile: true
   text-align: center;
 }
 </style>
-<div style="width: 100%; max-height: 320px; overflow: hidden; margin-bottom: 30px; border-radius: 8px;">
-  <img src="/images/research-presentation2.png" alt="Research Banner" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+<div style="position: relative; width: 100%; height: 320px; overflow: hidden; margin-bottom: 30px;">
+  <img src="/images/research-presentation2.png" alt="Publications Banner" 
+       style="width: 100%; height: 100%; object-fit: cover; display: block;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+              display: flex; align-items: center; justify-content: center;
+              background: rgba(0,0,0,0.15);">
+    <h1 style="color: #ffffff; font-family: 'Comfortaa', sans-serif; font-weight: 300; 
+               font-size: 64px; margin: 0; text-align: center;
+               text-shadow: 0 2px 8px rgba(0,0,0,0.4);">
+      Publications
+    </h1>
+  </div>
 </div>
 <div class="publications-content" markdown="1">
 
