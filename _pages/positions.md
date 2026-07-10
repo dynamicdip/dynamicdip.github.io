@@ -32,7 +32,7 @@ author_profile: true
 
 ### Current Job Opening
 
-Brain Connectivity, Cognition and dynamics Lab (BCDL) is located at Indian Institute of Technology, Jodhpur and also at National Brain Research Centre (NBRC) in Manesar. IIT Jodhpur is now our lab's primary location. We encourage you to apply here Centre of Excellence in Brain Science & Applications housed in the School of Artificial Intelligence and Data Science (SAIDE). We are looking for motivated project assistants, Ph.D. students, and Postdocs with interest and willingness to solve fundamental brain research problems and also develop new data driven algorithms/methods for understanding Neuroimaging data. Please visit IIT Jodhpur School of AIDE web page to check relevant updates regarding doctoral admissions.
+Cognitive Brain Dynamics Lab (CBDL) is located at the Indian Institute of Technology, Jodhpur, and also at the National Brain Research Centre (NBRC) in Manesar. IIT Jodhpur is now our lab's primary location. We encourage you to apply to the Centre of Excellence in Brain Science & Applications, housed in the School of Artificial Intelligence and Data Science (SAIDE). We are looking for motivated project assistants, Ph.D. students, and Postdocs with an interest and willingness to solve fundamental brain research problems and also develop new data-driven algorithms/methods for understanding Neuroimaging data. Please visit the IIT Jodhpur School of AIDE web page to check relevant updates regarding doctoral admissions.
 
 **[https://aide.iitj.ac.in/](https://aide.iitj.ac.in/)**
 
