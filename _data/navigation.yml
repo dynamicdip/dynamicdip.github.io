@@ -9,6 +9,8 @@ main:
     url: /publications/
   - title: "Open Positions"
     url: /positions/
+  - title: "Lab Photos"
+    url: /photos/
   - title: "Contact"
     url: /contact/
   - title: "More"
@@ -30,6 +32,3 @@ main:
         url: /software/
       - title: "Media & News"
         url: /news/
-      - title: "Lab Photos"
-        url: /photos/
-    
