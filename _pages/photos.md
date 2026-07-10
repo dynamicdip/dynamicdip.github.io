@@ -108,7 +108,6 @@ author_profile: true
 <a href="/images/photo-2024-01-09-14-20-26-1.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-26-1.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
 <a href="/images/photo-2024-01-09-14-20-28.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-28.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
 <a href="/images/10096caa-77a3-47b7-aafa-ca2cff20ce60.jpeg" target="_blank"><img src="/images/10096caa-77a3-47b7-aafa-ca2cff20ce60.jpeg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
-<a href="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" target="_blank"><img src="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
 </div>
 
 ### PhD thesis defense of CBDL lab members
@@ -143,9 +142,10 @@ author_profile: true
 <a href="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" target="_blank"><img src="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/mp-4-1.jpeg" target="_blank"><img src="/images/mp-4-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" target="_blank"><img src="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
+<a href="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" target="_blank"><img src="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" loading="lazy" alt="Lab meeting and presentations at various conferences"></a>
 </div>
 
-### Brain Modes International Conference 2017
+### CBDL get-together
 
 <div class="photo-gallery">
 <a href="/images/photo-from-priyanka-ghosh-2-1.jpeg" target="_blank"><img src="/images/photo-from-priyanka-ghosh-2-1.jpeg" loading="lazy" alt="Brain Modes International Conference 2017"></a>
@@ -154,7 +154,7 @@ author_profile: true
 <a href="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" target="_blank"><img src="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" loading="lazy" alt="Brain Modes International Conference 2017"></a>
 </div>
 
-### Lab Holi celebration NBRC
+### Brain Modes International Conference 2017
 
 <div class="photo-gallery">
 <a href="/images/mp-1.jpeg" target="_blank"><img src="/images/mp-1.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
@@ -162,7 +162,7 @@ author_profile: true
 <a href="/images/mp-6.jpeg" target="_blank"><img src="/images/mp-6.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
 </div>
 
-### Lab barbecue 2020 NBRC
+### Lab Holi celebration NBRC
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
