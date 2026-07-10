@@ -65,7 +65,7 @@ Our research is generously supported by:
   <img src="/images/serb.png" alt="Science and Engineering Research Board">
   <img src="/images/dbt.png" alt="Department of Biotechnology">
   <img src="/images/mhrd.png" alt="Ministry of Human Resource and Development">
-  <img src="/images/iitj.png" alt="IIT Jodhpur">
+  <img src="/images/iitj.jpg" alt="IIT Jodhpur">
   <img src="/images/anrf.png" alt="Anusandhan National Research Foundation">
 </div>
 
