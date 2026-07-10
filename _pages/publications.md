@@ -1,9 +1,25 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<div style="position: relative; width: 100vw; left: 50%; right: 50%; 
+            margin-left: -50vw; margin-right: -50vw; 
+            height: 280px; overflow: hidden; margin-bottom: 30px; margin-top: 20px;
+            background-color: #000;">
+  <img src="/images/fmri-networks-banner.png" alt="Publications Banner" 
+       style="width: 100%; height: 100%; object-fit: cover; display: block; opacity: 0.85;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+              display: flex; align-items: center; justify-content: center;
+              background: rgba(0,0,0,0.35);">
+    <h1 style="color: #ffffff; font-family: 'Comfortaa', sans-serif; font-weight: 300; 
+               font-size: 56px; margin: 0; text-align: center;
+               text-shadow: 0 2px 10px rgba(0,0,0,0.6);">
+      Publications
+    </h1>
+  </div>
+</div>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
