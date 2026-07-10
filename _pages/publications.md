@@ -1,16 +1,9 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /publications/
 author_profile: true
-banner_image: /images/fmri-networks-banner.png
 ---
-
-<div class="page-hero-banner">
-  <img src="{{ page.banner_image }}" alt="Publications Banner">
-  <div class="hero-overlay">
-    <h1 class="hero-title">Publications</h1>
-  </div>
-</div>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
