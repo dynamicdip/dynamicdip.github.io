@@ -51,7 +51,7 @@ author_profile: true
 
 <div class="photos-content" markdown="1">
 
-**BrainDy 2026 Udaipur Rajasthan**
+### BrainDy 2026 Udaipur Rajasthan
 
 <div class="photo-gallery">
 <a href="/images/Braindy26%20-%201.jpg" target="_blank"><img src="/images/Braindy26%20-%201.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
@@ -70,8 +70,7 @@ author_profile: true
 <a href="/images/Braindy26%20-%2040.jpeg" target="_blank"><img src="/images/Braindy26%20-%2040.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
 </div>
 
-
-**PhD thesis defense and lab gathering at IIT Jodhpur 2025**
+### PhD thesis defense and lab gathering at IIT Jodhpur 2025
 
 <div class="photo-gallery">
 <a href="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" target="_blank"><img src="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
@@ -83,14 +82,14 @@ author_profile: true
 <a href="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" target="_blank"><img src="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
 </div>
 
+### 2024 CBSA School of AIDE IITJ lab photos
 
-###  **2024 CBSA School of AIDE IITJ LAB Photos**
 <div class="photo-gallery">
 <a href="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" target="_blank"><img src="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
 <a href="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" target="_blank"><img src="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
 </div>
 
-**2024 CBDL IIT Jodhpur, NBRC, and Ashoka University together on a Lab Trip to Mukteshwar, Nainital district of Uttarakhand**
+### 2024 CBDL IIT Jodhpur, NBRC, and Ashoka University lab trip to Mukteshwar, Nainital district of Uttarakhand
 
 <div class="photo-gallery">
 <a href="/images/img_3346-2.jpg" target="_blank"><img src="/images/img_3346-2.jpg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
@@ -103,7 +102,7 @@ author_profile: true
 <a href="/images/img_3951.jpeg" target="_blank"><img src="/images/img_3951.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
 </div>
 
-**Lab gathering of CBDL members in Jodhpur and Gurgaon 2024**
+### Lab gathering of CBDL members in Jodhpur and Gurgaon 2024
 
 <div class="photo-gallery">
 <a href="/images/photo-2024-01-09-14-20-26-1.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-26-1.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
@@ -112,7 +111,7 @@ author_profile: true
 <a href="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" target="_blank"><img src="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
 </div>
 
-**PhD Thesis defense of CBDL lab members**
+### PhD thesis defense of CBDL lab members
 
 <div class="photo-gallery">
 <a href="/images/1705571278005.jpeg" target="_blank"><img src="/images/1705571278005.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
@@ -127,7 +126,7 @@ author_profile: true
 <a href="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" target="_blank"><img src="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
 </div>
 
-****Lab Trip to McLeodganj, Himachal Pradesh 2020**
+### Lab trip to McLeodganj, Himachal Pradesh 2020
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
@@ -135,7 +134,7 @@ author_profile: true
 <a href="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
 </div>
 
-**Lab meeting & presentation in various conferences**
+### Lab meeting and presentations at various conferences
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
@@ -144,9 +143,9 @@ author_profile: true
 <a href="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" target="_blank"><img src="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/mp-4-1.jpeg" target="_blank"><img src="/images/mp-4-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
 <a href="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" target="_blank"><img src="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
+</div>
 
-
-**Brain Modes International Conference 2017**
+### Brain Modes International Conference 2017
 
 <div class="photo-gallery">
 <a href="/images/photo-from-priyanka-ghosh-2-1.jpeg" target="_blank"><img src="/images/photo-from-priyanka-ghosh-2-1.jpeg" loading="lazy" alt="Brain Modes International Conference 2017"></a>
@@ -155,7 +154,7 @@ author_profile: true
 <a href="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" target="_blank"><img src="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" loading="lazy" alt="Brain Modes International Conference 2017"></a>
 </div>
 
-**Lab Holi Celebration NBRC**
+### Lab Holi celebration NBRC
 
 <div class="photo-gallery">
 <a href="/images/mp-1.jpeg" target="_blank"><img src="/images/mp-1.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
@@ -163,7 +162,7 @@ author_profile: true
 <a href="/images/mp-6.jpeg" target="_blank"><img src="/images/mp-6.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
 </div>
 
-**Lab Barbecue 2020 NBRC**
+### Lab barbecue 2020 NBRC
 
 <div class="photo-gallery">
 <a href="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
