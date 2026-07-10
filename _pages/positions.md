@@ -5,6 +5,33 @@ permalink: /positions/
 author_profile: true
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+.positions-content, .positions-content * {
+  font-family: 'Comfortaa', sans-serif !important;
+}
+.positions-content h2,
+.positions-content h3,
+.positions-content h4,
+.positions-content h5,
+.positions-content h6 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
+.positions-content p, .positions-content li {
+  font-size: 18.67px;
+  font-weight: 300;
+  line-height: 1.6;
+  color: #333;
+}
+.positions-content strong {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+</style>
+
+<div class="positions-content" markdown="1">
+
 ### Current Job Opening 
 
 #### Brain Connectivity, Cognition and dynamics Lab (BCDL) is located at Indian Institute of Technology, Jodhpur and also at National Brain Research Centre (NBRC) in Manesar. IIT Jodhpur is now our lab's primary location. We encourage you to apply here Centre of Excellence in Brain Science & Applications housed in the School of Artificial Intelligence and Data Science (SAIDE). We are looking for motivated project assistants, Ph.D. students, and Postdocs with interest and willingness to solve fundamental brain research problems and also develop new data driven algorithms/methods for understanding Neuroimaging data. Please visit IIT Jodhpur School of AIDE web page to check relevant updates regarding doctoral admissions.
@@ -47,3 +74,5 @@ author_profile: true
 ### **Transcranial neurostimulation, neurofeedback to understand the causal nature of EEG Brain connectivity during memory, attention, perception, and multisensory processing**
 
 **Brain state dependent stimulations, feedback and modulation of neurophysiological responses and oscillatory changes. For example, does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity and change in endogenous brain states to alter perceptual variability and sensitivity during perception, memory and attentional processing (Roy et al., 2021; Naskar et al., 2021; Vattikonda et al., 2016; Dagar et al., 2016).**
+
+</div>
