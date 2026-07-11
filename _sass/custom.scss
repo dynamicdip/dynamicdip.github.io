@@ -9,7 +9,7 @@
   object-position: center 10%;
 }
 /* Hero banner overlay masthead */
-.masthead--overlay {
+#cbdl-masthead.masthead--overlay {
   position: absolute !important;
   top: 0;
   left: 0;
@@ -22,22 +22,22 @@
   border-bottom: none !important;
   z-index: 20;
 }
-.masthead--overlay #site-nav .masthead__menu-item a,
-.masthead--overlay #site-nav .dropdown-btn,
-.masthead--overlay #theme-icon {
+#cbdl-masthead.masthead--overlay #site-nav .masthead__menu-item a,
+#cbdl-masthead.masthead--overlay #site-nav .dropdown-btn,
+#cbdl-masthead.masthead--overlay #theme-icon {
   color: #ffffff !important;
   text-shadow: 0 1px 6px rgba(0,0,0,0.6);
 }
-.masthead--overlay .greedy-nav .navicon,
-.masthead--overlay .greedy-nav .navicon:before,
-.masthead--overlay .greedy-nav .navicon:after {
+#cbdl-masthead.masthead--overlay .greedy-nav .navicon,
+#cbdl-masthead.masthead--overlay .greedy-nav .navicon:before,
+#cbdl-masthead.masthead--overlay .greedy-nav .navicon:after {
   background-color: #ffffff !important;
 }
 /* Dropdown flyout stays solid/readable, not part of the transparent overlay */
-.masthead--overlay .dropdown-menu {
+#cbdl-masthead.masthead--overlay .dropdown-menu {
   background-color: #ffffff;
 }
-.masthead--overlay .dropdown-menu a {
+#cbdl-masthead.masthead--overlay .dropdown-menu a {
   color: #1a1a1a !important;
   text-shadow: none;
 }
