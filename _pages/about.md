@@ -3,7 +3,15 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
+banner_image: /images/CBDL_Lab_header.png
 ---
+
+<div class="page-hero-banner">
+  <img src="/images/CBDL_Lab_header.png" alt="Cognitive Brain Dynamics Lab">
+  <div class="hero-overlay">
+    <h1 class="hero-title">Welcome to the Cognitive Brain Dynamics Lab</h1>
+  </div>
+</div>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -24,65 +32,13 @@ author_profile: true
   font-weight: 600;
   color: #1a1a1a;
 }
-
-.cbdl-hero {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  max-width: 100vw;
-  background-image: linear-gradient(rgba(4, 14, 34, 0.88), rgba(4, 14, 34, 0.88)), url('/images/CBDL_Lab_header.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding: 5rem 3rem;
-  margin-top: 0;
-  margin-bottom: 3rem;
-  text-align: center;
-  box-sizing: border-box;
-}
-.cbdl-hero h2 {
-  font-family: 'Comfortaa', sans-serif !important;
-  font-weight: 700 !important;
-  color: #ffffff !important;
-  font-size: 2.6rem;
-  margin-bottom: 1.75rem;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.4);
-}
-.cbdl-hero p {
-  font-family: 'Comfortaa', sans-serif !important;
-  color: #ffffff !important;
-  font-size: 18.67px;
-  font-weight: 400 !important;
-  line-height: 1.7;
-  max-width: 900px;
-  margin: 0 auto 1.25rem auto;
-  text-align: left;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.35);
-}
-@media (max-width: 700px) {
-  .cbdl-hero {
-    padding: 3rem 1.5rem;
-  }
-  .cbdl-hero h2 {
-    font-size: 1.9rem;
-  }
-}
 </style>
 
-<div class="cbdl-hero" markdown="1">
-
-## Welcome to the Cognitive Brain Dynamics Lab
+<div class="about-content" markdown="1">
 
 The Cognitive Brain Dynamics Lab (CBDL) is now running from two places! While some of our team continue their work at NBRC, we've a fully functioning lab at IIT Jodhpur, in the Center for Brain Science and Applications — part of the new School of Artificial Intelligence and Data Science.
 
 The Cognitive Brain Dynamics Lab at IIT Jodhpur's School of Artificial Intelligence and Data Science explores how the human brain supports cognition, emotion, and language. Our team combines behavioral experiments with EEG, fMRI, and AI-driven analytics to study attention, memory, perception, and speech. We also investigate Autism, cognitive flexibility, and healthy aging through computational modeling and advanced signal processing. Using open neuroimaging data and large-scale network analysis, we aim to uncover how brain networks learn and adapt across the lifespan.
-
-</div>
-
-<div class="about-content" markdown="1">
 
 We welcome students and collaborators eager to advance neuroscience through experiments, data science, computational modeling, and artificial intelligence.
 
