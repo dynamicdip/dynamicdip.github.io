@@ -32,11 +32,24 @@
 #cbdl-masthead.masthead--overlay .masthead__menu,
 #cbdl-masthead.masthead--overlay #site-nav,
 #cbdl-masthead.masthead--overlay .visible-links,
-#cbdl-masthead.masthead--overlay .hidden-links,
 #cbdl-masthead.masthead--overlay .masthead__menu-item {
   background: transparent !important;
   border: none !important;
   box-shadow: none !important;
+}
+/* The overflow menu (items that don't fit, revealed via the hamburger
+   toggle) needs its own solid backdrop, not the transparent overlay —
+   otherwise its text floats loosely over the hero image with nothing
+   behind it. */
+#cbdl-masthead.masthead--overlay .hidden-links:not(.hidden) {
+  background-color: #ffffff !important;
+  padding: 10px 16px !important;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25) !important;
+}
+#cbdl-masthead.masthead--overlay .hidden-links:not(.hidden) a {
+  color: #1a1a1a !important;
+  text-shadow: none !important;
 }
 #cbdl-masthead.masthead--overlay #site-nav .masthead__menu-item a,
 #cbdl-masthead.masthead--overlay #site-nav .dropdown-btn,
