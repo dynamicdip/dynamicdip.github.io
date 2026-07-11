@@ -14,11 +14,15 @@
   top: 0;
   left: 0;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.25) !important;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), var(--masthead-bg-image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   border-bottom: none !important;
   z-index: 20;
 }
-.masthead--overlay .masthead__menu-item a,
+.masthead--overlay #site-nav .masthead__menu-item a,
+.masthead--overlay #site-nav .dropdown-btn,
 .masthead--overlay #theme-icon {
   color: #ffffff !important;
   text-shadow: 0 1px 6px rgba(0,0,0,0.6);
@@ -27,6 +31,14 @@
 .masthead--overlay .greedy-nav .navicon:before,
 .masthead--overlay .greedy-nav .navicon:after {
   background-color: #ffffff !important;
+}
+/* Dropdown flyout stays solid/readable, not part of the transparent overlay */
+.masthead--overlay .dropdown-menu {
+  background-color: #ffffff;
+}
+.masthead--overlay .dropdown-menu a {
+  color: #1a1a1a !important;
+  text-shadow: none;
 }
 .page-hero-banner {
   position: relative;
@@ -39,7 +51,7 @@
   height: 340px;
   overflow: hidden;
   background-color: #000;
-  margin-top: -80px;
+  margin-top: -100px;
   margin-bottom: 30px;
   box-sizing: border-box;
   z-index: 1;
