@@ -93,6 +93,26 @@
   position: relative;
   z-index: 30;
 }
+/* Match sidebar profile text to the body font (Comfortaa) and bump the size */
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls li a,
+.sidebar .author__urls li {
+  font-family: 'Comfortaa', sans-serif !important;
+}
+.sidebar .author__name {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+}
+.sidebar .author__bio {
+  font-size: 17px !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+}
+.sidebar .author__urls li a {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
 .page-hero-banner img {
   width: 100%;
   height: 100%;
