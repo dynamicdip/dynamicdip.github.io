@@ -22,6 +22,14 @@
   border-bottom: none !important;
   z-index: 20;
 }
+/* The nav element inside the masthead paints its own opaque background
+   (.greedy-nav { background: var(--global-bg-color); }) which was
+   covering our overlay from the inside — neutralize it here. */
+#cbdl-masthead.masthead--overlay .greedy-nav,
+#cbdl-masthead.masthead--overlay .masthead__inner-wrap,
+#cbdl-masthead.masthead--overlay .masthead__menu {
+  background: transparent !important;
+}
 #cbdl-masthead.masthead--overlay #site-nav .masthead__menu-item a,
 #cbdl-masthead.masthead--overlay #site-nav .dropdown-btn,
 #cbdl-masthead.masthead--overlay #theme-icon {
