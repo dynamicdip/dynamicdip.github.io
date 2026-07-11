@@ -3,7 +3,28 @@ layout: archive
 title: "Research Areas"
 permalink: /research/
 author_profile: true
+banner_image: /images/CBDL_Lab_header.png
 ---
+
+<div class="page-hero-banner" id="cbdl-hero-banner">
+  <img src="/images/CBDL_Lab_header.png" alt="Cognitive Brain Dynamics Lab">
+  <div class="hero-overlay">
+    <h1 class="hero-title">Research Areas</h1>
+  </div>
+</div>
+<script>
+(function() {
+  var el = document.getElementById('cbdl-hero-banner');
+  function fullBleed() {
+    if (!el) return;
+    var rect = el.getBoundingClientRect();
+    el.style.marginLeft = (-rect.left) + 'px';
+    el.style.width = window.innerWidth + 'px';
+  }
+  fullBleed();
+  window.addEventListener('resize', fullBleed);
+})();
+</script>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
