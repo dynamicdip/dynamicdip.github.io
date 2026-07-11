@@ -19,16 +19,24 @@
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  border: none !important;
   border-bottom: none !important;
+  box-shadow: none !important;
   z-index: 20;
 }
 /* The nav element inside the masthead paints its own opaque background
    (.greedy-nav { background: var(--global-bg-color); }) which was
-   covering our overlay from the inside — neutralize it here. */
+   covering our overlay from the inside — neutralize it on every nested layer. */
 #cbdl-masthead.masthead--overlay .greedy-nav,
 #cbdl-masthead.masthead--overlay .masthead__inner-wrap,
-#cbdl-masthead.masthead--overlay .masthead__menu {
+#cbdl-masthead.masthead--overlay .masthead__menu,
+#cbdl-masthead.masthead--overlay #site-nav,
+#cbdl-masthead.masthead--overlay .visible-links,
+#cbdl-masthead.masthead--overlay .hidden-links,
+#cbdl-masthead.masthead--overlay .masthead__menu-item {
   background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 #cbdl-masthead.masthead--overlay #site-nav .masthead__menu-item a,
 #cbdl-masthead.masthead--overlay #site-nav .dropdown-btn,
@@ -54,7 +62,7 @@
   height: 340px;
   overflow: hidden;
   background-color: #000;
-  margin-top: -120px;
+  margin-top: -140px;
   margin-bottom: 30px;
   box-sizing: border-box;
   z-index: 1;
