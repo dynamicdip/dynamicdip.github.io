@@ -3,7 +3,28 @@ layout: archive
 title: "People"
 permalink: /people/
 author_profile: true
+banner_image: /images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg
 ---
+
+<div class="page-hero-banner" id="cbdl-hero-banner">
+  <img src="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" alt="Cognitive Brain Dynamics Lab People">
+  <div class="hero-overlay">
+    <h1 class="hero-title">People</h1>
+  </div>
+</div>
+<script>
+(function() {
+  var el = document.getElementById('cbdl-hero-banner');
+  function fullBleed() {
+    if (!el) return;
+    var rect = el.getBoundingClientRect();
+    el.style.marginLeft = (-rect.left) + 'px';
+    el.style.width = window.innerWidth + 'px';
+  }
+  fullBleed();
+  window.addEventListener('resize', fullBleed);
+})();
+</script>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
