@@ -47,7 +47,7 @@
   border-radius: 4px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.25) !important;
 }
-#cbdl-masthead.masthead--overlay .hidden-links:not(.hidden) a {
+#cbdl-masthead.masthead--overlay #site-nav .hidden-links:not(.hidden) a {
   color: #1a1a1a !important;
   text-shadow: none !important;
 }
@@ -70,12 +70,12 @@
   box-shadow: none !important;
 }
 /* Dropdown flyout stays solid/readable, not part of the transparent overlay */
-#cbdl-masthead.masthead--overlay .dropdown-menu {
-  background-color: #ffffff;
+#cbdl-masthead.masthead--overlay #site-nav .dropdown-menu {
+  background-color: #ffffff !important;
 }
-#cbdl-masthead.masthead--overlay .dropdown-menu a {
+#cbdl-masthead.masthead--overlay #site-nav .dropdown-menu a {
   color: #1a1a1a !important;
-  text-shadow: none;
+  text-shadow: none !important;
 }
 .page-hero-banner {
   position: relative;
