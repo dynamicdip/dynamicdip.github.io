@@ -24,15 +24,56 @@ author_profile: true
   font-weight: 600;
   color: #1a1a1a;
 }
+
+.cbdl-hero {
+  position: relative;
+  background-image: linear-gradient(rgba(6, 20, 45, 0.82), rgba(6, 20, 45, 0.82)), url('/images/CBDL_header.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 5rem 3rem;
+  margin: 0 0 2.5rem 0;
+  border-radius: 4px;
+  text-align: center;
+}
+.cbdl-hero h2 {
+  font-family: 'Comfortaa', sans-serif !important;
+  font-weight: 700;
+  color: #ffffff !important;
+  font-size: 2.4rem;
+  margin-bottom: 1.75rem;
+}
+.cbdl-hero p {
+  font-family: 'Comfortaa', sans-serif !important;
+  color: #f0f2f6 !important;
+  font-size: 18.67px;
+  font-weight: 300;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto 1.25rem auto;
+  text-align: left;
+}
+@media (max-width: 700px) {
+  .cbdl-hero {
+    padding: 3rem 1.5rem;
+  }
+  .cbdl-hero h2 {
+    font-size: 1.7rem;
+  }
+}
 </style>
 
-<div class="about-content" markdown="1">
+<div class="cbdl-hero">
 
 ## Welcome to the Cognitive Brain Dynamics Lab
 
 The Cognitive Brain Dynamics Lab (CBDL) is now running from two places! While some of our team continue their work at NBRC, we've a fully functioning lab at IIT Jodhpur, in the Center for Brain Science and Applications — part of the new School of Artificial Intelligence and Data Science.
 
 The Cognitive Brain Dynamics Lab at IIT Jodhpur's School of Artificial Intelligence and Data Science explores how the human brain supports cognition, emotion, and language. Our team combines behavioral experiments with EEG, fMRI, and AI-driven analytics to study attention, memory, perception, and speech. We also investigate Autism, cognitive flexibility, and healthy aging through computational modeling and advanced signal processing. Using open neuroimaging data and large-scale network analysis, we aim to uncover how brain networks learn and adapt across the lifespan.
+
+</div>
+
+<div class="about-content" markdown="1">
 
 We welcome students and collaborators eager to advance neuroscience through experiments, data science, computational modeling, and artificial intelligence.
 
