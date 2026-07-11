@@ -27,43 +27,52 @@ author_profile: true
 
 .cbdl-hero {
   position: relative;
-  background-image: linear-gradient(rgba(6, 20, 45, 0.82), rgba(6, 20, 45, 0.82)), url('/images/CBDL_header.png');
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  max-width: 100vw;
+  background-image: linear-gradient(rgba(4, 14, 34, 0.88), rgba(4, 14, 34, 0.88)), url('/images/CBDL_Lab_header.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 5rem 3rem;
-  margin: 0 0 2.5rem 0;
-  border-radius: 4px;
+  margin-top: 0;
+  margin-bottom: 3rem;
   text-align: center;
+  box-sizing: border-box;
 }
 .cbdl-hero h2 {
   font-family: 'Comfortaa', sans-serif !important;
-  font-weight: 700;
+  font-weight: 700 !important;
   color: #ffffff !important;
-  font-size: 2.4rem;
+  font-size: 2.6rem;
   margin-bottom: 1.75rem;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.4);
 }
 .cbdl-hero p {
   font-family: 'Comfortaa', sans-serif !important;
-  color: #f0f2f6 !important;
+  color: #ffffff !important;
   font-size: 18.67px;
-  font-weight: 300;
+  font-weight: 400 !important;
   line-height: 1.7;
   max-width: 900px;
   margin: 0 auto 1.25rem auto;
   text-align: left;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.35);
 }
 @media (max-width: 700px) {
   .cbdl-hero {
     padding: 3rem 1.5rem;
   }
   .cbdl-hero h2 {
-    font-size: 1.7rem;
+    font-size: 1.9rem;
   }
 }
 </style>
 
-<div class="cbdl-hero">
+<div class="cbdl-hero" markdown="1">
 
 ## Welcome to the Cognitive Brain Dynamics Lab
 
