@@ -3,11 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-banner_image: /images/CBDL_Lab_header.png
+banner_image: /images/fmri-networks-banner.png
 ---
 
 <div class="page-hero-banner" id="cbdl-hero-banner">
-  <img src="/images/CBDL_Lab_header.png" alt="Cognitive Brain Dynamics Lab">
+  <img src="/images/fmri-networks-banner.png" alt="Cognitive Brain Dynamics Lab Publications">
   <div class="hero-overlay">
     <h1 class="hero-title">Publications</h1>
   </div>
