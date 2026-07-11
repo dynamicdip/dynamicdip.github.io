@@ -10,14 +10,15 @@
 }
 /* Hero banner overlay masthead */
 .masthead--overlay {
-  position: absolute;
+  position: absolute !important;
   top: 0;
   left: 0;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), var(--masthead-bg-image);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.35) !important;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), var(--masthead-bg-image) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
   border-bottom: none !important;
   z-index: 20;
 }
@@ -51,7 +52,7 @@
   height: 340px;
   overflow: hidden;
   background-color: #000;
-  margin-top: -100px;
+  margin-top: -120px;
   margin-bottom: 30px;
   box-sizing: border-box;
   z-index: 1;
