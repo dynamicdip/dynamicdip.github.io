@@ -67,7 +67,7 @@ banner_image: /images/fmri-networks-banner.png
 
 [75] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
 
-[74] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI]([https://doi.org/10.1162/IMAG.a.1319]) (Accepted in *Imaging Neuroscience*)
+[74] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI](https://doi.org/10.1162/IMAG.a.1319) (Accepted in *Imaging Neuroscience*)
 
 [73] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
