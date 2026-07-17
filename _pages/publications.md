@@ -63,13 +63,13 @@ banner_image: /images/fmri-networks-banner.png
 
 †: Corresponding author &nbsp;&nbsp; \*\*: Reviews/Opinion/Perspective/Commentary &nbsp;&nbsp; #: Joint authorship
 
-[76] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
+[76] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
-[75] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
+[75] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
 
-[74] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI](https://doi.org/10.1162/IMAG.a.1319) (Accepted in *Imaging Neuroscience*)
+[74] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
 
-[73] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
+[73] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI](https://doi.org/10.1162/IMAG.a.1319) (Accepted in *Imaging Neuroscience*)
 
 [72] **Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition.** Yadav, A., Banerjee, A., & **Roy, D.†** (2026). *Frontiers in Human Neuroscience*, 20, 1791453.
 
