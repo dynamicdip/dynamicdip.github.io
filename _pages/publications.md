@@ -63,6 +63,10 @@ banner_image: /images/fmri-networks-banner.png
 
 †: Corresponding author &nbsp;&nbsp; \*\*: Reviews/Opinion/Perspective/Commentary &nbsp;&nbsp; #: Joint authorship
 
+[78] **A generalized scaling law reveals synchrony-driven reorganization of brain dynamics across the human lifespan.** Saha, S., Hens, C., Chakraborty, P., Kapitaniak, T., Banerjee, A., Deco, G., Dana, S.K., & **Roy, D.†** (2026). *PlosCompBio* (Revision stage).
+
+[77] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
+
 [76] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
 [75] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
