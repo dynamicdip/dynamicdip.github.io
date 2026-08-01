@@ -67,43 +67,43 @@ banner_image: /images/fmri-networks-banner.png
 
 [77] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
 
-[76] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
+[76] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2024). [DOI](https://doi.org/10.1101/2023.12.22.573029) *Cell Reports*(Revision stage)
 
-[75] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
+[75] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
-[74] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
+[74] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
 
-[73] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI](https://doi.org/10.1162/IMAG.a.1319) (Accepted in *Imaging Neuroscience*)
+[73] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
 
-[72] **Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition.** Yadav, A., Banerjee, A., & **Roy, D.†** (2026). *Frontiers in Human Neuroscience*, 20, 1791453.
+[72] **When the inner clock fades: Interoceptive decline and consolidation of phase resetting in cortical rhythms by cardiac events underlie healthy lifespan ageing.** Saluja, K., **Roy, D.**, & Banerjee, A. (2026). *bioRxiv*. [DOI](https://doi.org/10.1162/IMAG.a.1319) (Accepted in *Imaging Neuroscience*)
 
-[71] **A mechanistic whole brain model to capture simultaneous EEG-fMRI data.** Bandyopadhyay, A., Chakravarthy, V. S.†, & **Roy, D.†** (2026). *Cerebral Cortex*, 36(1), bhag002.
+[71] **Differential role of beta band activity in a dual-task working memory paradigm under internally vs. externally directed cognition.** Yadav, A., Banerjee, A., & **Roy, D.†** (2026). *Frontiers in Human Neuroscience*, 20, 1791453.
 
-[70] **Local homeostasis preserves global neural dynamics, compensating for structural loss during human lifespan aging.** Saha, S., Chakraborty, P., Naskar, A., **Roy, D.†**, & Banerjee, A. (2025). *Nature Communications Biology*, 8(1), 1251.
+[70] **A mechanistic whole brain model to capture simultaneous EEG-fMRI data.** Bandyopadhyay, A., Chakravarthy, V. S.†, & **Roy, D.†** (2026). *Cerebral Cortex*, 36(1), bhag002.
 
-[69] **Prestimulus periodic and aperiodic neural activity shapes McGurk perception.** Singh, V. A. V., Kumar, V. G., Banerjee, A., & **Roy, D.** (2025). [DOI](https://doi.org/10.1101/2022.01.20.477172) (Accepted in *eNeuro*)
+[69] **Local homeostasis preserves global neural dynamics, compensating for structural loss during human lifespan aging.** Saha, S., Chakraborty, P., Naskar, A., **Roy, D.†**, & Banerjee, A. (2025). *Nature Communications Biology*, 8(1), 1251.
 
-[68] **Neural signatures of prioritization and facilitation in retrieving repeated items in Visual Working Memory.** Narvaria, A. S., Banerjee, A., & **Roy, D.** (Accepted in *Frontiers in Human Neuroscience*, 2025) [Link](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1642615/abstract)
+[68] **Prestimulus periodic and aperiodic neural activity shapes McGurk perception.** Singh, V. A. V., Kumar, V. G., Banerjee, A., & **Roy, D.** (2025). [DOI](https://doi.org/10.1101/2022.01.20.477172) (Accepted in *eNeuro*)
 
-[67] **A Lightweight, End-to-End Explainable, and Generalized attention-based Graph Neural Network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify Autistics from Neurotypicals.** Bhavna, K., Ghosh, N., Banerjee, R., & **Roy, D.** [DOI](https://doi.org/10.1101/2024.07.17.24310610) (Accepted in *Network Neuroscience*, MIT Press, 2025)
+[67] **Neural signatures of prioritization and facilitation in retrieving repeated items in Visual Working Memory.** Narvaria, A. S., Banerjee, A., & **Roy, D.** (Accepted in *Frontiers in Human Neuroscience*, 2025) [Link](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1642615/abstract)
 
-[66] **Contributions of short- and long-range white matter tracts in dynamic compensation with aging.** Chakraborty, P., Saha, S., Deco, G., Banerjee, A., & **Roy, D.** (2025). *Cerebral Cortex*, 35(2), bhae496.
+[66] **A Lightweight, End-to-End Explainable, and Generalized attention-based Graph Neural Network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify Autistics from Neurotypicals.** Bhavna, K., Ghosh, N., Banerjee, R., & **Roy, D.** [DOI](https://doi.org/10.1101/2024.07.17.24310610) (Accepted in *Network Neuroscience*, MIT Press, 2025)
 
-[65] **Synergistic control of axon regeneration and functional recovery by let-7 miRNA and Insulin signaling (IIS) pathways.** Ravivarma, S., Behera, S., **Roy, D.**, & Ghosh-Roy, A. (2025). Accepted in *Journal of Biosciences*.
+[65] **Contributions of short- and long-range white matter tracts in dynamic compensation with aging.** Chakraborty, P., Saha, S., Deco, G., Banerjee, A., & **Roy, D.** (2025). *Cerebral Cortex*, 35(2), bhae496.
 
-[64] **Aging distorts the representation of emotions by amplifying prefrontal variability.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.** (2025). *bioRxiv* (Revision stage). [Link](https://www.biorxiv.org/content/10.1101/2024.04.22.590523v1)
+[64] **Synergistic control of axon regeneration and functional recovery by let-7 miRNA and Insulin signaling (IIS) pathways.** Ravivarma, S., Behera, S., **Roy, D.**, & Ghosh-Roy, A. (2025). Accepted in *Journal of Biosciences*.
 
-[63] **Directional connectivity in prestimulus large-scale functional networks underpins McGurk perception.** Singh, V. A. V., Kumar, V. G., Banerjee, A., & **Roy, D.** (2025). (Under preparation)
+[63] **Aging distorts the representation of emotions by amplifying prefrontal variability.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.** (2025). *bioRxiv* (Revision stage). [Link](https://www.biorxiv.org/content/10.1101/2024.04.22.590523v1)
 
-[62] **Characterization of the temporal stability of ToM and pain functional brain networks carry distinct developmental signatures during naturalistic viewing.** Bhavna, K., Ghosh, N., Banerjee, R., & **Roy, D.** (2024). *Scientific Reports*, 14, 22479. [DOI](https://doi.org/10.1038/s41598-024-72945-4)
+[62] **Directional connectivity in prestimulus large-scale functional networks underpins McGurk perception.** Singh, V. A. V., Kumar, V. G., Banerjee, A., & **Roy, D.** (2025). (Under preparation)
 
-[61] **Differential Neural Correlates of EEG Mediate the Impact of Internally and Externally Directed Attention in a Dual-task Working Memory Paradigm.** Yadav, A., Banerjee, A., & **Roy, D.** *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46 (2024).
+[61] **Characterization of the temporal stability of ToM and pain functional brain networks carry distinct developmental signatures during naturalistic viewing.** Bhavna, K., Ghosh, N., Banerjee, R., & **Roy, D.** (2024). *Scientific Reports*, 14, 22479. [DOI](https://doi.org/10.1038/s41598-024-72945-4)
 
-[60] **Explainable Deep-Learning Framework: Decoding brain States and Prediction of Individual Performance in False-Belief Task at Early Childhood Stage.** Bhavna, K., Akhtar, A., Banerjee, R., & **Roy, D.** *Frontiers in Neuroinformatics*, 18, 1392661.
+[60] **Differential Neural Correlates of EEG Mediate the Impact of Internally and Externally Directed Attention in a Dual-task Working Memory Paradigm.** Yadav, A., Banerjee, A., & **Roy, D.** *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46 (2024).
 
-[59] **End-to-End Explainable AI: Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Typically Developing and Social Symptom Severity.** Bhavna, K., Banerjee, R., & **Roy, D.** (2024). *bioRxiv*, 2023-01. [Link](https://www.biorxiv.org/content/10.1101/2023.01.21.525016v1)
+[59] **Explainable Deep-Learning Framework: Decoding brain States and Prediction of Individual Performance in False-Belief Task at Early Childhood Stage.** Bhavna, K., Akhtar, A., Banerjee, R., & **Roy, D.** *Frontiers in Neuroinformatics*, 18, 1392661.
 
-[58] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2024). [DOI](https://doi.org/10.1101/2023.12.22.573029) (In preparation)
+[58] **End-to-End Explainable AI: Derived Theory-of-Mind Fingerprints to Distinguish Between Autistic and Typically Developing and Social Symptom Severity.** Bhavna, K., Banerjee, R., & **Roy, D.** (2024). *bioRxiv*, 2023-01. [Link](https://www.biorxiv.org/content/10.1101/2023.01.21.525016v1)
 
 [57] **Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism.** Chakraborty, P., Saha, S., Deco, G., Banerjee, A.†, & **Roy, D.†** (2023). *Cerebral Cortex Communications*, 4(3), tgad012.
 
