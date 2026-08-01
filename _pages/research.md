@@ -203,10 +203,10 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/saha-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/saha-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Saha<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Communications Biology</div>
@@ -218,10 +218,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/chakraborty-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/chakraborty-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Chakraborty<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex</div>
@@ -233,10 +233,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/sastry-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/sastry-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/sastry.jpg" alt="Sastry" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/sastry.jpg" alt="Sastry" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Sastry<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex</div>
@@ -248,10 +248,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/pathak-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/pathak-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/pathak.jpg" alt="Pathak" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/pathak.jpg" alt="Pathak" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Pathak<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Communications Biology</div>
@@ -263,10 +263,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Dash<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">IJCNN 2022</div>
@@ -278,10 +278,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/das-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/das-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/das.jpg" alt="Das" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/das.jpg" alt="Das" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Das<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex</div>
@@ -293,10 +293,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/thuwal-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/thuwal-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/thuwal.jpg" alt="Thuwal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/thuwal.jpg" alt="Thuwal" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Thuwal<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">eNeuro</div>
@@ -308,10 +308,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/sahoo-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/sahoo-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/sahoo.jpg" alt="Sahoo" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/sahoo.jpg" alt="Sahoo" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Sahoo<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">NeuroImage</div>
@@ -323,10 +323,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Lanke<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal"><a href="https://doi.org/10.3389/fnagi.2018.00153" target="_blank" rel="noopener">Frontiers in Aging Neuroscience</a></div>
@@ -338,10 +338,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/naik-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/naik-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/naik.jpg" alt="Naik" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/naik.jpg" alt="Naik" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Naik<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Trends in Cognitive Sciences</div>
@@ -371,10 +371,10 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/bhavna-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/bhavna-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Frontiers in Neuroinformatics</div>
@@ -386,10 +386,10 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/bhavna-2024-2.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/bhavna-2024-2.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Scientific Reports</div>
@@ -417,10 +417,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/bhavna-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/bhavna-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Network Neuroscience</div>
@@ -432,10 +432,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/sigar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/sigar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/sigar.jpg" alt="Sigar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/sigar.jpg" alt="Sigar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Sigar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Autism Research</div>
@@ -447,10 +447,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/roy-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/roy-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Roy<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Network Neuroscience</div>
@@ -462,10 +462,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/harlalka-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/harlalka-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Harlalka<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal"><a href="https://doi.org/10.3389/fnhum.2019.00006" target="_blank" rel="noopener">Frontiers in Human Neuroscience</a></div>
@@ -477,10 +477,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/harlalka-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/harlalka-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Harlalka<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Brain Connectivity</div>
@@ -492,10 +492,10 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/ray-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/ray-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Ray<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Frontiers in Psychology</div>
@@ -527,10 +527,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/chakraborty-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/chakraborty-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Chakraborty<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex Communications</div>
@@ -542,10 +542,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/naskar-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/naskar-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/naskar.jpg" alt="Naskar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/naskar.jpg" alt="Naskar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Naskar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Network Neuroscience</div>
@@ -557,10 +557,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/surampudi-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/surampudi-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">NeuroImage</div>
@@ -572,10 +572,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/surampudi-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/surampudi-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Scientific Reports</div>
@@ -587,10 +587,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/surampudi-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/surampudi-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">NeurIPS 2016</div>
@@ -602,10 +602,10 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/vattikonda-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/vattikonda-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/vattikonda.jpg" alt="Vattikonda" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/vattikonda.jpg" alt="Vattikonda" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Vattikonda<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">NeuroImage</div>
@@ -635,10 +635,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex</div>
@@ -650,10 +650,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Neuropsychologia</div>
@@ -665,10 +665,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/ghosh-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/ghosh-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/ghosh.jpg" alt="Ghosh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/ghosh.jpg" alt="Ghosh" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Ghosh<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">NeuroImage</div>
@@ -680,10 +680,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/yazin-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/yazin-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/yazin.jpg" alt="Yazin" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/yazin.jpg" alt="Yazin" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Yazin<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Scientific Reports</div>
@@ -695,10 +695,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/kumar-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/kumar-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">European Journal of Neuroscience</div>
@@ -710,10 +710,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/ray-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/ray-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Ray<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Journal of Cognitive Neuroscience</div>
@@ -725,10 +725,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/kumar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/kumar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Frontiers in Psychology</div>
@@ -740,10 +740,10 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/roy-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/roy-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Roy<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Brain Connectivity</div>
@@ -771,10 +771,10 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/singh-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/singh-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/singh.jpg" alt="Singh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/singh.jpg" alt="Singh" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Singh<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal"><a href="https://doi.org/10.1101/2022.01.20.477172" target="_blank" rel="noopener">bioRxiv (preprint)</a></div>
@@ -786,10 +786,10 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/pal-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/pal-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/pal.jpg" alt="Pal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/pal.jpg" alt="Pal" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Pal<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">IHCI 2019, LNCS 11886</div>
@@ -801,10 +801,10 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/dagar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/dagar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/dagar.jpg" alt="Dagar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/dagar.jpg" alt="Dagar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Dagar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Frontiers in Neurology</div>
@@ -816,10 +816,10 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/sigala-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/sigala-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/sigala.jpg" alt="Sigala" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/sigala.jpg" alt="Sigala" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Sigala<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Frontiers in Computational Neuroscience</div>
@@ -831,10 +831,10 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/papers/adhikari-2012.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/adhikari-2012.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/adhikari.jpg" alt="Adhikari" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/adhikari.jpg" alt="Adhikari" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Adhikari<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Journal of Neuroscience</div>
