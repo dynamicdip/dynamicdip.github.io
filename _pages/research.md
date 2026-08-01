@@ -194,7 +194,7 @@ We are currently studying large-scale brain network dynamics under specific phys
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/authors/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Saha<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Communications Biology</div>
