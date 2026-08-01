@@ -7,27 +7,13 @@ classes: wide
 banner_image: /images/CBDL_Lab_header.png
 ---
 
-<div class="page-hero-banner" id="cbdl-hero-banner">
+<div class="page-hero-banner full-bleed" id="cbdl-hero-banner">
   <img src="/images/CBDL_Lab_header.png" alt="Cognitive Brain Dynamics Lab">
   <div class="hero-overlay">
     <h1 class="hero-title">Research Areas</h1>
   </div>
 </div>
-<script>
-(function() {
-  function fullBleedAll() {
-    var els = document.querySelectorAll('#cbdl-hero-banner, #cbdl-research-content');
-    els.forEach(function(el) {
-      var rect = el.getBoundingClientRect();
-      el.style.marginLeft = (-rect.left) + 'px';
-      el.style.width = window.innerWidth + 'px';
-    });
-  }
-  fullBleedAll();
-  window.addEventListener('resize', fullBleedAll);
-  window.addEventListener('load', fullBleedAll);
-})();
-</script>
+
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -129,7 +115,17 @@ banner_image: /images/CBDL_Lab_header.png
 }
 .pub-summary em { color: #b7860a; font-style: italic; }
 
-/* Edge-to-edge page (no sidebar), with a readable text column for prose */
+/* True edge-to-edge break-out, ignores theme floats/sidebars entirely */
+html, body { overflow-x: hidden; }
+.full-bleed {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  box-sizing: border-box;
+}
 .research-content {
   box-sizing: border-box;
   padding: 0 48px 60px 48px;
@@ -148,13 +144,21 @@ banner_image: /images/CBDL_Lab_header.png
 }
 </style>
 
-<div class="research-content" id="cbdl-research-content" markdown="1">
+<div class="research-content full-bleed" id="cbdl-research-content" markdown="1">
+
 <div class="text-wrap" markdown="1">
+
 ## Brain Aging, Brain Health, and Neurocompensatory Mechanisms in Large-Scale Brain Network Dynamics and Cognitive Function
+
 <h3 class="pub-subtitle">Attention, perception, memory, and emotion</h3>
+
 ![Presentation2](/images/research-presentation2.png)
+
 We are currently studying large-scale brain network dynamics under specific physical, anatomical constraints inferred from modern-day neuroimaging methods EEG, MEG, fMRI, DTI/DWI using resting and goal oriented task conditions. Our group combines three complementary approaches — neuroimaging, computational methods including data-driven analysis and machine learning, and behavioural experiments grounded on neurocognitive and neuropsychological theories — to understand how multisensory perception and attentional control shape memory processing, and how cognitive aging impacts perceptual integration, attentional variability, working memory, and episodic memory processing. We also apply neurodynamical computational modelling frameworks to uncover the specific influence of biophysical and physiological parameters such as noise, conduction delay, and brain-states on the large-scale brain network structural-functional connectivity relationship (modularity, small-world network topology, scale-free topology, centrality) and dynamics (synchrony, coherence, metastability, flexibility) of the aging brain. Further, exploiting unisensory (visual, auditory, and somatosensory) and multisensory (visual-auditory, visual-tactile) fMRI and EEG paradigms, we investigate brain networks and fingerprint multisensory brain connectivity in space and time.
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -279,12 +283,20 @@ We are currently studying large-scale brain network dynamics under specific phys
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 ## Mapping Mental States Using Machine Learning to Predict Social Cognition and Brain Connectivity
+
 <h3 class="pub-subtitle">Atypical neurodevelopment in children — fMRI, EEG, and naturalistic tasks</h3>
+
 ![](/images/research-screenshot-1.png)
+
 ![](/images/research-screenshot-2.png)
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -313,11 +325,18 @@ We are currently studying large-scale brain network dynamics under specific phys
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 ## Atypical Brain Network Dynamics in Neurodevelopmental Disorders
+
 ![picture-1-1](/images/research-picture-1-1.png)
+
 Neurophysiological processes and behavioral responses in human subjects are measurable indirectly using fMRI, and directly using surface recordings such as EEG and MEG — brain oscillations, normal responses that change with cortical lesion, learning, and memory consolidation, and that interact dynamically with the intrinsic spontaneous oscillations present in the brain due to large-scale anatomy and connectivity between brain modules in the absence of external stimuli. We are interested in specific alterations in cognitive response and the neuronal changes that underlie them. To address this, we systematically develop mathematical tools for understanding how brain networks reconfigure over multiple time scales, and apply these tools with our collaborators to understand perceptual learning, vision, and psychiatric disease.
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -394,13 +413,22 @@ Neurophysiological processes and behavioral responses in human subjects are meas
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 ## Multi-Scale, Multimodal Imaging and Machine Learning to Characterize Brain Lesions and Axonal Injury
+
 <h3 class="pub-subtitle">Structure-function-dynamics in cognitive processing and functional recovery</h3>
+
 [![Figure11](/images/research-figure111.png)](/images/research-figure111.png)
+
 [![RP_Fig2](/images/research-rp-fig2.png)](/images/research-rp-fig2.png)
+
 The human brain is a complex system capable of producing non-stationary spatiotemporal signals. Mathematical descriptions based on neural mass models describing population firing rate and time-dependent analysis of regional time series make it possible to predict system dynamics, establishing a direct bridge between biologically inspired theory, simulations, and experimental design. In our lab, we examine structural and functional brain networks using data from non-invasive neuroimaging techniques (fMRI, MEG, MRI, DTI, DSI) to determine fundamental organizational principles of both underlying anatomy and functional dynamics. We are also interested in the emerging field of computational neuropsychiatry, where evidence accumulates from neuropsychiatric disease — specifically schizophrenia and Parkinson's disease — that exhibits disruption of normal connectivity patterns and neurochemical balance.
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -477,12 +505,20 @@ The human brain is a complex system capable of producing non-stationary spatiote
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 ## Sensory Processing, Perception, Attention, Predictive Coding, and Learning in Memory and Cognition
+
 <h3 class="pub-subtitle">Behaviour, EEG, MEG, fMRI, and deep neural networks</h3>
+
 ![Figure_1](/images/research-figure-1.jpg)
+
 We aim to investigate the role of local oscillations in a normal human brain, and the functional role of abnormal oscillations in neuropsychiatric disorders characterised by alterations in distributed activity across brain areas. We use network methods to uncover changes in large-scale brain circuitry that impact cognitive function and behaviour, with the goal of identifying the underlying neurophysiological processes of disease and informing clinical interventions. A related focus is critical behaviour in resting-state dynamics: the precise neuronal mechanism generating near-critical dynamics in the brain remains unresolved despite numerous recent investigations. To mathematically describe empirical observations, we study cortical long-range correlations in space and time, and for short-range correlations we look at features such as neuronal avalanches. We also develop drift-diffusion models based on statistical physics to study the mesoscopic dynamics of neural masses distributed across graph-like entities such as voxels and nodes connected via realistic structural connectivity matrices.
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -583,11 +619,18 @@ We aim to investigate the role of local oscillations in a normal human brain, an
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 ## Brain-State-Dependent Neurostimulation, Feedback, and Modulation of Neurophysiological Responses
+
 <h3 class="pub-subtitle">Multisensory perceptual processing and oscillatory BCI models</h3>
+
 Collective dynamics can create complex patterns in populations of neurons. Spiking dynamics occur on a fast time scale, typically observed in vivo in neuronal microcircuits, while bursting dynamics occur on a much slower time scale. We study the behavior of large populations as constrained by the properties and paucity of physical connections between connected units and synapse subtypes. In this work, we build classes of models and apply machine learning principles — gradient descent, multi-parametric search — to infer the underlying model state space and the biophysical mechanisms responsible for observed neuronal dynamics.
+
+
 </div>
+
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <div class="pub-card-top">
@@ -652,7 +695,9 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
 </div></div>
 
 ---
+
 <div class="text-wrap" markdown="1">
+
 
 ## Funding
 
@@ -664,4 +709,5 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
 - **NBRC and IIT Jodhpur core**
 
 </div>
+
 </div>
