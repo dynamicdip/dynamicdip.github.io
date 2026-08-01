@@ -115,15 +115,14 @@ banner_image: /images/CBDL_Lab_header.png
 }
 .pub-summary em { color: #b7860a; font-style: italic; }
 
-/* True edge-to-edge break-out, ignores theme floats/sidebars entirely */
+/* True edge-to-edge break-out, ignores theme floats/sidebars entirely.
+   calc(50% - 50vw) self-corrects for scrollbar width (avoids the sliver-gap
+   you get from position:left:50%/margin:-50vw on pages with a scrollbar). */
 html, body { overflow-x: hidden; }
 .full-bleed {
-  position: relative;
-  left: 50%;
-  right: 50%;
   width: 100vw;
-  margin-left: -50vw;
-  margin-right: -50vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
   box-sizing: border-box;
 }
 .research-content {
@@ -132,8 +131,13 @@ html, body { overflow-x: hidden; }
   background: #fff;
 }
 .text-wrap {
-  max-width: 880px;
+  max-width: 1600px;
   margin: 0 auto;
+}
+.text-wrap p {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .pub-wrap {
   max-width: 1600px;
