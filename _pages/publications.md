@@ -67,7 +67,7 @@ banner_image: /images/fmri-networks-banner.png
 
 [77] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
 
-[76] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2024). [DOI](https://doi.org/10.1101/2023.12.22.573029) *Cell Reports*(Revision stage)
+[76] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2026). [DOI](https://doi.org/10.1101/2023.12.22.573029) *Cell Reports*(Revision stage)
 
 [75] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
