@@ -4,7 +4,6 @@ title: "Research Areas"
 permalink: /research/
 author_profile: false
 classes: wide
-banner_image: /images/CBDL_Lab_header.png
 ---
 
 <div class="page-hero-banner full-bleed" id="cbdl-hero-banner">
@@ -138,6 +137,19 @@ html, body { overflow-x: hidden; }
   max-width: 980px;
   margin-left: auto;
   margin-right: auto;
+}
+.text-wrap img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 10px;
+}
+.text-wrap a {
+  display: block;
+}
+.text-wrap a img {
+  margin: 0 auto 24px auto;
 }
 .pub-wrap {
   max-width: 1600px;
