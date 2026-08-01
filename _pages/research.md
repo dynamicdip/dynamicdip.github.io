@@ -2,7 +2,7 @@
 layout: archive
 title: "Research Areas"
 permalink: /research/
-author_profile: true
+author_profile: false
 banner_image: /images/CBDL_Lab_header.png
 ---
 
@@ -14,15 +14,17 @@ banner_image: /images/CBDL_Lab_header.png
 </div>
 <script>
 (function() {
-  var el = document.getElementById('cbdl-hero-banner');
-  function fullBleed() {
-    if (!el) return;
-    var rect = el.getBoundingClientRect();
-    el.style.marginLeft = (-rect.left) + 'px';
-    el.style.width = window.innerWidth + 'px';
+  function fullBleedAll() {
+    var els = document.querySelectorAll('#cbdl-hero-banner, #cbdl-research-content');
+    els.forEach(function(el) {
+      var rect = el.getBoundingClientRect();
+      el.style.marginLeft = (-rect.left) + 'px';
+      el.style.width = window.innerWidth + 'px';
+    });
   }
-  fullBleed();
-  window.addEventListener('resize', fullBleed);
+  fullBleedAll();
+  window.addEventListener('resize', fullBleedAll);
+  window.addEventListener('load', fullBleedAll);
 })();
 </script>
 
@@ -34,10 +36,15 @@ banner_image: /images/CBDL_Lab_header.png
 .research-content h2 {
   font-weight: 700;
   color: #1a1a1a;
+  font-size: 28px;
+  margin-top: 56px;
 }
-.research-content h3 {
-  font-weight: 700;
-  color: #1a1a1a;
+.research-content h3.pub-subtitle {
+  font-weight: 500;
+  color: #5b6470;
+  font-size: 17px;
+  margin-top: -8px;
+  margin-bottom: 20px;
 }
 .research-content p, .research-content li {
   font-size: 18.67px;
@@ -49,148 +56,611 @@ banner_image: /images/CBDL_Lab_header.png
   font-weight: 600;
   color: #1a1a1a;
 }
+
+.pub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 22px;
+  margin: 28px 0 12px 0;
+}
+.pub-card {
+  background: #fff;
+  border: 1px solid #e3e6ea;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 2px 10px rgba(20, 30, 50, 0.04);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.pub-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(20, 30, 50, 0.09);
+}
+.pub-card-top {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+.pub-photo {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: #eef1f5;
+  border: 1px solid #e3e6ea;
+}
+.pub-byline { min-width: 0; }
+.pub-author {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1a1a1a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.pub-etal { font-weight: 300; color: #7a828c; }
+.pub-journal {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2c5f8a;
+}
+.pub-journal a { color: #2c5f8a; text-decoration: none; }
+.pub-journal a:hover { text-decoration: underline; }
+.pub-date {
+  font-size: 12.5px;
+  font-weight: 300;
+  color: #8a919b;
+  margin-top: 2px;
+}
+.pub-title {
+  font-size: 16.5px;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+.pub-summary {
+  font-size: 14.5px;
+  font-weight: 300;
+  line-height: 1.55;
+  color: #55606b;
+}
+.pub-summary em { color: #b7860a; font-style: italic; }
+
+/* Edge-to-edge page (no sidebar), with a readable text column for prose */
+.research-content {
+  box-sizing: border-box;
+  padding: 0 48px 60px 48px;
+  background: #fff;
+}
+.text-wrap {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.pub-wrap {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .research-content { padding: 0 20px 40px 20px; }
+}
 </style>
 
-<div class="research-content" markdown="1">
-
-## Brain Aging, Brain health, and neurocompensatory mechanisms in large-scale brain network dynamics and cognitive functions (attention, perception, memory, and emotion)
-
+<div class="research-content" id="cbdl-research-content" markdown="1">
+<div class="text-wrap" markdown="1">
+## Brain Aging, Brain Health, and Neurocompensatory Mechanisms in Large-Scale Brain Network Dynamics and Cognitive Function
+<h3 class="pub-subtitle">Attention, perception, memory, and emotion</h3>
 ![Presentation2](/images/research-presentation2.png)
-
-We are currently studying large-scale brain network dynamics under specific physical, anatomical constraints inferred from modern-day neuroimaging methods EEG, MEG, fMRI, DTI/DWI using resting and goal oriented task conditions. Our group combines three complementary approaches Neuroimaging, Computational methods including data driven analysis and machine learning, and behavioural experiments grounded on the neurocognitive and neuropsychological theories to understand how multisensory perception, attentional control together shapes up memory processing and how does cognitive Aging impacts perceptual integration, attentional variability, working memory and episodic memory processing. We also apply neurodynamical computational modelling framework to uncover specific influence of biophysical and physiological parameters such as noise, conduction delay, brain-states on the large-scale brain network structural-functional connectivity relationship (modularity, small-world network topology, scale-free topology, centrality) and dynamics (synchrony, coherence, metastability, flexibility) of the Aging brain. Further, exploiting unisensory (Visual, Auditory, and Somatosensory) and multisensory (combining Visual-Auditory, Visual-tactile stimulus) fMRI and EEG paradigms we investigate brain networks, specific interactions and fingerprinting multisensory brain connectivity in space and time. For all understanding lifespan associated changes in brain functional connectivity and dynamics we use a combination of data analysis approach using signal processing theory, graph theory, and modern machine learning and deep learning approach, develop advance methods based on dynamical systems theory, mathematical modelling, and empirical studies to investigate the above research areas.
-
-### *selected papers:*
-
-**Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging.** Saha, S., Chakraborty, P., Naskar, A., Roy, D., & Banerjee, A. (2025). *Communications Biology*, *8*(1), 1251.
-
-**Contributions of short-and long-range white matter tracts in dynamic compensation with aging.** Chakraborty, P., Saha, S., Deco, G., Banerjee, A., & Roy, D. (2025). *Cerebral Cortex*, *35*(2).
-
-**Stability of the sensorimotor network sculpts the dynamic repertoire of the resting state over the lifespan**. Sastry, N. C., Roy, D., & Banerjee, A. (2023). *Cerebral Cortex*, *33*(4), 1246-1262.
-
-**Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan**. Pathak, A., Sharma, V., Roy, D., & Banerjee, A. (2022). *Communications Biology*, *5*(1), 567.
-
-**Characterizing the Dynamic Reorganization in Healthy Aging and Classification of Brain Age.** Dash, A., Bapi, R. S., Roy, D., & Vinod, P. K. (2022, July). In *2022 International Joint Conference on Neural Networks (IJCNN)* (pp. 1-7). IEEE.
-
-**Reconfiguration of directed functional connectivity among neurocognitive networks with aging: Considering the role of thalamo-cortical interactions.** Moumita Das, Vanshika Singh, Lucina Q. Uddin, Arpan Banerjee, Dipanjan Roy. *Cerebral Cortex* (2021) 31(4), 1970-1986.
-
-**Aperiodic and periodic components of ongoing oscillatory brain dynamics link distinct functional aspects of cognition across the adult lifespan.** Thuwal, Kusum, Arpan Banerjee, and Dipanjan Roy. *Eneuro* 8, no. 5 (2021).
-
-Sahoo B, Pathak A, Deco G, Banerjee A, Roy D. **Lifespan-associated changes in global patterns of coherent communication.** *Neuroimage* 216, 116824 (2020).
-
-Vinay Lanke, S.T.R. Moolamalla, Dipanjan Roy, and P.K. Vinod. **Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease.** *Frontiers in Aging Neuroscience* DOI: 10.3389/fnagi.2018.00153.
-
-Shruti Naik, Bapi S. Raju, Arpan Banerjee, Gustavo Deco, Dipanjan Roy. **Metastability in Senescence.** *Trends in Cogn Sci.* 2017 May 9. pii: S1364-6613(17)30079-7.
+We are currently studying large-scale brain network dynamics under specific physical, anatomical constraints inferred from modern-day neuroimaging methods EEG, MEG, fMRI, DTI/DWI using resting and goal oriented task conditions. Our group combines three complementary approaches — neuroimaging, computational methods including data-driven analysis and machine learning, and behavioural experiments grounded on neurocognitive and neuropsychological theories — to understand how multisensory perception and attentional control shape memory processing, and how cognitive aging impacts perceptual integration, attentional variability, working memory, and episodic memory processing. We also apply neurodynamical computational modelling frameworks to uncover the specific influence of biophysical and physiological parameters such as noise, conduction delay, and brain-states on the large-scale brain network structural-functional connectivity relationship (modularity, small-world network topology, scale-free topology, centrality) and dynamics (synchrony, coherence, metastability, flexibility) of the aging brain. Further, exploiting unisensory (visual, auditory, and somatosensory) and multisensory (visual-auditory, visual-tactile) fMRI and EEG paradigms, we investigate brain networks and fingerprint multisensory brain connectivity in space and time.
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Saha<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Communications Biology</div>
+        <div class="pub-date">2025 &middot; 8(1), 1251</div>
+      </div>
+    </div>
+    <div class="pub-title">Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Chakraborty<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2025 &middot; 35(2)</div>
+      </div>
+    </div>
+    <div class="pub-title">Contributions of short- and long-range white matter tracts in dynamic compensation with aging</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/sastry.jpg" alt="Sastry" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Sastry<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2023 &middot; 33(4), 1246-1262</div>
+      </div>
+    </div>
+    <div class="pub-title">Stability of the sensorimotor network sculpts the dynamic repertoire of the resting state over the lifespan</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/pathak.jpg" alt="Pathak" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Pathak<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Communications Biology</div>
+        <div class="pub-date">2022 &middot; 5(1), 567</div>
+      </div>
+    </div>
+    <div class="pub-title">Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Dash<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">IJCNN 2022</div>
+        <div class="pub-date">2022 &middot; pp. 1-7</div>
+      </div>
+    </div>
+    <div class="pub-title">Characterizing the dynamic reorganization in healthy aging and classification of brain age</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/das.jpg" alt="Das" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Das<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2021 &middot; 31(4), 1970-1862</div>
+      </div>
+    </div>
+    <div class="pub-title">Reconfiguration of directed functional connectivity among neurocognitive networks with aging: considering the role of thalamo-cortical interactions</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/thuwal.jpg" alt="Thuwal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Thuwal<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">eNeuro</div>
+        <div class="pub-date">2021 &middot; 8(5)</div>
+      </div>
+    </div>
+    <div class="pub-title">Aperiodic and periodic components of ongoing oscillatory brain dynamics link distinct functional aspects of cognition across the adult lifespan</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/sahoo.jpg" alt="Sahoo" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Sahoo<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">NeuroImage</div>
+        <div class="pub-date">2020 &middot; 216, 116824</div>
+      </div>
+    </div>
+    <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Lanke<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal"><a href="https://doi.org/10.3389/fnagi.2018.00153" target="_blank" rel="noopener">Frontiers in Aging Neuroscience</a></div>
+        <div class="pub-date">2018</div>
+      </div>
+    </div>
+    <div class="pub-title">Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/naik.jpg" alt="Naik" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Naik<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Trends in Cognitive Sciences</div>
+        <div class="pub-date">2017</div>
+      </div>
+    </div>
+    <div class="pub-title">Metastability in senescence</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
 
 ---
-
-## Mapping mental states using machine learning models to predict social cognition and brain connectivity associated with atypical neurodevelopment in children using fMRI, EEG, and naturalistic task
-
+<div class="text-wrap" markdown="1">
+## Mapping Mental States Using Machine Learning to Predict Social Cognition and Brain Connectivity
+<h3 class="pub-subtitle">Atypical neurodevelopment in children — fMRI, EEG, and naturalistic tasks</h3>
 ![](/images/research-screenshot-1.png)
-
 ![](/images/research-screenshot-2.png)
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Frontiers in Neuroinformatics</div>
+        <div class="pub-date">2024 &middot; 18, 1392661</div>
+      </div>
+    </div>
+    <div class="pub-title">Explainable deep-learning framework: decoding brain states and prediction of individual performance in false-belief task at early childhood stage</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Scientific Reports</div>
+        <div class="pub-date">2024 &middot; 14(1), 22479</div>
+      </div>
+    </div>
+    <div class="pub-title">Characterization of the temporal stability of ToM and pain functional brain networks carrying distinct developmental signatures during naturalistic viewing</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
 
-### *selected papers:*
-
-- Explainable deep-learning framework: decoding brain states and prediction of individual performance in false-belief task at early childhood stage. Bhavna, K., Akhter, A., Banerjee, R., & Roy, D. (2024). *Frontiers in Neuroinformatics*, *18*, 1392661.
-- **Characterization of the temporal stability of ToM and pain functional brain networks carry distinct developmental signatures during naturalistic viewing.** Bhavna, Km, Niniva Ghosh, Romi Banerjee, and Dipanjan Roy. *Scientific Reports* 14, no. 1 (2024): 22479.
-
+---
+<div class="text-wrap" markdown="1">
+## Atypical Brain Network Dynamics in Neurodevelopmental Disorders
 ![picture-1-1](/images/research-picture-1-1.png)
-
-## Atypical brain network dynamics in neurodevelopmental disorders
-
-Neurophysiological processes and behavioral responses in human subjects are measurable using indirectly noninvasive fMRI, directly using surface recording using EEG, MEG– Brain oscillations, normal responses change due to cortical lesion, learning, memory consolidation – and interacts dynamically with the intrinsic spontaneous oscillations that are inevitably present in the brain due to large-scale anatomy and connectivity between the brain modules (inter and intra-hemispheric connectivity) in the absence of external stimuli. We are interested in the specific alteration in the cognitive response and try to understand mechanistically underlying neuronal changes from which they derive. To address the above research problem we systematically develop mathematical tools for understanding how brain networks reconfigure over multiple time scales. Along with our collaborators with their expertise in human behaviour, we apply these tools to understand perceptual learning, vision, and psychiatric disease.
-
-### *selected papers:*
-
-**A lightweight, end-to-end explainable, and generalized attention-based graph neural network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify autistics from typically developing.** Bhavna, Km, Niniva Ghosh, Romi Banerjee, and Dipanjan Roy. *Network Neuroscience*: 1-29 (2025).
-
-**Explainable deep-learning framework: decoding brain states and prediction of individual performance in false-belief task at early childhood stage.** Bhavna, K., Akhter, A., Banerjee, R., & Roy, D. *Frontiers in Neuroinformatics*, 18, 1392661 (2024).
-
-**Altered global modular organization of intrinsic functional connectivity in autism arises from atypical node‐level processing.** Sigar, P., Uddin, L. Q., & Roy, D. (2023). *Autism Research*, *16*(1), 66-83.
-
-**Atypical core-periphery brain dynamics in autism: Implications for symptom severity.** Dipanjan Roy and Lucina Q. Uddin. *Network Neuroscience* page 1-27, 2021.
-
-Harlalka, V., Bapi, R. S., Vinod, P. K., & Roy, D. **Atypical flexibility in dynamic functional connectivity quantifies the severity in autism spectrum disorder.** DOI: 10.3389/fnhum.2019.00006 (2019).
-
-Vatika Harlalka et al. **Age, disease and their interaction effects on the intrinsic connectivity of children and adolescents in Autism Spectrum Disorder using functional connectomics.** *Brain Connectivity*, Volume 8 Issue 7, September 17, 2018.
-
-Dipanjan Ray, Dipanjan Roy, Brahmdeep Sindhu, Pratap Sharan and Arpan Banerjee. **The neural substrate of group mental health: Insights from a multi-brain reference frame in functional neuroimaging.** *Front. Psychol.* 2017.
+Neurophysiological processes and behavioral responses in human subjects are measurable indirectly using fMRI, and directly using surface recordings such as EEG and MEG — brain oscillations, normal responses that change with cortical lesion, learning, and memory consolidation, and that interact dynamically with the intrinsic spontaneous oscillations present in the brain due to large-scale anatomy and connectivity between brain modules in the absence of external stimuli. We are interested in specific alterations in cognitive response and the neuronal changes that underlie them. To address this, we systematically develop mathematical tools for understanding how brain networks reconfigure over multiple time scales, and apply these tools with our collaborators to understand perceptual learning, vision, and psychiatric disease.
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Bhavna<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Network Neuroscience</div>
+        <div class="pub-date">2025 &middot; 1-29</div>
+      </div>
+    </div>
+    <div class="pub-title">A lightweight, end-to-end explainable, and generalized attention-based graph neural network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify autistics from typically developing</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/sigar.jpg" alt="Sigar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Sigar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Autism Research</div>
+        <div class="pub-date">2023 &middot; 16(1), 66-83</div>
+      </div>
+    </div>
+    <div class="pub-title">Altered global modular organization of intrinsic functional connectivity in autism arises from atypical node-level processing</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Roy<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Network Neuroscience</div>
+        <div class="pub-date">2021 &middot; 1-27</div>
+      </div>
+    </div>
+    <div class="pub-title">Atypical core-periphery brain dynamics in autism: implications for symptom severity</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Harlalka<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal"><a href="https://doi.org/10.3389/fnhum.2019.00006" target="_blank" rel="noopener">Frontiers in Human Neuroscience</a></div>
+        <div class="pub-date">2019</div>
+      </div>
+    </div>
+    <div class="pub-title">Atypical flexibility in dynamic functional connectivity quantifies the severity in autism spectrum disorder</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Harlalka<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Brain Connectivity</div>
+        <div class="pub-date">2018 &middot; 8(7)</div>
+      </div>
+    </div>
+    <div class="pub-title">Age, disease and their interaction effects on the intrinsic connectivity of children and adolescents in Autism Spectrum Disorder using functional connectomics</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Ray<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Frontiers in Psychology</div>
+        <div class="pub-date">2017</div>
+      </div>
+    </div>
+    <div class="pub-title">The neural substrate of group mental health: insights from a multi-brain reference frame in functional neuroimaging</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
 
 ---
-
-## Multi-scale, Multimodal imaging and machine learning methods to characterise impact of brain lesions, axonal injury in structure-function-dynamics relationship in cognitive processing and functional recovery
-
+<div class="text-wrap" markdown="1">
+## Multi-Scale, Multimodal Imaging and Machine Learning to Characterize Brain Lesions and Axonal Injury
+<h3 class="pub-subtitle">Structure-function-dynamics in cognitive processing and functional recovery</h3>
 [![Figure11](/images/research-figure111.png)](/images/research-figure111.png)
-
 [![RP_Fig2](/images/research-rp-fig2.png)](/images/research-rp-fig2.png)
-
-The human brain is a complex system capable of producing non-stationary spatiotemporal signals. Mathematical descriptions based on neural mass models describing population firing rate and time-dependent analysis of regional time series is capable of making predictions about systems dynamics. This further establishes a direct bridge between biologically inspired theory, simulations, and experimental design. This informed prediction from theory based on biological constraints serves as an important tool for designing novel sensory stimuli to probe brain dynamics at multiple spatial and temporal scales of organization. In our lab, we examine structural and functional brain networks using data from non-invasive neuroimaging techniques (fMRI, MEG, MRI, DTI, DSI). Our goal is to determine fundamental organizational principles of both underlying anatomy and specificity of functional dynamics. Our results collectively point to principles of the topology of networks that supports certain function of modules, spatial and temporal scaling of network organization, and network adaptability in response to increasing cognitive demands or in the context of learning. We are also interested in the recently emerging field of computational neuropsychiatry where complementary evidence accumulates from neuropsychiatric disease, specifically schizophrenia, the Parkinsonian disease that exhibits disruption of normal connectivity patterns, the prevalence of wiring inefficiency, disruption of neurochemical balance and as a consequence impact directly whole brain network dynamics.
-
-### *selected papers:*
-
-**Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism.** Chakraborty, P., Saha, S., Deco, G., Banerjee, A., & Roy, D. (2023). *Cerebral Cortex Communications*, *4*(3), tgad012.
-
-Naskar, A., Vattikonda, A., Deco, G., Roy, D., & Banerjee, A. (2021). Multiscale dynamic mean field model (MDMF) to relate resting-state brain dynamics with local cortical excitatory-inhibitory neurotransmitter homeostasis. *Network Neuroscience*, 1-55.
-
-Govinda Surampudi, Joyneel Mishra, Bapi Raju Surampudi, Gustavo Deco, Avinash Sharma, and Dipanjan Roy. **Resting-State Dynamics Meets Anatomical Structure: Temporal Multiple Kernel Learning (tMKL) Model.** *Neuroimage* Volume 184, 1 January 2019, Pages 609-620.
-
-Govinda Surampudi, Shruti Naik, Bapi Raju Surampudi, Viktor K. Jirsa, Avinash Sharma, and Dipanjan Roy. **Multiple Kernel Learning Model for Relating Structural and Functional Connectivity in the Brain.** *Scientific Reports* 8.1 (2018): 3265.
-
-Sriniwas Govinda Surampudi, Shruti Naik, Avinash Sharma, Raju S. Bapi, Dipanjan Roy. **Multiscale Diffusion Kernels for Learning the Structural and functional connectivity.** *Neural Information Processing Systems* (NIPS 2016), Barcelona.
-
-Anirudh Vattikonda, Bapi Raju, Arpan Banerjee, Gustavo Deco, Dipanjan Roy. **Does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity? A computational account.** *Neuroimage.* 2016 Aug 1;136:57-67.
+The human brain is a complex system capable of producing non-stationary spatiotemporal signals. Mathematical descriptions based on neural mass models describing population firing rate and time-dependent analysis of regional time series make it possible to predict system dynamics, establishing a direct bridge between biologically inspired theory, simulations, and experimental design. In our lab, we examine structural and functional brain networks using data from non-invasive neuroimaging techniques (fMRI, MEG, MRI, DTI, DSI) to determine fundamental organizational principles of both underlying anatomy and functional dynamics. We are also interested in the emerging field of computational neuropsychiatry, where evidence accumulates from neuropsychiatric disease — specifically schizophrenia and Parkinson's disease — that exhibits disruption of normal connectivity patterns and neurochemical balance.
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Chakraborty<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex Communications</div>
+        <div class="pub-date">2023 &middot; 4(3), tgad012</div>
+      </div>
+    </div>
+    <div class="pub-title">Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/naskar.jpg" alt="Naskar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Naskar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Network Neuroscience</div>
+        <div class="pub-date">2021 &middot; 1-55</div>
+      </div>
+    </div>
+    <div class="pub-title">Multiscale dynamic mean field model (MDMF) to relate resting-state brain dynamics with local cortical excitatory-inhibitory neurotransmitter homeostasis</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">NeuroImage</div>
+        <div class="pub-date">2019 &middot; 184, 609-620</div>
+      </div>
+    </div>
+    <div class="pub-title">Resting-state dynamics meets anatomical structure: temporal multiple kernel learning (tMKL) model</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Scientific Reports</div>
+        <div class="pub-date">2018 &middot; 8(1), 3265</div>
+      </div>
+    </div>
+    <div class="pub-title">Multiple kernel learning model for relating structural and functional connectivity in the brain</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">NeurIPS 2016</div>
+        <div class="pub-date">2016</div>
+      </div>
+    </div>
+    <div class="pub-title">Multiscale diffusion kernels for learning the structural and functional connectivity</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/vattikonda.jpg" alt="Vattikonda" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Vattikonda<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">NeuroImage</div>
+        <div class="pub-date">2016 &middot; 136, 57-67</div>
+      </div>
+    </div>
+    <div class="pub-title">Does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity? A computational account</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
 
 ---
-
-## How sensory processing, perception, attention, predictive coding and learning give rise to memory and cognitive processing using behaviour, EEG, MEG and fMRI and Deep Neural Networks (DNNs)
-
-We aim to investigate the role of local oscillations in a normal human brain and also a functional role of abnormal oscillations in the neuropsychiatric disorder characterised by alterations in a distributed activity across brain areas. We use network methods to uncover changes in large-scale brain circuitry that impact on cognitive function and behaviour with the goal of identifying underlying neurophysiological processes of the disease and informing clinical interventions using brain network recovery studies. Critical behaviour in rest-state dynamics: The precise neuronal mechanism generating close to critical dynamics in the brain is hitherto unresolved despite numerous recent investigations. What features of this critical state can be observed in the brain to conjecture that it is critical? To mathematically describe empirical observations we study cortical long-range correlations in space and time. For short-range correlations specifically look at features such as neuronal avalanches providing stability. At behavioural level dynamics is burst-like (e.g. synchronized gamma band (40-80Hz) burst evoked during stimulus detection or attention). We also develop drift-diffusion models based on statistical physics to study the mesoscopic dynamics of neural masses distributed in the various graph like entities such as voxels, nodes comprising several brain areas connected via realistic structural connectivity matrix.
-
-**Emotion dynamics as hierarchical Bayesian inference in time.** Majumdar, G., Yazin, F., Banerjee, A., & Roy, D. (2023). *Cerebral Cortex*, *33*(7), 3750-3772.
-
-**Effective networks mediate right hemispheric dominance of human 40 Hz auditory steady-state response.** Kumar, N., Jaiswal, A., Roy, D., & Banerjee, A. (2023). *Neuropsychologia*, *184*, 108559.
-
-Ghosh, P., Roy, D., & Banerjee, A. (2021). **Organization of directed functional connectivity among nodes of ventral attention network reveals the common network mechanisms underlying saliency processing across distinct spatial and spatio-temporal scales.** *NeuroImage*, 231, 117869.
-
-**Contextual prediction errors reorganize naturalistic episodic memories in time.** Yazin, F., Das, M., Banerjee, A., & Roy, D. (2021). *Scientific reports*, *11*(1), 12364.
-
-VinodhG. Kumar, Shrey Dutta, Siddharth Talwar, Dipanjan Roy, Arpan Banerjee. **Biophysical mechanisms governing large-scale brain network dynamics underlying individual-specific variability of perception.** *European Journal of Neuroscience* 52(7), 3746-3762 (2020).
-
-Dipanjan Ray, Neelambari Hazare, Dipanjan Roy, Arpan Banerjee. **Large-scale functional integration, rather than functional dissociation along dorsal and ventral streams, underlies visual perception and action.** *Journal of Cognitive Neuroscience*, 1-15 (2020).
-
-G. Vinodh Kumar, Tamesh Halder, Amit K. Jaiswal, Abhishek Mukherjee, Dipanjan Roy, and Arpan Banerjee. **Large-scale functional brain networks underlying temporal integration of audio-visual speech perception: An EEG study.** *Front. Psychol.* (2016).
-
-Roy, D., Sigala, R., Breakspear, M., McIntosh, A. R., Jirsa, V. K., Deco, G., & Ritter, P. (2014). **Using the virtual brain to reveal the role of oscillations and plasticity in shaping brain's dynamical landscape.** *Brain connectivity*, *4*(10), 791-811.
-
----
-
+<div class="text-wrap" markdown="1">
+## Sensory Processing, Perception, Attention, Predictive Coding, and Learning in Memory and Cognition
+<h3 class="pub-subtitle">Behaviour, EEG, MEG, fMRI, and deep neural networks</h3>
 ![Figure_1](/images/research-figure-1.jpg)
-
-## Brain state dependent neurostimulations, feedback and modulation of neurophysiological responses during multisensory perceptual processing and oscillatory BCI models
-
-Collective dynamics can create complex patterns of the population of neurons. Spiking dynamics occur on a fast time scale, typically observed in vivo in neuronal microcircuits, and bursting dynamics occur on a much slower time scale. We study the behavior of large populations constrained by properties and the paucity of physical connections between the connected units and the subtype of synapses. In this work, we build classes of models and apply machine learning principles such as the gradient descent algorithm, multi-parametric search to infer the underlying model state space, and biophysical mechanisms responsible for observed neuronal dynamics.
-
-### *selected papers:*
-
-**Predicting Response to McGurk Illusion Based on Periodic and Aperiodic Prestimulus EEG Activity** (2024) Vinsea A V Singh, Vinodh G Kumar, Arpan Banerjee, Dipanjan Roy. doi: https://doi.org/10.1101/2022.01.20.477172
-
-Arup Kumar Pal, Dipanjan Roy, G. Vinodh Kumar, Bipra Chatterjee, L. N. Sharma, Arpan Banerjee, and C.N. Gupta. **Empirical Mode Decomposition Algorithms for Classification of Single-Channel EEG Manifesting McGurk Effect.** International Conference Series on Intelligent Human-Computer Interaction 2020, IHCI 2019, LNCS 11886, pp. 49–60.
-
-Snigdha Dagar, Bapi Raju, Subhajit Raychoudhury, Anirban Dutta, Dipanjan Roy. **Near-infrared spectroscopy (NIRS) – electroencephalography (EEG) based brain-state dependent electrotherapy (BSDE) to facilitate post-stroke neurorehabilitation: inhibition–excitation balance hypothesis.** *Front. Neurol.* 7:123 (2016).
-
-Rodrigo Sigala, Sebastian Haufe, Dipanjan Roy, Hubert R. Dinse, Petra Ritter. **The role of alpha-rhythm states in perceptual learning: insights from experiments and computational models.** *Front. Comput. Neurosci.* 2014 March.
-
-Mohit H. Adhikari, Pascale P. Quilchini, Dipanjan Roy, Viktor K. Jirsa, Christophe Bernard. **Brain state dependent post-inhibitory rebound in entorhinal cortex interneurons.** *Journal of Neuroscience* 2012 May 9;32(19):6501-10.
+We aim to investigate the role of local oscillations in a normal human brain, and the functional role of abnormal oscillations in neuropsychiatric disorders characterised by alterations in distributed activity across brain areas. We use network methods to uncover changes in large-scale brain circuitry that impact cognitive function and behaviour, with the goal of identifying the underlying neurophysiological processes of disease and informing clinical interventions. A related focus is critical behaviour in resting-state dynamics: the precise neuronal mechanism generating near-critical dynamics in the brain remains unresolved despite numerous recent investigations. To mathematically describe empirical observations, we study cortical long-range correlations in space and time, and for short-range correlations we look at features such as neuronal avalanches. We also develop drift-diffusion models based on statistical physics to study the mesoscopic dynamics of neural masses distributed across graph-like entities such as voxels and nodes connected via realistic structural connectivity matrices.
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2023 &middot; 33(7), 3750-3772</div>
+      </div>
+    </div>
+    <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Neuropsychologia</div>
+        <div class="pub-date">2023 &middot; 184, 108559</div>
+      </div>
+    </div>
+    <div class="pub-title">Effective networks mediate right hemispheric dominance of human 40 Hz auditory steady-state response</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/ghosh.jpg" alt="Ghosh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Ghosh<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">NeuroImage</div>
+        <div class="pub-date">2021 &middot; 231, 117869</div>
+      </div>
+    </div>
+    <div class="pub-title">Organization of directed functional connectivity among nodes of ventral attention network reveals the common network mechanisms underlying saliency processing across distinct spatial and spatio-temporal scales</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/yazin.jpg" alt="Yazin" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Yazin<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Scientific Reports</div>
+        <div class="pub-date">2021 &middot; 11(1), 12364</div>
+      </div>
+    </div>
+    <div class="pub-title">Contextual prediction errors reorganize naturalistic episodic memories in time</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">European Journal of Neuroscience</div>
+        <div class="pub-date">2020 &middot; 52(7), 3746-3762</div>
+      </div>
+    </div>
+    <div class="pub-title">Biophysical mechanisms governing large-scale brain network dynamics underlying individual-specific variability of perception</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Ray<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Journal of Cognitive Neuroscience</div>
+        <div class="pub-date">2020 &middot; 1-15</div>
+      </div>
+    </div>
+    <div class="pub-title">Large-scale functional integration, rather than functional dissociation along dorsal and ventral streams, underlies visual perception and action</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Frontiers in Psychology</div>
+        <div class="pub-date">2016</div>
+      </div>
+    </div>
+    <div class="pub-title">Large-scale functional brain networks underlying temporal integration of audio-visual speech perception: an EEG study</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Roy<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Brain Connectivity</div>
+        <div class="pub-date">2014 &middot; 4(10), 791-811</div>
+      </div>
+    </div>
+    <div class="pub-title">Using the virtual brain to reveal the role of oscillations and plasticity in shaping the brain's dynamical landscape</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
 
 ---
+<div class="text-wrap" markdown="1">
+## Brain-State-Dependent Neurostimulation, Feedback, and Modulation of Neurophysiological Responses
+<h3 class="pub-subtitle">Multisensory perceptual processing and oscillatory BCI models</h3>
+Collective dynamics can create complex patterns in populations of neurons. Spiking dynamics occur on a fast time scale, typically observed in vivo in neuronal microcircuits, while bursting dynamics occur on a much slower time scale. We study the behavior of large populations as constrained by the properties and paucity of physical connections between connected units and synapse subtypes. In this work, we build classes of models and apply machine learning principles — gradient descent, multi-parametric search — to infer the underlying model state space and the biophysical mechanisms responsible for observed neuronal dynamics.
+</div>
+<div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/singh.jpg" alt="Singh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Singh<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal"><a href="https://doi.org/10.1101/2022.01.20.477172" target="_blank" rel="noopener">bioRxiv (preprint)</a></div>
+        <div class="pub-date">2024</div>
+      </div>
+    </div>
+    <div class="pub-title">Predicting response to McGurk illusion based on periodic and aperiodic prestimulus EEG activity</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/pal.jpg" alt="Pal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Pal<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">IHCI 2019, LNCS 11886</div>
+        <div class="pub-date">2020 &middot; pp. 49-60</div>
+      </div>
+    </div>
+    <div class="pub-title">Empirical mode decomposition algorithms for classification of single-channel EEG manifesting McGurk effect</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/dagar.jpg" alt="Dagar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Dagar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Frontiers in Neurology</div>
+        <div class="pub-date">2016 &middot; 7:123</div>
+      </div>
+    </div>
+    <div class="pub-title">Near-infrared spectroscopy (NIRS)-electroencephalography (EEG) based brain-state dependent electrotherapy (BSDE) to facilitate post-stroke neurorehabilitation: inhibition-excitation balance hypothesis</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/sigala.jpg" alt="Sigala" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Sigala<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Frontiers in Computational Neuroscience</div>
+        <div class="pub-date">2014</div>
+      </div>
+    </div>
+    <div class="pub-title">The role of alpha-rhythm states in perceptual learning: insights from experiments and computational models</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+  <div class="pub-card">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/authors/adhikari.jpg" alt="Adhikari" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Adhikari<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Journal of Neuroscience</div>
+        <div class="pub-date">2012 &middot; 32(19), 6501-6510</div>
+      </div>
+    </div>
+    <div class="pub-title">Brain state dependent post-inhibitory rebound in entorhinal cortex interneurons</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+  </div>
+</div></div>
+
+---
+<div class="text-wrap" markdown="1">
 
 ## Funding
 
 - **Science and Engineering Research Board (SERB)** Core Research Grant, *Govt. of India*
-- **Department of Biotechnology (DBT)** Flagship project on Common Mental health and Brain Mapping
+- **Department of Biotechnology (DBT)** Flagship project on Common Mental Health and Brain Mapping
 - **Department of Biotechnology (DBT)**, Govt. of India
 - **Department of Science and Technology (DST)** Cognitive Science Research Initiative, Govt. of India
 - **Department of Science and Technology (DST)**
 - **NBRC and IIT Jodhpur core**
 
+</div>
 </div>
