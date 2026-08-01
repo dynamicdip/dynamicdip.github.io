@@ -22,7 +22,7 @@ classes: wide
 .research-content h2 {
   font-weight: 700;
   color: #1a1a1a;
-  font-size: 28px;
+  font-size: 25px;
   margin-top: 56px;
   max-width: 1600px;
   margin-left: auto;
@@ -32,16 +32,16 @@ classes: wide
 .research-content h3.pub-subtitle {
   font-weight: 500;
   color: #5b6470;
-  font-size: 17px;
-  margin-top: -8px;
-  margin-bottom: 20px;
+  font-size: 15px;
+  margin-top: -6px;
+  margin-bottom: 18px;
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
 }
 .research-content p, .research-content li {
-  font-size: 18.67px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.6;
   color: #333;
@@ -96,7 +96,7 @@ classes: wide
 }
 .pub-byline { min-width: 0; }
 .pub-author {
-  font-size: 16px;
+  font-size: 14.5px;
   font-weight: 600;
   color: #1a1a1a;
   white-space: nowrap;
@@ -105,29 +105,29 @@ classes: wide
 }
 .pub-etal { font-weight: 300; color: #7a828c; }
 .pub-journal {
-  font-size: 14px;
+  font-size: 12.5px;
   font-weight: 500;
   color: #2c5f8a;
 }
 .pub-journal a { color: #2c5f8a; text-decoration: none; }
 .pub-journal a:hover { text-decoration: underline; }
 .pub-date {
-  font-size: 12.5px;
+  font-size: 11.5px;
   font-weight: 300;
   color: #8a919b;
   margin-top: 2px;
 }
 .pub-title {
-  font-size: 16.5px;
+  font-size: 14.5px;
   font-weight: 600;
   color: #1a1a1a;
   line-height: 1.4;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 .pub-summary {
-  font-size: 14.5px;
+  font-size: 13px;
   font-weight: 300;
-  line-height: 1.55;
+  line-height: 1.5;
   color: #55606b;
 }
 .pub-summary em { color: #b7860a; font-style: italic; }
@@ -214,7 +214,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging</div>
-    <div class="pub-summary"><em>The aging brain undergoes structural decline while remarkably preserving the coordination of functional neural networks. To understand how this occurs, researchers used biophysically grounded, multiscale brain modeling constrained by human connectomes, treating neurotransmitter concentrations as adjustable parameters to maintain regional homeostasis. The study discovered that reduced glutamate combined with invariant GABA acts as the primary computational mechanism driving topological variations in functional connectivity across the lifespan. These adjusted neurotransmitter concentrations successfully maintained critical firing rates and accurately replicated age-associated functional connectivity patterns. Validated across three independent datasets using graph-theoretic metrics, these findings bridge the gap between microscopic molecular shifts and macroscopic brain dynamics, offering new insights into age-associated neural disorders.</em></div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
     </div>
   </div>
   <div class="pub-card">
@@ -319,7 +319,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
-    <div class="pub-summary"><em>Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</em></div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
     </div>
   </div>
   <div class="pub-card">
