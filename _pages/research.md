@@ -61,13 +61,23 @@ classes: wide
   background: #fff;
   border: 1px solid #e3e6ea;
   border-radius: 16px;
-  padding: 22px;
+  overflow: hidden;
   box-shadow: 0 2px 10px rgba(20, 30, 50, 0.04);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 .pub-card:hover {
   transform: translateY(-3px);
   box-shadow: 0 10px 24px rgba(20, 30, 50, 0.09);
+}
+.pub-snapshot {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  background: #eef1f5;
+}
+.pub-card-body {
+  padding: 22px;
 }
 .pub-card-top {
   display: flex;
@@ -193,8 +203,10 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/saha-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
+      <img class="pub-photo" src="/images/authors/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Saha<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Communications Biology</div>
@@ -202,12 +214,12 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging</div>
-    <div class="pub-summary"><em> While the aging brain experiences structural decline, it remarkably preserves functional coordination among neural assemblies.
-The Mechanism: Using multiscale, biophysically grounded modeling constrained by anatomical connectomes, researchers investigated how neurotransmitters regulate this process.
-Key Findings: By algorithmically adjusting GABA and glutamate to maintain regional homeostasis, the model revealed that invariant GABA and reduced glutamate serve as the core computational mechanisms preserving functional integration across the lifespan.
-Validation: These findings successfully replicated across three distinct datasets using graph-theoretic metrics, offering a unified framework linking molecular shifts to macroscopic brain dynamics in aging.</em></div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/chakraborty-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -218,8 +230,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Contributions of short- and long-range white matter tracts in dynamic compensation with aging</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/sastry-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/sastry.jpg" alt="Sastry" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -230,8 +245,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Stability of the sensorimotor network sculpts the dynamic repertoire of the resting state over the lifespan</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/pathak-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/pathak.jpg" alt="Pathak" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -242,8 +260,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -254,8 +275,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Characterizing the dynamic reorganization in healthy aging and classification of brain age</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/das-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/das.jpg" alt="Das" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -266,8 +290,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Reconfiguration of directed functional connectivity among neurocognitive networks with aging: considering the role of thalamo-cortical interactions</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/thuwal-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/thuwal.jpg" alt="Thuwal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -278,8 +305,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Aperiodic and periodic components of ongoing oscillatory brain dynamics link distinct functional aspects of cognition across the adult lifespan</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/sahoo-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/sahoo.jpg" alt="Sahoo" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -290,8 +320,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -302,8 +335,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/naik-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/naik.jpg" alt="Naik" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -314,6 +350,7 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Metastability in senescence</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
@@ -334,6 +371,8 @@ Validation: These findings successfully replicated across three distinct dataset
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/bhavna-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -344,8 +383,11 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Explainable deep-learning framework: decoding brain states and prediction of individual performance in false-belief task at early childhood stage</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/bhavna-2024-2.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -356,6 +398,7 @@ Validation: These findings successfully replicated across three distinct dataset
     </div>
     <div class="pub-title">Characterization of the temporal stability of ToM and pain functional brain networks carrying distinct developmental signatures during naturalistic viewing</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
@@ -374,6 +417,8 @@ Neurophysiological processes and behavioral responses in human subjects are meas
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/bhavna-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/bhavna.jpg" alt="Bhavna" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -384,8 +429,11 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">A lightweight, end-to-end explainable, and generalized attention-based graph neural network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify autistics from typically developing</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/sigar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/sigar.jpg" alt="Sigar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -396,8 +444,11 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">Altered global modular organization of intrinsic functional connectivity in autism arises from atypical node-level processing</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/roy-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -408,8 +459,11 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">Atypical core-periphery brain dynamics in autism: implications for symptom severity</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/harlalka-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -420,8 +474,11 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">Atypical flexibility in dynamic functional connectivity quantifies the severity in autism spectrum disorder</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/harlalka-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/harlalka.jpg" alt="Harlalka" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -432,8 +489,11 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">Age, disease and their interaction effects on the intrinsic connectivity of children and adolescents in Autism Spectrum Disorder using functional connectomics</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/ray-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -444,6 +504,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
     </div>
     <div class="pub-title">The neural substrate of group mental health: insights from a multi-brain reference frame in functional neuroimaging</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
@@ -466,6 +527,8 @@ The human brain is a complex system capable of producing non-stationary spatiote
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/chakraborty-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -476,8 +539,11 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/naskar-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/naskar.jpg" alt="Naskar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -488,8 +554,11 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Multiscale dynamic mean field model (MDMF) to relate resting-state brain dynamics with local cortical excitatory-inhibitory neurotransmitter homeostasis</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/surampudi-2019.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -500,8 +569,11 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Resting-state dynamics meets anatomical structure: temporal multiple kernel learning (tMKL) model</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/surampudi-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -512,8 +584,11 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Multiple kernel learning model for relating structural and functional connectivity in the brain</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/surampudi-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -524,8 +599,11 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Multiscale diffusion kernels for learning the structural and functional connectivity</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/vattikonda-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/vattikonda.jpg" alt="Vattikonda" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -536,6 +614,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
     </div>
     <div class="pub-title">Does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity? A computational account</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
@@ -556,6 +635,8 @@ We aim to investigate the role of local oscillations in a normal human brain, an
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -566,8 +647,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -578,8 +662,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Effective networks mediate right hemispheric dominance of human 40 Hz auditory steady-state response</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/ghosh-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/ghosh.jpg" alt="Ghosh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -590,8 +677,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Organization of directed functional connectivity among nodes of ventral attention network reveals the common network mechanisms underlying saliency processing across distinct spatial and spatio-temporal scales</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/yazin-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/yazin.jpg" alt="Yazin" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -602,8 +692,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Contextual prediction errors reorganize naturalistic episodic memories in time</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/kumar-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -614,8 +707,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Biophysical mechanisms governing large-scale brain network dynamics underlying individual-specific variability of perception</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/ray-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/ray.jpg" alt="Ray" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -626,8 +722,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Large-scale functional integration, rather than functional dissociation along dorsal and ventral streams, underlies visual perception and action</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/kumar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -638,8 +737,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Large-scale functional brain networks underlying temporal integration of audio-visual speech perception: an EEG study</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/roy-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -650,6 +752,7 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     </div>
     <div class="pub-title">Using the virtual brain to reveal the role of oscillations and plasticity in shaping the brain's dynamical landscape</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
@@ -668,6 +771,8 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/singh-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/singh.jpg" alt="Singh" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -678,8 +783,11 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
     <div class="pub-title">Predicting response to McGurk illusion based on periodic and aperiodic prestimulus EEG activity</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/pal-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/pal.jpg" alt="Pal" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -690,8 +798,11 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
     <div class="pub-title">Empirical mode decomposition algorithms for classification of single-channel EEG manifesting McGurk effect</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/dagar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/dagar.jpg" alt="Dagar" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -702,8 +813,11 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
     <div class="pub-title">Near-infrared spectroscopy (NIRS)-electroencephalography (EEG) based brain-state dependent electrotherapy (BSDE) to facilitate post-stroke neurorehabilitation: inhibition-excitation balance hypothesis</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/sigala-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/sigala.jpg" alt="Sigala" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -714,8 +828,11 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
     <div class="pub-title">The role of alpha-rhythm states in perceptual learning: insights from experiments and computational models</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
+    <img class="pub-snapshot" src="/images/papers/adhikari-2012.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/authors/adhikari.jpg" alt="Adhikari" onerror="this.onerror=null;this.src='/images/authors/default-avatar.png';">
       <div class="pub-byline">
@@ -726,6 +843,7 @@ Collective dynamics can create complex patterns in populations of neurons. Spiki
     </div>
     <div class="pub-title">Brain state dependent post-inhibitory rebound in entorhinal cortex interneurons</div>
     <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
 </div></div>
 
