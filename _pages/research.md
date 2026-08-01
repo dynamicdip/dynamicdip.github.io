@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Research Areas"
 permalink: /research/
 author_profile: false
+classes: wide
 banner_image: /images/CBDL_Lab_header.png
 ---
 
