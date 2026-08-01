@@ -146,18 +146,26 @@ html, body { overflow-x: hidden; }
   margin-left: auto;
   margin-right: auto;
 }
-.text-wrap img {
+.research-figure {
   display: block;
   width: 100%;
+  max-width: 1600px;
   height: auto;
   margin: 24px auto;
   border-radius: 10px;
+  box-sizing: border-box;
 }
-.text-wrap a {
+a.research-figure-link {
   display: block;
-}
-.text-wrap a img {
+  max-width: 1600px;
   margin: 0 auto 24px auto;
+}
+a.research-figure-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 0;
 }
 .pub-wrap {
   max-width: 1600px;
@@ -176,7 +184,7 @@ html, body { overflow-x: hidden; }
 
 <h3 class="pub-subtitle">Attention, perception, memory, and emotion</h3>
 
-![Presentation2](/images/research-presentation2.png)
+![Presentation2](/images/research-presentation2.png){: .research-figure }
 
 We are currently studying large-scale brain network dynamics under specific physical, anatomical constraints inferred from modern-day neuroimaging methods EEG, MEG, fMRI, DTI/DWI using resting and goal oriented task conditions. Our group combines three complementary approaches — neuroimaging, computational methods including data-driven analysis and machine learning, and behavioural experiments grounded on neurocognitive and neuropsychological theories — to understand how multisensory perception and attentional control shape memory processing, and how cognitive aging impacts perceptual integration, attentional variability, working memory, and episodic memory processing. We also apply neurodynamical computational modelling frameworks to uncover the specific influence of biophysical and physiological parameters such as noise, conduction delay, and brain-states on the large-scale brain network structural-functional connectivity relationship (modularity, small-world network topology, scale-free topology, centrality) and dynamics (synchrony, coherence, metastability, flexibility) of the aging brain. Further, exploiting unisensory (visual, auditory, and somatosensory) and multisensory (visual-auditory, visual-tactile) fMRI and EEG paradigms, we investigate brain networks and fingerprint multisensory brain connectivity in space and time.
 
@@ -314,9 +322,9 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <h3 class="pub-subtitle">Atypical neurodevelopment in children — fMRI, EEG, and naturalistic tasks</h3>
 
-![](/images/research-screenshot-1.png)
+![](/images/research-screenshot-1.png){: .research-figure }
 
-![](/images/research-screenshot-2.png)
+![](/images/research-screenshot-2.png){: .research-figure }
 
 
 </div>
@@ -354,7 +362,7 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 ## Atypical Brain Network Dynamics in Neurodevelopmental Disorders
 
-![picture-1-1](/images/research-picture-1-1.png)
+![picture-1-1](/images/research-picture-1-1.png){: .research-figure }
 
 Neurophysiological processes and behavioral responses in human subjects are measurable indirectly using fMRI, and directly using surface recordings such as EEG and MEG — brain oscillations, normal responses that change with cortical lesion, learning, and memory consolidation, and that interact dynamically with the intrinsic spontaneous oscillations present in the brain due to large-scale anatomy and connectivity between brain modules in the absence of external stimuli. We are interested in specific alterations in cognitive response and the neuronal changes that underlie them. To address this, we systematically develop mathematical tools for understanding how brain networks reconfigure over multiple time scales, and apply these tools with our collaborators to understand perceptual learning, vision, and psychiatric disease.
 
@@ -444,9 +452,9 @@ Neurophysiological processes and behavioral responses in human subjects are meas
 
 <h3 class="pub-subtitle">Structure-function-dynamics in cognitive processing and functional recovery</h3>
 
-[![Figure11](/images/research-figure111.png)](/images/research-figure111.png)
+[![Figure11](/images/research-figure111.png)](/images/research-figure111.png){: .research-figure-link }
 
-[![RP_Fig2](/images/research-rp-fig2.png)](/images/research-rp-fig2.png)
+[![RP_Fig2](/images/research-rp-fig2.png)](/images/research-rp-fig2.png){: .research-figure-link }
 
 The human brain is a complex system capable of producing non-stationary spatiotemporal signals. Mathematical descriptions based on neural mass models describing population firing rate and time-dependent analysis of regional time series make it possible to predict system dynamics, establishing a direct bridge between biologically inspired theory, simulations, and experimental design. In our lab, we examine structural and functional brain networks using data from non-invasive neuroimaging techniques (fMRI, MEG, MRI, DTI, DSI) to determine fundamental organizational principles of both underlying anatomy and functional dynamics. We are also interested in the emerging field of computational neuropsychiatry, where evidence accumulates from neuropsychiatric disease — specifically schizophrenia and Parkinson's disease — that exhibits disruption of normal connectivity patterns and neurochemical balance.
 
@@ -536,7 +544,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
 
 <h3 class="pub-subtitle">Behaviour, EEG, MEG, fMRI, and deep neural networks</h3>
 
-![Figure_1](/images/research-figure-1.jpg)
+![Figure_1](/images/research-figure-1.jpg){: .research-figure }
 
 We aim to investigate the role of local oscillations in a normal human brain, and the functional role of abnormal oscillations in neuropsychiatric disorders characterised by alterations in distributed activity across brain areas. We use network methods to uncover changes in large-scale brain circuitry that impact cognitive function and behaviour, with the goal of identifying the underlying neurophysiological processes of disease and informing clinical interventions. A related focus is critical behaviour in resting-state dynamics: the precise neuronal mechanism generating near-critical dynamics in the brain remains unresolved despite numerous recent investigations. To mathematically describe empirical observations, we study cortical long-range correlations in space and time, and for short-range correlations we look at features such as neuronal avalanches. We also develop drift-diffusion models based on statistical physics to study the mesoscopic dynamics of neural masses distributed across graph-like entities such as voxels and nodes connected via realistic structural connectivity matrices.
 
