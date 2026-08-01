@@ -214,7 +214,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary"><em>The aging brain undergoes structural decline while remarkably preserving the coordination of functional neural networks. To understand how this occurs, researchers used biophysically grounded, multiscale brain modeling constrained by human connectomes, treating neurotransmitter concentrations as adjustable parameters to maintain regional homeostasis. The study discovered that reduced glutamate combined with invariant GABA acts as the primary computational mechanism driving topological variations in functional connectivity across the lifespan. These adjusted neurotransmitter concentrations successfully maintained critical firing rates and accurately replicated age-associated functional connectivity patterns. Validated across three independent datasets using graph-theoretic metrics, these findings bridge the gap between microscopic molecular shifts and macroscopic brain dynamics, offering new insights into age-associated neural disorders.</em></div>
     </div>
   </div>
   <div class="pub-card">
@@ -319,7 +319,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary"><em>Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</em></div>
     </div>
   </div>
   <div class="pub-card">
