@@ -53,8 +53,8 @@ classes: wide
 
 .pub-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 22px;
+  grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+  gap: 26px;
   margin: 28px 0 12px 0;
 }
 .pub-card {
@@ -77,7 +77,7 @@ classes: wide
   background: #eef1f5;
 }
 .pub-card-body {
-  padding: 22px;
+  padding: 26px;
 }
 .pub-card-top {
   display: flex;
@@ -86,8 +86,8 @@ classes: wide
   margin-bottom: 14px;
 }
 .pub-photo {
-  width: 56px;
-  height: 56px;
+  width: 64px;
+  height: 64px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
@@ -96,7 +96,7 @@ classes: wide
 }
 .pub-byline { min-width: 0; }
 .pub-author {
-  font-size: 14.5px;
+  font-size: 18px;
   font-weight: 600;
   color: #1a1a1a;
   white-space: nowrap;
@@ -105,29 +105,29 @@ classes: wide
 }
 .pub-etal { font-weight: 300; color: #7a828c; }
 .pub-journal {
-  font-size: 12.5px;
+  font-size: 15px;
   font-weight: 500;
   color: #2c5f8a;
 }
 .pub-journal a { color: #2c5f8a; text-decoration: none; }
 .pub-journal a:hover { text-decoration: underline; }
 .pub-date {
-  font-size: 11.5px;
+  font-size: 13px;
   font-weight: 300;
   color: #8a919b;
   margin-top: 2px;
 }
 .pub-title {
-  font-size: 14.5px;
+  font-size: 18px;
   font-weight: 600;
   color: #1a1a1a;
   line-height: 1.4;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .pub-summary {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.55;
   color: #55606b;
 }
 .pub-summary em { color: #b7860a; font-style: italic; }
@@ -214,7 +214,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Local homeostasis preserves global neural dynamics compensating for structural loss during human lifespan aging</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Healthy aging involves structural brain loss and altered neurotransmitter levels, yet the brain remarkably preserves functional network coordination. This study identifies the underlying computational mechanism behind that preservation. Algorithmically adjusting neurotransmitters showed that keeping GABA invariant while lowering glutamate allows brain regions to maintain critical firing rates and mimic real-world age-associated functional connectivity patterns. By bridging microscopic (molecular/neurotransmitters) and macroscopic (whole-brain network dynamics) scales, the framework explains lifespan topological shifts in functional connectivity—a finding validated across three distinct empirical datasets and graph-theoretic metrics. Provides a grounded computational approach to understand healthy cognitive trajectory and better detect or treat age-associated neurological disorders.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -319,7 +319,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning, and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</div>
     </div>
   </div>
   <div class="pub-card">
