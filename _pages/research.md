@@ -118,11 +118,12 @@ classes: wide
   margin-top: 2px;
 }
 .pub-title {
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 23px;
+  font-weight: 800;
   color: #1a1a1a;
-  line-height: 1.4;
-  margin-bottom: 10px;
+  line-height: 1.28;
+  letter-spacing: -0.01em;
+  margin-bottom: 12px;
 }
 .pub-summary {
   font-size: 15px;
