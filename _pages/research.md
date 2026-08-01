@@ -24,6 +24,10 @@ classes: wide
   color: #1a1a1a;
   font-size: 28px;
   margin-top: 56px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
 }
 .research-content h3.pub-subtitle {
   font-weight: 500;
@@ -31,6 +35,10 @@ classes: wide
   font-size: 17px;
   margin-top: -8px;
   margin-bottom: 20px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
 }
 .research-content p, .research-content li {
   font-size: 18.67px;
