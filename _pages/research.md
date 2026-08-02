@@ -230,9 +230,9 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Contributions of short- and long-range white matter tracts in dynamic compensation with aging</div>
-    <div class="pub-summary"><em>The Structural Challenge: Brain function relies on both global integration (long-range connections) and local processing (short-range connections). Aging severely degrades these structural pathways, particularly long-range connections.
+    <div class="pub-summary">The Structural Challenge: Brain function relies on both global integration (long-range connections) and local processing (short-range connections). Aging severely degrades these structural pathways, particularly long-range connections.
 The Functional Paradox: Despite this structural breakdown, normative functional patterns remain intact across the lifespan due to dynamic compensation. The Mechanistic Breakthrough: Short-range connections act as the primary driver of this compensation. As long-range connections decay, short-range tracts actively amplify the brain's global coupling strength to preserve dynamical complexity.
-Parameter Readjustment: The study reveals how short- and long-range tracts modulate intrinsic global scaling parameters—specifically global coupling strength and conduction delay—to readjust the brain's network dynamics.</em></div>
+Parameter Readjustment: The study reveals how short- and long-range tracts modulate intrinsic global scaling parameters—specifically global coupling strength and conduction delay—to readjust the brain's network dynamics.</div>
     </div>
   </div>
   <div class="pub-card">
