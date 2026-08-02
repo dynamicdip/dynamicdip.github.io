@@ -204,7 +204,7 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/saha-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/saha-2025new.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/saha.jpg" alt="Saha" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
