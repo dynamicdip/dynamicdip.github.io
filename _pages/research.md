@@ -245,7 +245,7 @@ We are currently studying large-scale brain network dynamics under specific phys
       </div>
     </div>
     <div class="pub-title">Stability of sensorimotor network sculpts the dynamic repertoire of resting state over lifespan</div>
-    <div class="pub-summary">Temporally stable patterns of neural coordination among distributed brain regions are crucial for survival. Recently, many studies have highlighted the association between healthy aging and modifications in the organization of functional brain networks across various time-scales. Nonetheless, the quantitative characterization of the temporal stability of functional brain networks across healthy aging remains unexplored. This study introduces a data-driven unsupervised approach to capture high-dimensional dynamic functional connectivity (dFC) via low-dimensional patterns and subsequent estimation of temporal stability using quantitative metrics. Healthy aging-related changes in temporal stability of dFC were characterized across resting-state, movie-viewing, and sensorimotor tasks (SMT) on a large (n = 645) healthy aging dataset (18–88 years). Prominent results reveal that (1) whole-brain temporal dynamics of the dFC movie-watching task are closer to resting-state than to SMT, with an overall trend of highest temporal stability observed during SMT, followed by movie-watching and resting-state, invariant across lifespan aging, (2) in both task conditions, stability of neurocognitive networks in young adults is higher than older adults, and (3) temporal stability of whole-brain resting-state follows a U-shaped curve along lifespan—a pattern shared by sensorimotor network stability, indicating their deeper relationship. Overall, the results can be applied generally for studying cohorts of neurological disorders using neuroimaging tools.</div>
+    <div class="pub-summary">Temporally stable patterns of neural coordination among distributed brain regions are crucial for survival. Recently, many studies have highlighted the association between healthy aging and modifications in the organization of functional brain networks across various time-scales. Nonetheless, the quantitative characterization of the temporal stability of functional brain networks across healthy aging remains unexplored. This study introduces a data-driven unsupervised approach to capture high-dimensional dynamic functional connectivity (dFC) via low-dimensional patterns and subsequent estimation of temporal stability using quantitative metrics. Healthy aging-related changes in temporal stability of dFC were characterized across resting-state, movie-viewing, and sensorimotor tasks (SMT) on a large (n = 645) healthy aging dataset (18–88 years). Prominent results reveal that (1) whole-brain temporal dynamics of the dFC movie-watching task are closer to resting-state than to SMT, with an overall trend of highest temporal stability observed during SMT, followed by movie-watching and resting-state, invariant across lifespan aging, (2) in both task conditions, stability of neurocognitive networks in young adults is higher than older adults, and (3) temporal stability of whole-brain resting-state follows a U-shaped curve along lifespan—a pattern shared by sensorimotor network stability, indicating their deeper relationship. Overall, the results can be applied generally for studying cohorts of neurological disorders using neuroimaging tools.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -261,6 +261,21 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
     <div class="pub-title">Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan</div>
     <div class="pub-summary">This work proposes that the preservation of functional integration, estimated from measures of neural synchrony, is a key objective of neurocompensatory mechanisms associated with healthy human ageing. To support this proposal, we demonstrate how phase-locking at the peak alpha frequency in Magnetoencephalography recordings remains invariant over the lifespan in a large cohort of human participants, aged 18-88 years. Using empirically derived connection topologies from diffusion tensor imaging data, we create an in-silico model of whole-brain alpha dynamics. We show that enhancing inter-areal coupling can cancel the effect of increased axonal transmission delays associated with age-related degeneration of white matter tracts, albeit at slower network frequencies. By deriving analytical solutions for simplified connection topologies, we further establish the theoretical principles underlying compensatory network re-organization. Our findings suggest that frequency slowing with age- frequently observed in the alpha band in diverse populations- may be viewed as an epiphenomenon of the underlying compensatory mechanism.</div>
+    </div>
+  </div>
+  <div class="pub-card">
+    <img class="pub-snapshot" src="/images/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Dash<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">IJCNN 2022</div>
+        <div class="pub-date">2022 &middot; pp. 1-7</div>
+      </div>
+    </div>
+    <div class="pub-title">Characterizing the dynamic reorganization in healthy aging and classification of brain age</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
     </div>
   </div>
   <div class="pub-card">
@@ -306,6 +321,21 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
     <div class="pub-summary">Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning, and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</div>
+    </div>
+  </div>
+  <div class="pub-card">
+    <img class="pub-snapshot" src="/images/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Lanke<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal"><a href="https://doi.org/10.3389/fnagi.2018.00153" target="_blank" rel="noopener">Frontiers in Aging Neuroscience</a></div>
+        <div class="pub-date">2018</div>
+      </div>
+    </div>
+    <div class="pub-title">Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
     </div>
   </div>
   <div class="pub-card">
@@ -605,6 +635,21 @@ We aim to investigate the role of local oscillations in a normal human brain, an
 </div>
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
+  <div class="pub-card">
+    <img class="pub-snapshot" src="/images/majumdar-2026.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2026 &middot; 36(4), bhag053</div>
+      </div>
+    </div>
+    <div class="pub-title">Aging increases orbitofrontal neural volatility during affective inference</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
+  </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
