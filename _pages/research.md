@@ -266,21 +266,6 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Dash<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">IJCNN 2022</div>
-        <div class="pub-date">2022 &middot; pp. 1-7</div>
-      </div>
-    </div>
-    <div class="pub-title">Characterizing the dynamic reorganization in healthy aging and classification of brain age</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
     <img class="pub-snapshot" src="/images/das-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
@@ -292,7 +277,7 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
       </div>
     </div>
     <div class="pub-title">Reconfiguration of directed functional connectivity among neurocognitive networks with aging: considering the role of thalamo-cortical interactions</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">A complete picture of how subcortical nodes, such as the thalamus, exert directional influence on large-scale brain network interactions across age remains elusive. Using directed functional connectivity and weighted net causal outflow on resting-state fMRI data, we provide evidence of a comprehensive reorganization within and between neurocognitive networks (default mode: DMN, salience: SN, and central executive: CEN) associated with age and thalamocortical interactions. We hypothesize that the thalamus subserves both modality-specific and integrative hub roles in organizing causal weighted outflow among large-scale neurocognitive networks. To this end, we observe that within-network directed functional connectivity is driven by the thalamus and progressively weakens with age. Secondly, we find that the age-associated increase in between CEN- and DMN-directed functional connectivity is driven by both the SN and the thalamus. Furthermore, left and right thalami act as a causal integrative hub exhibiting substantial interactions with neurocognitive networks with aging and play a crucial role in reconfiguring network outflow. Notably, these results were largely replicated on an independent dataset of matched young and old individuals. Our findings strengthen the hypothesis that the thalamus is a key causal hub balancing both within- and between-network connectivity associated with age and maintenance of cognitive functioning with aging.</div>
     </div>
   </div>
   <div class="pub-card">
