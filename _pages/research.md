@@ -262,7 +262,7 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
       </div>
     </div>
     <div class="pub-title">Biophysical mechanism underlying compensatory preservation of neural synchrony over the adult lifespan</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary"><em>This work proposes that the preservation of functional integration, estimated from measures of neural synchrony, is a key objective of neurocompensatory mechanisms associated with healthy human ageing. To support this proposal, we demonstrate how phase-locking at the peak alpha frequency in Magnetoencephalography recordings remains invariant over the lifespan in a large cohort of human participants, aged 18-88 years. Using empirically derived connection topologies from diffusion tensor imaging data, we create an in-silico model of whole-brain alpha dynamics. We show that enhancing inter-areal coupling can cancel the effect of increased axonal transmission delays associated with age-related degeneration of white matter tracts, albeit at slower network frequencies. By deriving analytical solutions for simplified connection topologies, we further establish the theoretical principles underlying compensatory network re-organization. Our findings suggest that frequency slowing with age- frequently observed in the alpha band in diverse populations- may be viewed as an epiphenomenon of the underlying compensatory mechanism.</em></div>
     </div>
   </div>
   <div class="pub-card">
@@ -308,21 +308,6 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
     <div class="pub-summary">Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning, and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Lanke<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal"><a href="https://doi.org/10.3389/fnagi.2018.00153" target="_blank" rel="noopener">Frontiers in Aging Neuroscience</a></div>
-        <div class="pub-date">2018</div>
-      </div>
-    </div>
-    <div class="pub-title">Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
     </div>
   </div>
   <div class="pub-card">
