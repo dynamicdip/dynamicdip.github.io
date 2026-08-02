@@ -203,6 +203,25 @@ We are currently studying large-scale brain network dynamics under specific phys
 </div>
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
+    </div>
+    <div class="pub-title">Aging increases orbitofrontal neural volatility during affective inference</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
+  </div>
+  <div class="pub-card">
+    <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal">Cerebral Cortex</div>
+        <div class="pub-date">2023 &middot; 33(7), 3750-3772</div>
+      </div>
+    </div>
+    <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/saha-2025new.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
@@ -264,21 +283,6 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/dash-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/dash.jpg" alt="Dash" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Dash<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">IJCNN 2022</div>
-        <div class="pub-date">2022 &middot; pp. 1-7</div>
-      </div>
-    </div>
-    <div class="pub-title">Characterizing the dynamic reorganization in healthy aging and classification of brain age</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
     <img class="pub-snapshot" src="/images/das-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
@@ -321,22 +325,8 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
     <div class="pub-title">Lifespan-associated changes in global patterns of coherent communication</div>
     <div class="pub-summary">Healthy ageing is accompanied by changes to spontaneous electromagnetic oscillations. At the macroscopic scale, previous studies have quantified the basic features, e.g., power and frequencies in rhythms of interest from the perspective of attention, perception, learning, and memory. This study shows that global coherence (how synchronised distributed brain regions are) and metastability (how flexibly the brain switches between different neural states) serve as crucial markers for tracking healthy brain aging across the lifespan. While traditional metrics observe changes at individual brain regions, these global dynamic measures reveal how coordination across the entire brain reorganises over time. Crucially, these lifespan changes are frequency-dependent, suggesting that slower and faster neural rhythms adapt differently to support cognitive processing as we age.</div>
-    </div>
   </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/lanke-2018.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/lanke.jpg" alt="Lanke" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Lanke<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal"><a href="https://doi.org/10.3389/fnagi.2018.00153" target="_blank" rel="noopener">Frontiers in Aging Neuroscience</a></div>
-        <div class="pub-date">2018</div>
-      </div>
-    </div>
-    <div class="pub-title">Integrative network analysis reveals the cell-type-specific changes in the hippocampus of young, aging, and Alzheimer's disease</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
+
   </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/naik-2017.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
@@ -351,7 +341,7 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
     <div class="pub-title">Metastability in senescence</div>
     <div class="pub-summary">The brain during healthy aging exhibits gradual deterioration of structure but maintains a high level of cognitive ability. These structural changes are often accompanied by reorganization of functional brain networks. Existing neurocognitive theories of aging have argued that such changes are either beneficial or detrimental. Despite numerous empirical investigations, the field lacks a coherent account of the dynamic processes that occur over our lifespan. Building on recent developments in whole-brain computational modeling approaches, we hypothesize that the continuous process of aging can be explained by the concept of metastability. This theoretical framework gives a systematic account of the variability of the brain. This hypothesis can bridge the gap between existing theories and the empirical findings on age-related changes.</div>
-    </div>
+  </div>
   </div>
 </div></div>
 
@@ -645,25 +635,6 @@ We aim to investigate the role of local oscillations in a normal human brain, an
         <div class="pub-journal">Cerebral Cortex</div>
         <div class="pub-date">2026 &middot; 36(4), bhag053</div>
       </div>
-    </div>
-    <div class="pub-title">Aging increases orbitofrontal neural volatility during affective inference</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Cerebral Cortex</div>
-        <div class="pub-date">2023 &middot; 33(7), 3750-3772</div>
-      </div>
-    </div>
-    <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
   </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
