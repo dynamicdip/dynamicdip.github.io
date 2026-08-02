@@ -631,7 +631,7 @@ We aim to investigate the role of local oscillations in a normal human brain, an
     <img class="pub-snapshot" src="/images/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
-      <img class="pub-photo" src="/images/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <img class="pub-photo" src="/images/Neeraj_kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Neuropsychologia</div>
