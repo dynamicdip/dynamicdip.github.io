@@ -392,9 +392,7 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 Neurophysiological processes and behavioral responses in human subjects are measurable indirectly using fMRI, and directly using surface recordings such as EEG and MEG — brain oscillations, normal responses that change with cortical lesion, learning, and memory consolidation, and that interact dynamically with the intrinsic spontaneous oscillations present in the brain due to large-scale anatomy and connectivity between brain modules in the absence of external stimuli. We are interested in specific alterations in cognitive response and the neuronal changes that underlie them. To address this, we systematically develop mathematical tools for understanding how brain networks reconfigure over multiple time scales, and apply these tools with our collaborators to understand perceptual learning, vision, and psychiatric disease.
 
-
 </div>
-
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/bhavna-2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
@@ -408,7 +406,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
       </div>
     </div>
     <div class="pub-title">A lightweight, end-to-end explainable, and generalized attention-based graph neural network model trained on high-order spatiotemporal organization of dynamic functional connectivity to classify autistics from typically developing</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by deficits in social cognition, interaction, communication, restricted behaviors, and sensory abnormalities. The heterogeneity in ASD’s clinical presentation complicates its diagnosis and treatment. Recent technological advancements in graph neural networks (GNNs) have been extensively used to diagnose brain disorders such as ASD, but existing machine learning models often suffer from low accuracy and explainability. In this study, we proposed a novel, explainable, and generalized node-edge connectivity-based graph attention neural network (Ex-NEGAT) model, leveraging edge-centric high-order spatiotemporal organization of dynamic functional connectivity streams between large-scale functional brain networks implicated in autism. Using the Autism Brain Imaging Data Exchange I and II datasets (total samples = 1,500), the model achieved 88% accuracy and an F1-score of 0.89. Additionally, we used meta-connectivity subtypes to identify subgroups within ASD samples using the rough fuzzy c-means algorithm. We also used connectome-based prediction modeling, which revealed critical brain networks contributing to predictions that accurately correlate with Autism Diagnostic Observation Schedule (ADOS) and full intelligence quotient (FIQ) scores. The proposed framework offers a robust approach based on previously unexplored higher-order spatiotemporal correlation features of dynamic functional connectivity, which may provide critical insight into ASD heterogeneity and improve diagnostic precision.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -423,7 +421,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
       </div>
     </div>
     <div class="pub-title">Altered global modular organization of intrinsic functional connectivity in autism arises from atypical node-level processing</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by restricted interests and repetitive behaviors as well as social-communication deficits. These traits are associated with atypicality of functional brain networks. Modular organization in the brain plays a crucial role in network stability and adaptability for neurodevelopment. Previous neuroimaging research demonstrates discrepancies in studies of functional brain modular organization in ASD. These discrepancies result from the examination of mixed age groups. Furthermore, recent findings suggest that while much attention has been given to deriving atlases and measuring the connections between nodes, within-node information may also be crucial in determining altered modular organization in ASD compared with typical development (TD). However, altered modular organization originating from systematic nodal changes is yet to be explored in younger children with ASD. Here, we used graph-theoretical measures to fill this knowledge gap. To this end, we utilized multicenter resting-state fMRI data collected from 5 to 10-year-old children, 34 with ASD and 40 TD, obtained from the Autism Brain Image Data Exchange (ABIDE) I and II. We demonstrate that alterations in topological roles and modular cohesiveness are the two key properties of brain regions anchored in default mode, sensorimotor, and salience networks, and primarily relate to social and sensory deficits in children with ASD. These results demonstrate that atypical global network organization in children with ASD arises from nodal role changes, and contribute to the growing body of literature suggesting that there is interesting information within nodes providing critical markers of functional brain networks in autistic children.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -438,7 +436,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
       </div>
     </div>
     <div class="pub-title">Atypical core-periphery brain dynamics in autism: implications for symptom severity</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">The intrinsic function of the human brain is dynamic, giving rise to numerous behavioral subtypes that fluctuate distinctively at multiple timescales. One of the key dynamical processes that takes place in the brain is the interaction between core-periphery brain regions, which undergoes constant fluctuations associated with developmental time frames. Core-periphery dynamical changes associated with macroscale brain network dynamics span multiple timescales and may lead to atypical behavior and clinical symptoms. For example, recent evidence suggests that brain regions with shorter intrinsic timescales are located at the periphery of brain networks (e.g., sensorimotor hand, face areas) and are implicated in perception and movement. On the contrary, brain regions with longer timescales are core hub regions. These hubs are important for regulating interactions between the brain and the body during self-related cognition and emotion. In this review, we summarize a large body of converging evidence derived from time-resolved fMRI studies in autism to characterize atypical core-periphery brain dynamics and how they relate to core and contextual sensory and cognitive profiles.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -453,7 +451,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
       </div>
     </div>
     <div class="pub-title">Atypical flexibility in dynamic functional connectivity quantifies the severity in autism spectrum disorder</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Resting-state functional connectivity (FC) analyses have shown atypical connectivity in autism spectrum disorder (ASD) as compared to typically developing (TD). However, this view emerges from investigating static FC overlooking the whole brain transient connectivity patterns. In our study, we investigated how age and disease influence the dynamic changes in functional connectivity of TD and ASD. We used resting-state functional magnetic resonance imaging (rs-fMRI) data stratified into three cohorts: children (7–11 years), adolescents (12–17 years), and adults (18+ years) for the analysis. The dynamic variability in the connection strength and the modular organization in terms of measures such as flexibility, cohesion strength, and disjointness were explored for each subject to characterize the differences between ASD and TD. In ASD, we observed significantly higher inter-subject dynamic variability in connection strength as compared to TD. This hyper-variability relates to the symptom severity in ASD. We also found that whole-brain flexibility correlates with static modularity only in TD. Further, we observed a core-periphery organization in the resting-state, with Sensorimotor and Visual regions in the rigid core; and DMN and attention areas in the flexible periphery. TD also develops a more cohesive organization of sensorimotor areas. However, in ASD, we found a strong positive correlation of symptom severity with flexibility of rigid areas and with disjointness of sensorimotor areas. The regions of the brain showing high predictive power of symptom severity were distributed across the cortex, with stronger bearings in the frontal, motor, and occipital cortices. Our study demonstrates that the dynamic framework best characterizes the variability in ASD.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -467,8 +465,8 @@ Neurophysiological processes and behavioral responses in human subjects are meas
         <div class="pub-date">2018 &middot; 8(7)</div>
       </div>
     </div>
-    <div class="pub-title">Age, disease and their interaction effects on the intrinsic connectivity of children and adolescents in Autism Spectrum Disorder using functional connectomics</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-title">Age, disease, and their interaction effects on the intrinsic connectivity of children and adolescents in Autism Spectrum Disorder using functional connectomics</div>
+    <div class="pub-summary">Brain connectivity analysis has provided crucial insights to pinpoint the differences between autistic and typically developing (TD) children during development. This study aims to investigate the functional connectomics of autism spectrum disorder (ASD) versus TD and to underpin the effects of development, disease, and their interactions on the observed atypical brain connectivity patterns. Resting-state functional magnetic resonance imaging (rs-fMRI) from the Autism Brain Imaging Data Exchange (ABIDE) data set, which is stratified into two cohorts: children (9-12 years) and adolescents (13-16 years), is used for the analysis. Differences in various graph theoretical network measures are calculated between ASD and TD in each group. Furthermore, a two-factor analysis of variance test is used to study the effect of age, disease, and their interaction on the network measures and the network edges. Furthermore, the differences in connection strength between TD and ASD subjects are assessed using network-based statistics. The results showed that ASD exhibits increased functional integration at the expense of decreased functional segregation. In ASD adolescents, there is a significant decrease in modularity, suggesting a less robust modular organization, and an increase in participation coefficient, suggesting more random integration and widely distributed connection edges. Furthermore, there is significant hypoconnectivity observed in the adolescent group, especially in the default mode network, while the children group shows both hyper- and hypoconnectivity. This study lends support to a model of global atypical connections and further identifies functional networks and areas that are independently affected by age, disease, and their interaction.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -483,7 +481,7 @@ Neurophysiological processes and behavioral responses in human subjects are meas
       </div>
     </div>
     <div class="pub-title">The neural substrate of group mental health: insights from a multi-brain reference frame in functional neuroimaging</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Contemporary mental health practice primarily centers around the neurobiological and psychological processes at the individual level. However, a more careful consideration of interpersonal and other group-level attributes (e.g., interpersonal relationships, mutual trust/hostility, interdependence, and cooperation) and a better grasp of their pathology can add a crucial dimension to our understanding of mental health problems. A few recent studies have delved into the interpersonal behavioral processes in the context of different psychiatric abnormalities. Neuroimaging can supplement these approaches by providing insight into the neurobiology of interpersonal functioning. Keeping this view in mind, we discuss a recently developed approach in functional neuroimaging that calls for a shift from a focus on neural information contained within brain space to a multi-brain framework exploring the degree of similarity/dissimilarity of neural signals between multiple interacting brains. We hypothesize novel applications of quantitative neuroimaging markers, like inter-subject correlation, that might be able to evaluate the role of interpersonal attributes affecting an individual or a group. Empirical evidence of the usage of these markers in understanding the neurobiology of social interactions is provided to argue for their application in future mental health research.</div>
     </div>
   </div>
 </div></div>
@@ -686,132 +684,11 @@ We aim to investigate the role of local oscillations in a normal human brain, an
       </div>
     </div>
     <div class="pub-title">Large-scale functional integration, rather than functional dissociation along dorsal and ventral streams, underlies visual perception and action</div>
-    <div class="pub-summary">Visual dual-stream theory posits that two distinct neural pathways of specific functional significance originate from primary visual areas and reach the inferior temporal (ventral) and posterior parietal areas (dorsal). However, there are several unresolved questions concerning the fundamental aspects of this theory. For example, is the functional dissociation between ventral and dorsal stream driven by features in input stimuli or is it driven by categorical differences between visuoperceptual and visuomotor functions? Is the dual stream rigid or flexible? What is the nature of the interactions between the two streams? We addressed these questions using fMRI recordings on healthy human volunteers and employing stimuli and tasks that can tease out the divergence between visuoperceptual and visuomotor variants of dual-stream theory. fMRI scans were repeated after seven practice sessions that were conducted in a non-MRI environment to investigate the effects of neuroplasticity. Brain activation analysis supports an input-based functional dissociation and existence of context-dependent neuroplasticity in dual-stream areas. Intriguingly, premotor cortex activation was observed in the position perception task and distributed deactivated regions were observed in all perception tasks, thus warranting a network-level analysis. Dynamic causal modeling analysis incorporating activated and deactivated brain areas during perception tasks indicates that the brain dynamics during visual perception and actions could be interpreted within the framework of predictive coding. Effectively, the network-level findings point toward the existence of more intricate context-driven functional networks selective of "what" and "where" information rather than segregated streams of processing along ventral and dorsal brain regions.</div>
+    <div class="pub-summary">Visual dual-stream theory posits that two distinct neural pathways of specific functional significance originate from primary visual areas and reach the inferior temporal (ventral) and posterior parietal areas (dorsal). However, there are several unresolved questions concerning the fundamental aspects of this theory. For example, is the functional dissociation between ventral and dorsal stream driven by features in input stimuli, or is it driven by categorical differences between visuoperceptual and visuomotor functions? Is the dual stream rigid or flexible? What is the nature of the interactions between the two streams? We addressed these questions using fMRI recordings on healthy human volunteers and employing stimuli and tasks that can tease out the divergence between visuoperceptual and visuomotor variants of dual-stream theory. fMRI scans were repeated after seven practice sessions that were conducted in a non-MRI environment to investigate the effects of neuroplasticity. Brain activation analysis supports an input-based functional dissociation and the existence of context-dependent neuroplasticity in dual-stream areas. Intriguingly, premotor cortex activation was observed in the position perception task, and distributed deactivated regions were observed in all perception tasks, thus warranting a network-level analysis. Dynamic causal modeling analysis incorporating activated and deactivated brain areas during perception tasks indicates that the brain dynamics during visual perception and actions could be interpreted within the framework of predictive coding. Effectively, the network-level findings point toward the existence of more intricate context-driven functional networks selective of "what" and "where" information rather than segregated streams of processing along ventral and dorsal brain regions.</div>
     </div>
   </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/kumar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/kumar.jpg" alt="Kumar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Kumar<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Frontiers in Psychology</div>
-        <div class="pub-date">2016</div>
-      </div>
-    </div>
-    <div class="pub-title">Large-scale functional brain networks underlying temporal integration of audio-visual speech perception: an EEG study</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/roy-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/roy.jpg" alt="Roy" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Roy<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Brain Connectivity</div>
-        <div class="pub-date">2014 &middot; 4(10), 791-811</div>
-      </div>
-    </div>
-    <div class="pub-title">Using the virtual brain to reveal the role of oscillations and plasticity in shaping the brain's dynamical landscape</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-</div></div>
-
----
-
-<div class="text-wrap" markdown="1">
-
-## Brain-State-Dependent Neurostimulation, Feedback, and Modulation of Neurophysiological Responses
-
-<h3 class="pub-subtitle">Multisensory perceptual processing and oscillatory BCI models</h3>
-
-Collective dynamics can create complex patterns in populations of neurons. Spiking dynamics occur on a fast time scale, typically observed in vivo in neuronal microcircuits, while bursting dynamics occur on a much slower time scale. We study the behavior of large populations as constrained by the properties and paucity of physical connections between connected units and synapse subtypes. In this work, we build classes of models and apply machine learning principles — gradient descent, multi-parametric search — to infer the underlying model state space and the biophysical mechanisms responsible for observed neuronal dynamics.
-
-
 </div>
-
-<div class="pub-wrap"><div class="pub-grid" markdown="0">
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/singh-2024.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/singh.jpg" alt="Singh" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Singh<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal"><a href="https://doi.org/10.1101/2022.01.20.477172" target="_blank" rel="noopener">bioRxiv (preprint)</a></div>
-        <div class="pub-date">2024</div>
-      </div>
-    </div>
-    <div class="pub-title">Predicting response to McGurk illusion based on periodic and aperiodic prestimulus EEG activity</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/pal-2020.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/pal.jpg" alt="Pal" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Pal<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">IHCI 2019, LNCS 11886</div>
-        <div class="pub-date">2020 &middot; pp. 49-60</div>
-      </div>
-    </div>
-    <div class="pub-title">Empirical mode decomposition algorithms for classification of single-channel EEG manifesting McGurk effect</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/dagar-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/dagar.jpg" alt="Dagar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Dagar<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Frontiers in Neurology</div>
-        <div class="pub-date">2016 &middot; 7:123</div>
-      </div>
-    </div>
-    <div class="pub-title">Near-infrared spectroscopy (NIRS)-electroencephalography (EEG) based brain-state dependent electrotherapy (BSDE) to facilitate post-stroke neurorehabilitation: inhibition-excitation balance hypothesis</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/sigala-2014.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/sigala.jpg" alt="Sigala" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Sigala<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Frontiers in Computational Neuroscience</div>
-        <div class="pub-date">2014</div>
-      </div>
-    </div>
-    <div class="pub-title">The role of alpha-rhythm states in perceptual learning: insights from experiments and computational models</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/adhikari-2012.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/adhikari.jpg" alt="Adhikari" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Adhikari<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Journal of Neuroscience</div>
-        <div class="pub-date">2012 &middot; 32(19), 6501-6510</div>
-      </div>
-    </div>
-    <div class="pub-title">Brain state dependent post-inhibitory rebound in entorhinal cortex interneurons</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-</div></div>
-
+</div>
 ---
 
 <div class="text-wrap" markdown="1">
