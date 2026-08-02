@@ -201,27 +201,16 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 
 </div>
-
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
-    </div>
-    <div class="pub-title">Aging increases orbitofrontal neural volatility during affective inference</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">Cerebral Cortex</div>
-        <div class="pub-date">2023 &middot; 33(7), 3750-3772</div>
-      </div>
-    </div>
-    <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
+<div class="pub-card"> 
+  <img class="pub-snapshot" src="/images/majumdar-2026.jpg" alt="" loading="lazy" onerror="this.style.display='none';"> 
+  <div class="pub-card-body"> 
+  <div class="pub-card-top"> 
+    <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">  
+    <div class="pub-byline"> <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div> 
+    <div class="pub-journal">Cerebral Cortex</div> <div class="pub-date">2026 &middot; 36(4), bhag053</div> </div> 
+  </div> <div class="pub-title">Aging increases orbitofrontal neural volatility during affective inference</div> 
+  <div class="pub-summary">Understanding the mechanisms behind the stability and volatility of blood-oxygen-level-dependent signal is crucial in characterizing lifespan aging trajectories. Here, we propose that tracking neural fluctuations in brain areas during naturalistic tasks provides a more salient characterization of aging trajectories compared to measures based on mean and resting-state variability. Compared to other prefrontal regions, the orbitofrontal cortices exhibit higher blood-oxygen-level-dependent signal variability in aged individuals. Neural latent state analysis revealed that, in contrast to the stable representations in younger adults, the orbitofrontal cortex in older adults exhibited more temporally distorted representations, mirroring their distinct affective experiences. Furthermore, lower orbitofrontal cortex variability during the movie was associated with participant’s bias toward positive responses in a separate emotional reactivity task. This suggests that orbitofrontal neural volatility might be a general adaptive response to affective inference processes. To investigate this further, a Bayesian learning model of valence dynamics was employed, which revealed that older adults exhibit heightened uncertainty in neural representations while estimating affective states. Collectively, these results indicate that neural volatility identified through blood-oxygen-level-dependent variability carries unique information about older adults’ affective experiences and how naturalistic neuroimaging can chart a way forward in understanding this better.</div> </div> </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/saha-2025new.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
@@ -625,16 +614,20 @@ We aim to investigate the role of local oscillations in a normal human brain, an
 </div>
 
 <div class="pub-wrap"><div class="pub-grid" markdown="0">
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/majumdar-2026.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+ <div class="pub-card">
+    <img class="pub-snapshot" src="/images/majumdar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/majumdar.jpg" alt="Majumdar" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
       <div class="pub-byline">
         <div class="pub-author">Majumdar<span class="pub-etal"> et al.</span></div>
         <div class="pub-journal">Cerebral Cortex</div>
-        <div class="pub-date">2026 &middot; 36(4), bhag053</div>
+        <div class="pub-date">2023 &middot; 33(7), 3750-3772</div>
       </div>
+    </div>
+    <div class="pub-title">Emotion dynamics as hierarchical Bayesian inference in time</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
   </div>
   <div class="pub-card">
     <img class="pub-snapshot" src="/images/kumar-2023.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
