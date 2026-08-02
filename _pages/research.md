@@ -280,7 +280,7 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/thuwal-2021.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/thuwal-2021new.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/thuwal.jpg" alt="Thuwal" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
