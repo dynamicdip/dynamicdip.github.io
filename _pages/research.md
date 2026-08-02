@@ -338,7 +338,7 @@ We are currently studying large-scale brain network dynamics under specific phys
 
 <div class="text-wrap" markdown="1">
 
-## Mapping Mental States Using Machine Learning to Predict Social Cognition and Brain Connectivity
+## Mapping animal-human behavioural responses under social cues and naturalistic experience by decoding neural activity 
 
 <h3 class="pub-subtitle">Atypical neurodevelopment in children — fMRI, EEG, and naturalistic tasks</h3>
 
