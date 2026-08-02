@@ -518,7 +518,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
       </div>
     </div>
     <div class="pub-title">Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">The focal lesion alters the excitation-inhibition (E-I) balance and healthy functional connectivity patterns, which may recover over time. One possible mechanism for the brain to counter the insult is global reshaping of functional connectivity alterations. However, the operational principles by which this can be achieved remain unknown. We propose a novel equivalence principle based on structural and dynamic similarity analysis to predict whether specific compensatory areas initiate lost E-I regulation after lesion. We hypothesize that similar structural areas (SSAs) and dynamically similar areas (DSAs) corresponding to a lesioned site are the crucial dynamical units to restore lost homeostatic balance within the surviving cortical brain regions. SSAs and DSAs are independent measures, one based on structural similarity properties measured by the Jaccard Index and the other based on post-lesion recovery time. We unravel the relationship between SSA and DSA by simulating a whole-brain mean field model deployed on top of a virtually lesioned structural connectome from human neuroimaging data to characterize global brain dynamics and functional connectivity at the level of individual subjects. Our results suggest that wiring proximity and similarity are the 2 major guiding principles of compensation-related utilization of hemisphere in the post-lesion functional connectivity re-organization process.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -533,7 +533,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
       </div>
     </div>
     <div class="pub-title">Multiscale dynamic mean field model (MDMF) to relate resting-state brain dynamics with local cortical excitatory-inhibitory neurotransmitter homeostasis</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Previous computational models have related spontaneous resting-state brain activity with local excitatory–inhibitory balance in neuronal populations. However, how underlying neurotransmitter kinetics associated with E–I balance govern resting-state spontaneous brain dynamics remains unknown. Understanding the mechanisms by virtue of which fluctuations in neurotransmitter concentrations, a hallmark of a variety of clinical conditions, relate to functional brain activity is of critical importance. We propose a multiscale dynamic mean field (MDMF) model—a system of coupled differential equations for capturing the synaptic gating dynamics in excitatory and inhibitory neural populations as a function of neurotransmitter kinetics. Individual brain regions are modeled as a population of MDMF and are connected by realistic connection topologies estimated from diffusion tensor imaging data. First, MDMF successfully predicts resting-state functional connectivity. Second, our results show that the optimal range of glutamate and GABA neurotransmitter concentrations serves as the dynamic working point of the brain, that is, the state of heightened metastability observed in empirical blood-oxygen-level-dependent signals. Third, for predictive validity the network measures of segregation (modularity and clustering coefficient) and integration (global efficiency and characteristic path length) from existing healthy and pathological brain network studies could be captured by simulated functional connectivity from an MDMF model.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -548,7 +548,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
       </div>
     </div>
     <div class="pub-title">Resting-state dynamics meets anatomical structure: temporal multiple kernel learning (tMKL) model</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Over the last decade, there has been growing interest in understanding the brain activity, in the absence of any task or stimulus, captured by the resting-state functional magnetic resonance imaging (rsfMRI). The resting state patterns have been observed to exhibit complex spatio-temporal dynamics, and substantial effort has been made to characterize the dynamic functional connectivity (dFC) configurations. However, the dynamics governing the state transitions that the brain undergoes and their relationship to stationary functional connectivity remain an open problem. One class of approaches attempts to characterize the dynamics in terms of a finite number of latent brain states; however, such attempts are yet to amalgamate the underlying anatomical structural connectivity (SC) with the dynamics. Another class of methods links individual dynamic FCs with the underlying SC but does not characterize the temporal evolution of FC. Further, the latent states discovered by previous approaches could not be directly linked to the SC, thereby motivating us to discover the underlying lower-dimensional manifold that represents the temporal structure. In the proposed approach, the discovered manifold is further parameterized as a set of local density distributions, or latent transient states. We propose an innovative method that learns parameters specific to the latent states using a graph-theoretic model (temporal Multiple Kernel Learning, tMKL) that inherently links dynamics to the structure and finally predicts the grand average FC of the test subjects by leveraging a state transition Markov model. The proposed solution does not make strong assumptions about the underlying data and is generally applicable to resting or task data for learning subject-specific state transitions and for successfully characterizing the SC-dFC-FC relationship through a unifying framework. Training and testing were done using the rs-fMRI data of 46 healthy participants. The tMKL model performs significantly better than the existing models for predicting resting state functional connectivity based on the whole-brain dynamic mean-field model (DMF), the single diffusion kernel (SDK) model, and the multiple kernel learning (MKL) model. Further, the learned model was tested on an independent cohort of 100 young, healthy participants from the Human Connectome Project (HCP), and the results establish the generalizability of the proposed solution. More importantly, the model retains sensitivity toward subject-specific anatomy, a unique contribution towards a holistic approach for SC-FC characterization.</div>
     </div>
   </div>
   <div class="pub-card">
@@ -563,25 +563,9 @@ The human brain is a complex system capable of producing non-stationary spatiote
       </div>
     </div>
     <div class="pub-title">Multiple kernel learning model for relating structural and functional connectivity in the brain</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
-    <img class="pub-snapshot" src="/images/surampudi-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
-    <div class="pub-card-body">
-    <div class="pub-card-top">
-      <img class="pub-photo" src="/images/surampudi.jpg" alt="Surampudi" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
-      <div class="pub-byline">
-        <div class="pub-author">Surampudi<span class="pub-etal"> et al.</span></div>
-        <div class="pub-journal">NeurIPS 2016</div>
-        <div class="pub-date">2016</div>
-      </div>
-    </div>
-    <div class="pub-title">Multiscale diffusion kernels for learning the structural and functional connectivity</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
-    </div>
-  </div>
-  <div class="pub-card">
+    <div class="pub-summary">A challenging problem in cognitive neuroscience is to relate the structural connectivity (SC) to the functional connectivity (FC) to better understand how large-scale network dynamics underlying human cognition emerge from the relatively fixed SC architecture. Recent modeling attempts point to the possibility of a single diffusion kernel giving a good estimate of the FC. We highlight the shortcomings of the single-diffusion-kernel model (SDK) and propose a multi-scale diffusion scheme. Our multi-scale model is formulated as a reaction-diffusion system giving rise to spatio-temporal patterns on a fixed topology. We hypothesize the presence of inter-regional co-activations (latent parameters) that combine diffusion kernels at multiple scales to characterize how FC could arise from SC. We formulated a multiple kernel learning (MKL) scheme to estimate the latent parameters from training data. Our model is analytically tractable and complex enough to capture the details of the underlying biological phenomena. The parameters learned by the MKL model lead to highly accurate predictions of subject-specific FCs from test datasets at a rate of 71%, surpassing the performance of the existing linear and non-linear models. We provide an example of how these latent parameters could be used to characterize age-specific reorganization in the brain structure and function.</div>
+</div>
+<div class="pub-card">
     <img class="pub-snapshot" src="/images/vattikonda-2016.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
@@ -593,7 +577,7 @@ The human brain is a complex system capable of producing non-stationary spatiote
       </div>
     </div>
     <div class="pub-title">Does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity? A computational account</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">Computational modeling of the spontaneous dynamics over the whole brain provides critical insight into the spatiotemporal organization of brain dynamics at multiple resolutions and their alteration to changes in brain structure (e.g., in diseased states, aging, across individuals). Recent experimental evidence further suggests that the adverse effect of lesions is visible on spontaneous dynamics characterized by changes in resting state functional connectivity and its graph theoretical properties (e.g., modularity). These changes originate from altered neural dynamics in individual brain areas that are otherwise poised towards a homeostatic equilibrium to maintain a stable excitatory and inhibitory activity. In this work, we employ a homeostatic inhibitory mechanism, balancing excitation and inhibition in the local brain areas of the entire cortex under neurological impairments like lesions, to understand global functional recovery (across brain networks and individuals). Previous computational and empirical studies have demonstrated that the resting state functional connectivity varies primarily due to the location and specific topological characteristics of the lesion. We show that local homeostatic balance provides a functional recovery by re-establishing excitation–inhibition balance in all areas that are affected by the lesion. We systematically compare the extent of recovery in the primary hub areas (e.g., default mode network (DMN), medial temporal lobe, medial prefrontal cortex) as well as other sensory areas like primary motor area, supplementary motor area, fronto-parietal and temporo-parietal networks. Our findings suggest that stability and richness similar to the normal brain dynamics at rest are achievable by re-establishment of balance.</div>
     </div>
   </div>
 </div></div>
