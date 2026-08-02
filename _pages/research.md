@@ -219,7 +219,7 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
   <div class="pub-card">
-    <img class="pub-snapshot" src="/images/Chakraborty 2025.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <img class="pub-snapshot" src="/images/Chakraborty 2025.png" alt="" loading="lazy" onerror="this.style.display='none';">
     <div class="pub-card-body">
     <div class="pub-card-top">
       <img class="pub-photo" src="/images/chakraborty.jpg" alt="Chakraborty" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
