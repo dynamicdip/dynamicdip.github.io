@@ -381,7 +381,21 @@ We are currently studying large-scale brain network dynamics under specific phys
     </div>
   </div>
 </div></div>
-
+<div class="pub-card">
+    <img class="pub-snapshot" src="/images/nair-2022.jpg" alt="" loading="lazy" onerror="this.style.display='none';">
+    <div class="pub-card-body">
+    <div class="pub-card-top">
+      <img class="pub-photo" src="/images/nair.jpg" alt="Nair" onerror="this.onerror=null;this.src='/images/default-avatar.png';">
+      <div class="pub-byline">
+        <div class="pub-author">Nair<span class="pub-etal"> et al.</span></div>
+        <div class="pub-journal"><a href="https://doi.org/10.3389/fncir.2022.878046" target="_blank" rel="noopener">Frontiers in Neural Circuits</a></div>
+        <div class="pub-date">2022 &middot; 16, 878046</div>
+      </div>
+    </div>
+    <div class="pub-title">Hippocampus maintains a coherent map under reward feature-landmark cue conflict</div>
+    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    </div>
+  </div>
 ---
 
 <div class="text-wrap" markdown="1">
