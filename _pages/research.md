@@ -247,7 +247,7 @@ Parameter Readjustment: The study reveals how short- and long-range tracts modul
       </div>
     </div>
     <div class="pub-title">Stability of the sensorimotor network sculpts the dynamic repertoire of the resting state over the lifespan</div>
-    <div class="pub-summary"><em>Add a 1-2 sentence summary of this paper's key finding here.</em></div>
+    <div class="pub-summary">How stable are the brain's functional networks over time, and does that stability change as we age? Using a data-driven approach on a large lifespan dataset (ages 18–88), this study tracked the temporal stability of dynamic functional connectivity across resting-state, movie-watching, and sensorimotor tasks. Stability was consistently highest during structured sensorimotor tasks and lowest at rest, and was generally higher in young adults than in older adults. Strikingly, whole-brain resting-state stability follows a U-shaped trajectory across the lifespan — a pattern mirrored by the sensorimotor network specifically, pointing to a deeper coupling between the two.</div>
     </div>
   </div>
   <div class="pub-card">
