@@ -3,7 +3,7 @@
 
 # Site settings
 locale                   : "en-US"
-title                    : "Cognitive Brain Dynamics Lab"
+title                    : "Roy Lab | Cognitive Brain Dynamics Lab (CBDL)"
 title_separator          : "-"
 name                     : "Dipanjan Roy"
 description              : "Cognitive and Computational Neuroscience Lab at IIT Jodhpur."
