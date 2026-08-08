@@ -9,7 +9,7 @@ banner_image: /images/CBDL_Lab_header.png
 <div class="page-hero-banner" id="cbdl-hero-banner">
   <img src="/images/CBDL_Lab_header.png" alt="Roy Lab - Cognitive Brain Dynamics Lab">
   <div class="hero-overlay">
-    <h1 class="hero-title">Welcome to the Roy Lab (Cognitive Brain Dynamics Lab at Bioscience & Bioengineering Department)</h1>
+    <h1 class="hero-title">Welcome to the Roy Lab (Cognitive Brain Dynamics Lab Bioscience & Bioengineering Department)</h1>
   </div>
 </div>
 <script>
