@@ -15,7 +15,7 @@
               {% assign domain = base_path %}
             {% endif %}
             {% if link.children %}
-              <li class="masthead__menu-item has-dropdown">
+              <li class="masthead__menu-item has-dropdown persist">
                 <button class="dropdown-btn" aria-expanded="false">{{ link.title }} <span class="dropdown-caret">▾</span></button>
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
