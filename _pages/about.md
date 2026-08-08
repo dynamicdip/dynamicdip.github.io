@@ -7,9 +7,9 @@ banner_image: /images/CBDL_Lab_header.png
 ---
 
 <div class="page-hero-banner" id="cbdl-hero-banner">
-  <img src="/images/CBDL_Lab_header.png" alt="Cognitive Brain Dynamics Lab">
+  <img src="/images/CBDL_Lab_header.png" alt="Roy Lab - Cognitive Brain Dynamics Lab">
   <div class="hero-overlay">
-    <h1 class="hero-title">Welcome to the Cognitive Brain Dynamics Lab</h1>
+    <h1 class="hero-title">Welcome to the Roy Lab (Cognitive Brain Dynamics Lab at Bioscience & Bioengineering Department)</h1>
   </div>
 </div>
 <script>
@@ -49,9 +49,9 @@ banner_image: /images/CBDL_Lab_header.png
 
 <div class="about-content" markdown="1">
 
-The Cognitive Brain Dynamics Lab (CBDL) is now running from two places! While some of our team continue their work at NBRC, we've a fully functioning lab at IIT Jodhpur, in the Center for Brain Science and Applications — part of the new School of Artificial Intelligence and Data Science.
+The Roy Lab — also known as the Cognitive Brain Dynamics Lab (CBDL) — is now running from two places! While some of our team continue their work at NBRC, we've a fully functioning lab at IIT Jodhpur, Department of Bioscience and Bioengineering(BSBE).
 
-The Cognitive Brain Dynamics Lab at IIT Jodhpur's School of Artificial Intelligence and Data Science explores how the human brain supports cognition, emotion, and language. Our team combines behavioral experiments with EEG, fMRI, and AI-driven analytics to study attention, memory, perception, and speech. We also investigate Autism, cognitive flexibility, and healthy aging through computational modeling and advanced signal processing. Using open neuroimaging data and large-scale network analysis, we aim to uncover how brain networks learn and adapt across the lifespan.
+The Cognitive Brain Dynamics Lab at IIT Jodhpur's Bioscience & Bioengineering department explores how the human brain supports cognition, emotion, and language. Our team combines behavioral experiments with EEG, fMRI, and AI-driven analytics to study attention, memory, perception, and speech. We also investigate Autism, cognitive flexibility, and healthy aging through computational modeling and advanced signal processing. Using open neuroimaging data and large-scale network analysis, we aim to uncover how brain networks learn and adapt across the lifespan. Our lab is located in W-10 Berm IIT Jodhpur called Cognitive Engineering Lab. 
 
 We welcome students and collaborators eager to advance neuroscience through experiments, data science, computational modeling, and artificial intelligence.
 
@@ -61,7 +61,7 @@ We welcome students and collaborators eager to advance neuroscience through expe
 
 The Cognitive Brain Dynamics Lab investigates how the brain supports cognition, perception, and behavior by integrating neuroscience, psychology, and computational modeling. Our research combines data-driven approaches, AI, and machine learning with advanced techniques such as EEG, MEG, MRI, and eye-tracking to explore multi-scale neural processes underlying human cognition in both healthy and clinical populations.
 
-With locations at NBRC, Manesar, and IIT Jodhpur's School of Artificial Intelligence and Data Science (AIDE), our interdisciplinary team spans biology, mathematics, statistics, biomedical engineering, and computer science. Together, we aim to understand how large-scale brain networks give rise to complex mental functions and adaptability across the lifespan.
+With locations at NBRC, Manesar, and IIT Jodhpur's BSBE, our interdisciplinary team spans biology, mathematics, statistics, biomedical engineering, and computer science. Together, we aim to understand how large-scale brain networks give rise to complex mental functions and adaptability across the lifespan.
 
 Our work is supported by leading national agencies, including the Department of Biotechnology (DBT), Department of Science and Technology (DST), Science & Engineering Research Board (SERB), IIT Jodhpur Core Funding, and various postdoctoral fellowship programs under DST and DBT.
 
