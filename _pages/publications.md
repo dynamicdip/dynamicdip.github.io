@@ -63,7 +63,7 @@ banner_image: /images/fmri-networks-banner.png
 
 †: Corresponding author &nbsp;&nbsp; \*\*: Reviews/Opinion/Perspective/Commentary &nbsp;&nbsp; #: Joint authorship
 
-[78] **A generalized scaling law reveals synchrony-driven reorganization of brain dynamics across the human lifespan.** Saha, S., Hens, C., Chakraborty, P., Kapitaniak, T., Banerjee, A., Deco, G., Dana, S.K., & **Roy, D.†** (2026). *PlosCompBio* (Revision stage).
+[78] **A generalized scaling law reveals synchrony-driven reorganization of brain dynamics across the human lifespan.** Saha, S., Hens, C., Chakraborty, P., Kapitaniak, T., Banerjee, A., Deco, G., Dana, S.K., & **Roy, D.†** (2026). *PlosCompBio* (In press).
 
 [77] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
 
