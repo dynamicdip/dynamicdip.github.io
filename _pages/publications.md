@@ -63,7 +63,7 @@ banner_image: /images/fmri-networks-banner.png
 
 †: Corresponding author &nbsp;&nbsp; \*\*: Reviews/Opinion/Perspective/Commentary &nbsp;&nbsp; #: Joint authorship
 
-[80] **Modulation of the speed of Intrinsic Alpha Frequency (IAF) with tACS modulates variability of illusory speech perception**  Deb, S.*, Bhunia, D.*, Singh, V., Muralidharan, V. & **Roy, D.†** (2026). (*Co-first author) https://www.biorxiv.org/content/10.64898/2026.10.07.756537v1.(Under review)
+[80] **Modulation of the speed of Intrinsic Alpha Frequency (IAF) with tACS modulates variability of illusory speech perception**  Deb, S.*, Bhunia, D.*, Singh, V., Muralidharan, V. & **Roy, D.†** (2026). (*Co-first author) https://www.biorxiv.org/content/10.64898/2026.10.07.756537v1  (Under review)
 
 [79] **Distinct transcriptomic and hierarchical organization associated with brain hyperconnectivity and hypoconnectivity in autism spectrum disorder** 
 Vairam, A., Bhavna, Km., Uddin, L., Misic, B., & **Roy, D.†** (2026) doi: https://doi.org/10.64898/2026.07.31.742105. (Revision stage) 
