@@ -147,19 +147,6 @@ She has a deep interest in Nonlinear Dynamics and studying the whole brain dynam
 <table style="border:none; margin:0 0 16px 0;">
 <tr>
 <td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
-<img src="/images/phd-n-akhila.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="N Akhila">
-</td>
-<td style="border:none; vertical-align:top; padding:0;">
-<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">N Akhila</strong><br>
-<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. Student, CBSA School of AIDE &nbsp;|&nbsp; p23ai0001@iitj.ac.in</span><br><br>
-<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Akhila holds an M.Tech. in Data Science from Amrita Viswa Vidyapeetham and a B.Tech in Computer Science from Andhra University. Her research delves into the intricate dynamics of the brain using heart-brain coupling, using EEG, fMRI, and iEEG to contribute to a multimodal understanding of cognitive processes and their underlying physiological mechanisms.</span>
-</td>
-</tr>
-</table>
-
-<table style="border:none; margin:0 0 16px 0;">
-<tr>
-<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
 <img src="/images/phd-arpit-shirmankar.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Arpit Shirmankar">
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
