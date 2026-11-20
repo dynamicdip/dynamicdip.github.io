@@ -32,38 +32,56 @@ author_profile: true
 
 ### Current Job Opening
 
-Cognitive Brain Dynamics Lab (CBDL) is located at the Indian Institute of Technology, Jodhpur, and also at the National Brain Research Centre (NBRC) in Manesar. IIT Jodhpur is now our lab's primary location. We encourage you to apply to the Centre of Excellence in Brain Science & Applications, housed in the School of Artificial Intelligence and Data Science (SAIDE). We are looking for motivated project assistants, Ph.D. students, and Postdocs with an interest and willingness to solve fundamental brain research problems and also develop new data-driven algorithms/methods for understanding Neuroimaging data. Please visit the IIT Jodhpur School of AIDE web page to check relevant updates regarding doctoral admissions.
+Cognitive Brain Dynamics Lab (CBDL) is located at the Indian Institute of Technology, Jodhpur, and also at the National Brain Research Centre (NBRC) in Manesar. IIT Jodhpur is now our lab's primary location. We encourage you to apply to the Cognitive Brain Dynamics Lab (CBDL), housed in the Department of Bioscience and Bioengineering (BSBE). We are always looking for motivated project assistants, Ph.D. students, and postdocs interested in solving fundamental brain research problems and developing new data-driven algorithms/methods for understanding Neuroimaging data. Please visit the IIT Jodhpur Department of BSBE webpage for updates on doctoral admissions.
 
-**[https://aide.iitj.ac.in/](https://aide.iitj.ac.in/)**
+**[https://www.iitj.ac.in/bioscience-bioengineering/en/doctorial-program](https://www.iitj.ac.in/bioscience-bioengineering/en/doctorial-program)**
 
-We are inviting applications from Postdoctoral fellows who are interested in applying for national-level support for hosting postdocs or any similar modes of funding. We are interested in supporting their application and would be happy to host them depending on mutual agreement. Postdoctoral positions will be hosted at IIT Jodhpur School of AIDE under Cognitive Science Research Initiative (CSRI) / National Postdoctoral Fellowships (NPDF)/DBT-Welcome early career schemes 2022-23. If you are interested in applying, please forward me your CV and a one-page research proposal.
+### Postdoctoral Opportunities at IIT Jodhpur, School of AIDE
 
-Some of the current projects in the lab are listed. Candidates with a Ph.D. in Neuroscience, Cognitive Science, Biotechnology, Biomedical Engineering, Computer Science, Electrical Engineering, Physics, Mathematics, and Statistics are strongly encouraged to apply. Additionally, they must have a strong computational background with an interest and passion for Cognitive Neuroscience. Familiarity with statistical techniques, Signal processing, and knowledge of programming in Matlab/Python/C/C++ is essential.
+We invite applications from postdoctoral researchers who plan to apply for national-level funding to support a postdoctoral position, or for similar funding schemes. We would be glad to support your application and, subject to mutual agreement, host you in our lab at the School of AIDE, IIT Jodhpur. Positions may be hosted under the Cognitive Science Research Initiative (CSRI), the National Postdoctoral Fellowship (NPDF), or the DBT-Welcome Trust early career schemes (2022-23).
 
-  1. Applying whole-brain large-scale Computational models/Machine learning/Deep learning models and algorithms to characterize normal versus pathological dynamical states (health vs. disease), memory and perceptual processing, Multisensory speech processing, aging brain dynamics, and brain networks classification in ASD, ADHD. This is a data-driven modeling project and requires programming skills, interest in systems neuroscience, and cognition.
+### Who should apply
 
-  2. EEG, Eye tracking data acquisition to understand the role of brain oscillations and the large-scale brain network dynamics underlying perceptual learning, decision making, and executive functioning.
-  3. EEG, fMRI data acquisition in resting state, working, and episodic memory across different age groups to understand age-associated neural correlates of cognitive decline. We develop computational methods using nonlinear dynamics, signal processing, and graph theory to understand dynamic functional connectivity, cognitive and neural flexibility, and age-associated reorganization.
+We welcome candidates with a Ph.D. in Neuroscience, Cognitive Science, Biotechnology, Biomedical Engineering, Computer Science, Electrical Engineering, Physics, Mathematics, or Statistics. Applicants should have a strong computational background and a genuine interest in cognitive neuroscience. Familiarity with statistical techniques and signal processing, along with programming proficiency in MATLAB, Python, C, or C++, is essential.
 
-Initial inquiries should include a cover letter and current CV. Please see contact details.
+### Current research projects
 
-We invite applications from talented undergraduate, graduate scholars. We seek individuals with passion and commitment for Cognitive Science/Neuroscience research for the project position funded by the Department of Biotechnology (DBT).
+### Computational modelling of large-scale brain network dynamics. 
+In this project, we collect experimental brain structural and functional neuroimaging data and use whole-brain models 
+and machine/deep learning algorithms; this project characterizes normal versus pathological dynamical states (health vs. disease). Topics include memory and perceptual processing, multisensory speech processing, aging brain dynamics, and classification of brain networks in normal healthy aging, mild cognitive impairment, dementia, and Alzheimers disease. It is a data-driven modelling project that calls for programming skills and an interest in systems neuroscience and cognition with potential for clinical translation.
 
-Any candidate with a bachelor's degree in the field of engineering in Computer Science/ Electronics/ Instrumentation or any related field like Biomedical engineering, Biotechnology, OR holding a master's degree in Neuroscience/Cognitive Science/ Biotechnology/Physics/Mathematics/Statistics is encouraged to apply. Working knowledge of one of the programming languages, Matlab/Python/C/C++ would be beneficial. We are actively recruiting and training students in Brain Imaging, EEG, MEG recording, and advanced data analysis methods applied to Cognitive Neuroscience:
+### EEG and eye-tracking studies. 
+This project acquires EEG and eye-tracking data to examine how brain oscillations and large-scale network dynamics underlie perceptual learning, decision-making, and executive functioning. 
+
+### Age-associated changes in multiscale and multimodal brain dynamics  
+This project acquires resting-state and task-based EEG and fMRI data (working and episodic memory) across age groups to identify neural correlates of age-related cognitive decline. We develop computational methods drawing on nonlinear dynamics, signal processing, and graph theory to study dynamic functional connectivity, cognitive and neural flexibility, and age-associated reorganization of brain networks.
+
+### Emotion dynamics during naturalistic real-world experience 
+What single property of our environment best captures the emotional dynamics of daily life? Accurate estimation of uncertainty is essential for optimal perception, learning, and decision-making, yet its role in shaping affect remains largely unexplored. In our previous work, we combined Bayesian encoding, decoding, and computational modeling with a large-scale neuroimaging and behavioral dataset from a passive movie-watching task. We showed that emotions arise naturally from ongoing estimates of uncertainty about future outcomes, implemented in a hierarchical neural architecture. Several prefrontal subregions hierarchically encoded a low-dimensional signal that tracked evolving uncertainty. Notably, the lateral orbitofrontal cortex (lOFC) followed its moment-to-moment fluctuations, changed systematically with brain aging, and predicted participants’ predisposition to anxiety. We also found a functional double dissociation within the OFC: as affect evolved, medial OFC increased its connectivity with the default mode network (DMN), whereas lOFC increased its connectivity with the frontoparietal network (FPN). Finally, a temporally predictive code in the lOFC spontaneously updated beliefs as outcome uncertainty fluctuated. Because uncertainty is both biologically relevant and computationally central to theories of brain function, we propose it as a core component in the definition of complex emotions.
+
+
+### How to apply
+
+If you are interested, please send your CV and a one-page research proposal.
+
+We invite applications from talented undergraduate and graduate scholars who are interested in PhD work at BSBE working at the interface of cutting-edge neuroscience experiments, methods, and theory. Students will learn a wide range of techniques: EEG/MEG,fMRI,
+TMS, tDCS/tACS, and eye-tracking to study the neurobiology of sensory processing, emotion, attention, perception, memory, and multisensory speech and language processing. They will get hands-on training in building and validating neurodynamical, Bayesian, and Artificial Intelligence-based foundational models to study brain functions. We seek individuals with passion and commitment to neuroscience and neurobiology research.
+
+Any candidate with a bachelor's degree in the field of engineering in Computer Science/ Electronics/Electrical/Artificial Intelligence or any related field like Biomedical engineering, Biotechnology, OR holding a master's degree in Neuroscience/Cognitive Science/ Biotechnology/Physics/Mathematics/Statistics is encouraged to apply. Working knowledge of one of the programming languages, Matlab/Python/C/C++ would be beneficial. The selection process is competitive, but candidates aligned with the vision of CBDL are welcome. With suitable applications, we actively recruit and train students in Brain Imaging, EEG, MEG recording, and develop advanced data analytic methods applied to Cognitive and Systems Neuroscience problems:
 
 #### Ongoing Projects in the Lab
 
 ### Modulation of the speed of Intrinsic Alpha Frequency (IAF) with tACS modulates the variability of illusory speech perception
 
-We have an immediate opening at the Senior Research Fellow (SRF) level in my Lab at the Indian Institute of Technology, Jodhpur School of Artificial Intelligence & Data Science, to work on an exciting project on tACS modulation of causal effects on perceptual variability during multisensory integration (MSI) using AV stimuli and source EEG brain connectivity and dynamics. This project starts in April and will continue for 3 years.
+People who join here will work on an exciting project on brain stimulation techniques, more specifically transcranial electrical stimulation methods for neuromodulation effects on perceptual variability during multisensory speech sound integration (MSI) using stimuli and source-level EEG brain connectivity and dynamics. 
 
 ### Brain aging: Neurocompensation in large-scale brain network dynamics
 
-This multimodal approach, utilizing non-invasive human neuroimaging data recording from the brain via fMRI, EEG/MEG, and detailed large-scale computational models, will establish links between neurotransmitter imbalance and the organization of large-scale anticorrelated neural systems, cognition, and symptoms (broadly speaking, cognitive impairment) associated with impaired cognition in humans. This study will be conducted at the National Brain Research Center, involving fMRI data acquisition primarily in the resting state and simple tasks from participants across a range of age groups. EEG/MEG component of the data acquisition will also take place at NBRC.
+This multimodal approach, utilizing non-invasive human neuroimaging data recording from the brain via fMRI, EEG/MEG, and detailed large-scale computational models, links neurotransmitter imbalance and the organization of large-scale anticorrelated neural systems, cognition, and symptoms (broadly speaking, cognitive impairment) associated with impaired cognition in humans. This is an ongoing project from the past two years conducted at IITJ and BRIC-National Brain Research Center(NBRC), involving fMRI data acquisition primarily in the resting state and simple tasks from participants across a range of age groups. EEG component of the data acquisition and analysis is continuing at IIT Jodhpur CBDL.
 
 ### Role of Subcortical brain areas in modulating large-scale functional and effective connectivity in resting and Cognitive tasks in aging and mental health
 
-This project requires setting up behavioral experiments, EEG acquisition, and analysis. A possibility of collecting behavioral data inside the scanner. We have two 64-channel EEG recording facilities along with two different Eye tracking systems. This study also uses big data repositories such as CAMCAN, ABIDE, etc. for building a large-scale computational model to explore the computational mechanisms underlying cortical-subcortical interactions (Shastry et al., 2022; Pathak et al., 2022; Thuwal et al., 2021; Das et al., 2021; Shaoo et al., 2020).
+This project requires setting up behavioral experiments, EEG acquisition, and analysis. A possibility of collecting behavioral data inside the scanner. We have two 64-channel EEG recording facilities along with two different eye-tracking systems. This study also uses big data repositories such as CAMCAN, ABIDE, etc., for building a large-scale computational model to explore the computational mechanisms underlying cortical-subcortical interactions (Chakraborty et al., 2026; Saha et al., 2025; Shastry et al., 2022; Pathak et al., 2022; Thuwal et al., 2021; Das et al., 2021; Shaoo et al., 2020).
 
 ### Image processing, deep learning, data fusion, and statistical models to understand fMRI, EEG/MEG dynamics
 
@@ -71,6 +89,6 @@ For example, an in-depth analysis of statistical issues involved in studying fMR
 
 ### Transcranial neurostimulation, neurofeedback to understand the causal nature of EEG Brain connectivity during memory, attention, perception, and multisensory processing
 
-Brain state dependent stimulations, feedback and modulation of neurophysiological responses and oscillatory changes. For example, does the regulation of local excitation-inhibition balance aid in recovery of functional connectivity and change in endogenous brain states to alter perceptual variability and sensitivity during perception, memory and attentional processing (Roy et al., 2021; Naskar et al., 2021; Vattikonda et al., 2016; Dagar et al., 2016).
+Brain state-dependent stimulations, feedback, and modulation of neurophysiological responses and oscillatory changes. For example, does the regulation of local excitation-inhibition balance aid in the recovery of functional connectivity and change in endogenous brain states to alter perceptual variability and sensitivity during perception, memory, and attentional processing (Roy et al., 2021; Naskar et al., 2021; Vattikonda et al., 2016; Dagar et al., 2016)?
 
 </div>
