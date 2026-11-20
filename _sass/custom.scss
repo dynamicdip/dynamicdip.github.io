@@ -3,11 +3,6 @@
   object-fit: cover;
   object-position: center 10%;
 }
-/* Profile photo fix */
-.author__avatar img {
-  object-fit: cover;
-  object-position: center 10%;
-}
 /* Hero banner overlay masthead */
 #cbdl-masthead.masthead--overlay {
   position: absolute !important;
@@ -79,7 +74,6 @@
 }
 .page-hero-banner {
   position: relative;
-  height: 340px;
   overflow: hidden;
   background-color: #000;
   margin-top: -140px;
@@ -95,8 +89,8 @@
 }
 .page-hero-banner img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   opacity: 0.85;
   display: block;
 }
