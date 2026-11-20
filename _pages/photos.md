@@ -1,175 +1,285 @@
 ---
 layout: archive
-title: "Lab photos and events"
-permalink: /photos/
+title: "People"
+permalink: /people/
 author_profile: true
+banner_image: /images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg
 ---
+
+<div class="page-hero-banner" id="cbdl-hero-banner">
+  <img src="/images/cbdl-people-2026.jpeg" alt="Cognitive Brain Dynamics Lab People">
+  <div class="hero-overlay">
+    <h1 class="hero-title">People</h1>
+  </div>
+</div>
+<script>
+(function () {
+  var banner = document.getElementById('cbdl-hero-banner');
+  if (!banner) return;
+  var img = banner.querySelector('img');
+
+  function layout() {
+    var sidebar = document.querySelector('.sidebar');
+
+    // 1. Full-bleed banner (reset first so repeated resizes stay correct)
+    banner.style.marginLeft = '0px';
+    banner.style.width = 'auto';
+    var left = banner.getBoundingClientRect().left;
+    banner.style.marginLeft = (-left) + 'px';
+    banner.style.width = document.documentElement.clientWidth + 'px';
+
+    // 2. On desktop, push the left profile sidebar below the banner
+    //    so it no longer sits on top of the photo.
+    if (sidebar) {
+      sidebar.style.marginTop = '0px';
+      var floated = window.getComputedStyle(sidebar).float !== 'none';
+      if (floated) {
+        var gap = banner.getBoundingClientRect().bottom -
+                  sidebar.getBoundingClientRect().top + 20;
+        sidebar.style.marginTop = Math.max(0, gap) + 'px';
+      }
+    }
+  }
+
+  layout();
+  window.addEventListener('resize', layout);
+  window.addEventListener('load', layout);
+  if (img && !img.complete) img.addEventListener('load', layout);
+})();
+</script>
 
 <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-.photos-content, .photos-content * {
+.people-content, .people-content * {
   font-family: 'Comfortaa', sans-serif !important;
 }
-.photos-content h2, .photos-content h3 {
+.people-content h2 {
   font-weight: 700;
   color: #1a1a1a;
 }
-.photos-content p, .photos-content li {
+.people-content p, .people-content li {
   font-size: 18.67px;
   font-weight: 300;
   line-height: 1.6;
   color: #333;
 }
-.photos-content strong {
-  font-size: 18.67px;
-  font-weight: 600;
-  color: #1a1a1a;
-}
-.photo-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 10px;
-  margin: 10px 0 32px 0;
-}
-.photo-gallery a {
-  display: block;
-  overflow: hidden;
-  border-radius: 8px;
-}
-.photo-gallery img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
-  border-radius: 8px;
-  transition: transform 0.25s ease;
-}
-.photo-gallery a:hover img {
-  transform: scale(1.05);
-}
 </style>
 
-<div class="photos-content" markdown="1">
+<div class="people-content" markdown="1">
 
-### BrainDy 2026 Udaipur Rajasthan
+## Principal Investigator
 
-<div class="photo-gallery">
-<a href="/images/Braindy26%20-%201.jpg" target="_blank"><img src="/images/Braindy26%20-%201.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%202.jpg" target="_blank"><img src="/images/Braindy26%20-%202.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%203.jpg" target="_blank"><img src="/images/Braindy26%20-%203.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%204.jpeg" target="_blank"><img src="/images/Braindy26%20-%204.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%205.jpg" target="_blank"><img src="/images/Braindy26%20-%205.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%206.jpg" target="_blank"><img src="/images/Braindy26%20-%206.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%207.jpg" target="_blank"><img src="/images/Braindy26%20-%207.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%208.jpg" target="_blank"><img src="/images/Braindy26%20-%208.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%209.jpg" target="_blank"><img src="/images/Braindy26%20-%209.jpg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2036.jpeg" target="_blank"><img src="/images/Braindy26%20-%2036.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2026.jpeg" target="_blank"><img src="/images/Braindy26%20-%2026.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2038.jpeg" target="_blank"><img src="/images/Braindy26%20-%2038.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2039.jpeg" target="_blank"><img src="/images/Braindy26%20-%2039.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-<a href="/images/Braindy26%20-%2040.jpeg" target="_blank"><img src="/images/Braindy26%20-%2040.jpeg" loading="lazy" alt="BrainDy 2026 Udaipur"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/pi-dipanjan-roy.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Dipanjan Roy">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Dipanjan Roy</strong><br>
+<strong style="color:#333; font-size:18.67px; font-weight:600;">Professor, Cognitive Brain Dynamics Lab, Department of Bioscience & Bioengineering, IIT Jodhpur<br>
+Fellow of the National Academy of Sciences India (NASI)<br>
+Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks.</span>
+</td>
+</tr>
+</table>
 
-### PhD thesis defense and lab gathering at IIT Jodhpur 2025
+<hr style="margin: 8px 0 16px 0;">
 
-<div class="photo-gallery">
-<a href="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" target="_blank"><img src="/images/2a8b242d-4ec2-40c8-bcc4-92990e226486.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/7a71d0b9-1189-4466-8301-aa34c13385d9.jpeg" target="_blank"><img src="/images/7a71d0b9-1189-4466-8301-aa34c13385d9.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/81d1735c-ae14-4cf1-8d60-14d66a14c59a.jpeg" target="_blank"><img src="/images/81d1735c-ae14-4cf1-8d60-14d66a14c59a.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/301ced8f-fe0a-4cd2-8be1-edf452c00c83.jpeg" target="_blank"><img src="/images/301ced8f-fe0a-4cd2-8be1-edf452c00c83.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/0687c133-f66d-43bd-b8cf-3fea46b18a2f.jpeg" target="_blank"><img src="/images/0687c133-f66d-43bd-b8cf-3fea46b18a2f.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/a8e4a020-54ad-4ebd-9755-7db78d4a2073.jpeg" target="_blank"><img src="/images/a8e4a020-54ad-4ebd-9755-7db78d4a2073.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-<a href="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" target="_blank"><img src="/images/d9547dd0-81cf-4168-8583-1032d0456b53.jpeg" loading="lazy" alt="PhD thesis defense 2025"></a>
-</div>
+## PhD Students
 
-### 2024 CBSA School of AIDE IITJ lab photos
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-Debarpita-Barman.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Debarpita Barman">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Debarpita Barman</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. student, CBSA School of AIDE &nbsp;|&nbsp; p25ai0202@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Debarpita Barman did her BSc in physics honours from Siliguri College, University of North Bengal, and MSc in physics from Visva-bharati. 
+She has a deep interest in Nonlinear Dynamics and studying the whole brain dynamics using computational models to understand brain dynamics and information processing in the neural circuits during sensory processing. </span>
+</td>
+</tr>
+</table>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-jeet-agnihotri.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Jeet Agnihotri">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Jeet Agnihotri</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. student, CBSA School of AIDE &nbsp;|&nbsp; p24ai0201@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Jeet holds a B.E. in Information Technology from M.B.M. University, Jodhpur, and an M.Tech. from IIEST Shibpur. Driven by a deep interest in neurodiversity — particularly within the autism spectrum — she pivoted to computational neuroscience, where her work centres on understanding how brain organisation differs between typically and atypically developing individuals using functional MRI data.</span>
+</td>
+</tr>
+</table>
 
-<div class="photo-gallery">
-<a href="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" target="_blank"><img src="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
-<a href="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" target="_blank"><img src="/images/f35d4bfb-f6d2-4ada-8391-198ec10f713f.jpeg" loading="lazy" alt="Lab trip to Mukteshwar 2024"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-azman-akhtar.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Azman Akhtar">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Azman Akhtar</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Integrated Ph.D. student, NBRC &nbsp;|&nbsp; azman.b17@nbrc.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Azman holds a B.Sc. in Zoology from Aligarh Muslim University and an M.Sc. in Neuroscience from NBRC.  He completed his Master's dissertation at NBRC studying visual word recognition between two orthographies in an Indian sub-population that can write the same language, Hindustani, in two different ways, Hindi and Urdu. Currently, Azman investigates how traits like Extraversion or Neuroticism shape the way our brains align or diverge during real-world experiences. For his PhD thesis, he uses naturalistic fMRI, the Big-Five personality model, intersubject BOLD synchrony measures, and Intersubject Representational Analysis with Anna-Karenina similarity model. Specifically, a novel multidimensional AK to track how personality as a whole dynamically manifests while people watch movies. On the side, he likes investigating nuances in the BOLD-driven proxies of neuronal activities, specifically that of different intersubject synchronies like ISC, ISPS, functional alignment, and how they may differently capture the stimulus-related activity. Outside research, one can find him at the badminton court, lost in nature, or deep in conversations about cultures, beliefs, and the quirks of human bias, much like his bias towards cats. (Joint Supervision with Prof. Arpan Banerjee, NBRC).)</span>
+</td>
+</tr>
+</table>
 
-### 2024 CBDL IIT Jodhpur, NBRC, and Ashoka University lab trip to Mukteshwar, Nainital district of Uttarakhand
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-debottam-bhunia.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Debottam Bhunia">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Debottam Bhunia</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. Student, CBSA School of AIDE &nbsp;|&nbsp; p22ai203@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Debottam received his B.Tech in Electrical Engineering from NIT Durgapur and M.Tech in Power Electronics from IIT Dhanbad. Drawn by the complexity of the human brain, he steered his research interest towards computational neuroscience. His research centres on developing large-scale computational models of multisensory perception.</span>
+</td>
+</tr>
+</table>
 
-<div class="photo-gallery">
-<a href="/images/img_3346-2.jpg" target="_blank"><img src="/images/img_3346-2.jpg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3347.jpg" target="_blank"><img src="/images/img_3347.jpg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3345.jpg" target="_blank"><img src="/images/img_3345.jpg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3945.jpeg" target="_blank"><img src="/images/img_3945.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3946.jpeg" target="_blank"><img src="/images/img_3946.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3949.jpeg" target="_blank"><img src="/images/img_3949.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3950.jpeg" target="_blank"><img src="/images/img_3950.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-<a href="/images/img_3951.jpeg" target="_blank"><img src="/images/img_3951.jpeg" loading="lazy" alt="Lab gathering Jodhpur and Gurgaon 2024"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-vinsea-singh.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Vinsea AV Singh">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Vinsea AV Singh</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. student, NBRC &nbsp;|&nbsp; vinseab18@nbrc.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Vinsea is primarily interested in pre-stimulus neural oscillations to explain inter-individual and inter-trial variability in perception among participants subjected to the McGurk illusion. She studies differences in pre-stimulus EEG data between rare and frequent perceivers of the McGurk effect, elucidating how different brain regions drive multisensory perception and their distinct developmental trajectories. (Joint Supervision with Prof. Arpan Banerjee, NBRC).</span>
+</td>
+</tr>
+</table>
 
-### Lab gathering of CBDL members in Jodhpur and Gurgaon 2024
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-ankit-yadav.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Ankit Yadav">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Ankit Yadav</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. student &nbsp;|&nbsp; yadavankit99@gmail.com</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Ankit studied zoology at bachelor's and master's levels. He is investigating self- and externally directed attention, the interaction between attention and working memory, and dissociation between self versus externally oriented attention using EEG and fMRI neuroimaging modalities. Apart from research, he likes to play chess.(Joint Supervision with Prof. Arpan Banerjee, NBRC)</span>
+</td>
+</tr>
+</table>
 
-<div class="photo-gallery">
-<a href="/images/photo-2024-01-09-14-20-26-1.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-26-1.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
-<a href="/images/photo-2024-01-09-14-20-28.jpg" target="_blank"><img src="/images/photo-2024-01-09-14-20-28.jpg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
-<a href="/images/10096caa-77a3-47b7-aafa-ca2cff20ce60.jpeg" target="_blank"><img src="/images/10096caa-77a3-47b7-aafa-ca2cff20ce60.jpeg" loading="lazy" alt="PhD thesis defense NBRC 2024"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-arpit-shirmankar.jpg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Arpit Shirmankar">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Arpit Shirmankar</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. Student, CBSA School of AIDE &nbsp;|&nbsp; p23ai0001@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Arpit has completed his bachelor's and master's degrees in Biomedical Engineering. He is working on understanding the neuroscience of action control and attention modulation, aiming to develop computational models investigating action control. In his free time, he enjoys learning about spirituality and meditation, and spending time in nature with friends and family. (Joint Supervision with Dr. Vignesh Muralidharan).</span>
+</td>
+</tr>
+</table>
 
-### PhD thesis defense of CBDL lab members
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/phd-abinaya-vairam.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Abinaya Vairam">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Abinaya Vairam</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">Ph.D. Student, CBSA School of AIDE &nbsp;|&nbsp; p22ai001@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Abinaya is a working professional and part-time PhD student. Her research revolves around constructing whole-brain biologically annotated maps in developmental disorders, ASD, and ADHD using multimodal neuroimaging data and state-of-the-art AI/ML techniques for classification and prediction using both human and animal imaging data.</span>
+</td>
+</tr>
+</table>
 
-<div class="photo-gallery">
-<a href="/images/1705571278005.jpeg" target="_blank"><img src="/images/1705571278005.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/1705571278263.jpeg" target="_blank"><img src="/images/1705571278263.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/1705571278044.jpeg" target="_blank"><img src="/images/1705571278044.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/1705571278626.jpeg" target="_blank"><img src="/images/1705571278626.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/c68d1be7-9289-47e6-af14-929375645114.jpeg" target="_blank"><img src="/images/c68d1be7-9289-47e6-af14-929375645114.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/e3a92509-e37e-402a-85d2-cf7db3e84c13.jpeg" target="_blank"><img src="/images/e3a92509-e37e-402a-85d2-cf7db3e84c13.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/1a3cf6bf-1b4b-4bc2-9d9e-8d5555b4d71f.jpeg" target="_blank"><img src="/images/1a3cf6bf-1b4b-4bc2-9d9e-8d5555b4d71f.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/fc9ac770-aaf5-4ae7-aa71-e569329f9e75.jpeg" target="_blank"><img src="/images/fc9ac770-aaf5-4ae7-aa71-e569329f9e75.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/7971af49-dd0f-4933-919c-21090a025fe5.jpeg" target="_blank"><img src="/images/7971af49-dd0f-4933-919c-21090a025fe5.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-<a href="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" target="_blank"><img src="/images/04a3aae6-1433-4e12-9b90-e0b74c6fc983.jpeg" loading="lazy" alt="Lab trip to McLeodganj 2020"></a>
-</div>
+<hr style="margin: 8px 0 16px 0;">
 
-### Lab trip to McLeodganj, Himachal Pradesh 2020
+## MS and M.Tech Research Students
 
-<div class="photo-gallery">
-<a href="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-07-at-4-44-41-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
-<a href="/images/whatsapp-image-2020-03-07-at-4-57-39-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-07-at-4-57-39-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
-<a href="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2020-03-08-at-12-00-13-pm.jpeg" loading="lazy" alt="Lab work and conference presentation"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/ms-shreya-deb.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Shreya Deb">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Shreya Deb</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">MS by Research (jointly with Dr. Vignesh Muralidharan, CBSA) &nbsp;|&nbsp; r23ab0002@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Shreya has a B.Tech in Electrical and Electronics Engineering from BIT Durg. She is currently pursuing an MS by Research at the Centre for Brain Science and Application, School of AIDE, IIT Jodhpur. She is fascinated by what sets the human brain apart from other creatures and how understanding it will help develop better artificial intelligence models(Joint Supervision with Dr. Vignesh Muralidharan).</span>
+</td>
+</tr>
+</table>
 
-### Lab meeting and presentations at various conferences
 
-<div class="photo-gallery">
-<a href="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2019-10-04-at-12-41-59-pm.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/whatsapp-image-2019-10-04-at-12-42-51-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2019-10-04-at-12-42-51-pm.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/mp-5.jpeg" target="_blank"><img src="/images/mp-5.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" target="_blank"><img src="/images/e64998e6-3133-47c2-b4b6-6ac4958ff8bd-original-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/mp-4-1.jpeg" target="_blank"><img src="/images/mp-4-1.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" target="_blank"><img src="/images/31d60ee8-437c-4ceb-9dce-13f9e26946af-original.jpeg" loading="lazy" alt="Lab birthday celebrations pre and post Covid"></a>
-<a href="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" target="_blank"><img src="/images/ed28ff5e-fcb7-4b0d-b809-6e9df97416c7.jpeg" loading="lazy" alt="Lab meeting and presentations at various conferences"></a>
-</div>
+<table style="border:none; margin:0 0 16px 0;">
+<tr>
+<td style="border:none; vertical-align:top; padding:0 24px 0 0; width:220px;">
+<img src="/images/ms-swatantra-dhara.jpeg" style="width:200px; height:254px; object-fit:cover; object-position:top; border-radius:8px;" alt="Swatantra Dhara">
+</td>
+<td style="border:none; vertical-align:top; padding:0;">
+<strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Swatantra Dhara</strong><br>
+<span style="color:#333; font-size:18.67px; font-weight:600;">MS by Research Student &nbsp;|&nbsp; r23ab0003@iitj.ac.in</span><br><br>
+<span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Swatantra holds a B.Sc. in Biotechnology and a master's in Medical Biotechnology and Bioinformatics. He is currently pursuing his MS by Research at CBSA, School of AIDE, IIT Jodhpur. His research focuses on developing neuroscience methods to study episodic memory processing in naturalistic task conditions and investigating the role of aging in episodic memory dynamics.</span>
+</td>
+</tr>
+</table>
 
-### CBDL get-together
+## Lab Alumni
 
-<div class="photo-gallery">
-<a href="/images/photo-from-priyanka-ghosh-2-1.jpeg" target="_blank"><img src="/images/photo-from-priyanka-ghosh-2-1.jpeg" loading="lazy" alt="Brain Modes International Conference 2017"></a>
-<a href="/images/1d7a5faa-03a3-4752-80d5-1c3aa3688bfe_orig.jpeg" target="_blank"><img src="/images/1d7a5faa-03a3-4752-80d5-1c3aa3688bfe_orig.jpeg" loading="lazy" alt="Brain Modes International Conference 2017"></a>
-<a href="/images/whatsapp-image-2021-03-26-at-4-35-35-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-35-35-pm_orig.jpeg" loading="lazy" alt="Brain Modes International Conference 2017"></a>
-<a href="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" target="_blank"><img src="/images/screenshot-2021-05-13-at-3.13.17-pm-1.png" loading="lazy" alt="Brain Modes International Conference 2017"></a>
-</div>
+<table style="border:none; width:100%; font-size:18.67px; line-height:1.6;">
+<tr style="background:#f5f5f5;">
+<th style="border:none; padding:8px 12px; text-align:left;">Name</th>
+<th style="border:none; padding:8px 12px; text-align:left;">Role</th>
+<th style="border:none; padding:8px 12px; text-align:left;">Current Position</th>
+</tr>
+<tr><td style="border:none; padding:6px 12px;">Govinda Surampudi</td><td style="border:none; padding:6px 12px;">MS thesis</td><td style="border:none; padding:6px 12px;">University of Maryland, Pessoa Lab</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Shruti Naik</td><td style="border:none; padding:6px 12px;">MS thesis</td><td style="border:none; padding:6px 12px;">PhD student, Neurospin France</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Vatika Harlalka</td><td style="border:none; padding:6px 12px;">MS thesis</td><td style="border:none; padding:6px 12px;">Facebook Research, USA & London</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Anirudh Vattikonda</td><td style="border:none; padding:6px 12px;">MS thesis</td><td style="border:none; padding:6px 12px;">Research Engineer (PhD), Aix-Marseille University</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Bikash Chandra Sahoo</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">PhD student, University of Rochester, USA</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Moumita Das</td><td style="border:none; padding:6px 12px;">Postdoctoral Research Associate</td><td style="border:none; padding:6px 12px;">Assistant Professor, IIM Udaipur</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Amit Jaiswal</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">PhD student, Aalto University, Finland</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Fahd Yazin</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">University of Edinburgh</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Vivek Sharma</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">Junior Researcher, Donders Institute, Radboud University</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Jasleen Gundh</td><td style="border:none; padding:6px 12px;">Postdoctoral Fellow</td><td style="border:none; padding:6px 12px;">—</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Rudradeep Mukherjee</td><td style="border:none; padding:6px 12px;">Masters dissertation</td><td style="border:none; padding:6px 12px;">University of Connecticut</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Priyanka Sigar</td><td style="border:none; padding:6px 12px;">Project Assistant</td><td style="border:none; padding:6px 12px;">PhD, Lucina Uddin Lab, UCLA</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Kusum Thuwal</td><td style="border:none; padding:6px 12px;">Masters Dissertation</td><td style="border:none; padding:6px 12px;">Hebrew University of Jerusalem</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Mrittika Dey</td><td style="border:none; padding:6px 12px;">Masters Dissertation</td><td style="border:none; padding:6px 12px;">Human Vision Lab, UCLouvain</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Alok Kumar Shukla</td><td style="border:none; padding:6px 12px;">M.Tech thesis</td><td style="border:none; padding:6px 12px;">—</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Indrajith Nair</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Postdoctoral Researcher, UT Southwestern Medical Center, USA</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Guncha Bhasin</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Postdoctoral Researcher, University of Minnesota, USA</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Priyanka Ghosh</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Postdoctoral Research Associate, Northeastern University, USA</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Nisha Sastry</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;"> Mathworks India</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Neeraj Kumar</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;"> Postdoctoral Researcher, Orpella Lab, Georgetown University USA</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Anagh Pathak</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;"> Postdoctoral Researcher, Demian Battaglia Lab, University of Strasbourg</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Gargi Majumdar</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Brigitte Roeder's Lab, University of Hamburg (Humboldt Fellow)</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Abhishek Narvaria</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;">Ashoka University</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Km Bhavna</td><td style="border:none; padding:6px 12px;">PhD</td><td style="border:none; padding:6px 12px;"> Assistant Professor, Dept of CSE, IIIT Kota</td></tr>
+</table>
 
-### Brain Modes International Conference 2017
+<hr style="margin: 8px 0 16px 0;">
 
-<div class="photo-gallery">
-<a href="/images/mp-1.jpeg" target="_blank"><img src="/images/mp-1.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
-<a href="/images/mp-3.jpeg" target="_blank"><img src="/images/mp-3.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
-<a href="/images/mp-6.jpeg" target="_blank"><img src="/images/mp-6.jpeg" loading="lazy" alt="Lab Holi Celebration NBRC"></a>
-</div>
+## Short-Term Visitors and Summer Interns
 
-### Lab Holi celebration NBRC
-
-<div class="photo-gallery">
-<a href="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-10-43-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
-<a href="/images/whatsapp-image-2021-03-26-at-4-10-47-pm.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-10-47-pm.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
-<a href="/images/whatsapp-image-2021-03-26-at-4-10-44-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-10-44-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
-<a href="/images/whatsapp-image-2021-03-26-at-4-12-32-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-12-32-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
-<a href="/images/whatsapp-image-2021-03-26-at-4-35-40-pm_orig.jpeg" target="_blank"><img src="/images/whatsapp-image-2021-03-26-at-4-35-40-pm_orig.jpeg" loading="lazy" alt="Lab Barbecue 2020 NBRC"></a>
-</div>
+<table style="border:none; width:100%; font-size:18.67px; line-height:1.6;">
+<tr style="background:#f5f5f5;">
+<th style="border:none; padding:8px 12px; text-align:left;">Name</th>
+<th style="border:none; padding:8px 12px; text-align:left;">Year</th>
+<th style="border:none; padding:8px 12px; text-align:left;">Institution</th>
+</tr>
+<tr><td style="border:none; padding:6px 12px;">Vishal Verma</td><td style="border:none; padding:6px 12px;">2024</td><td style="border:none; padding:6px 12px;">IMSC Chennai</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Raj Mishra</td><td style="border:none; padding:6px 12px;">2023</td><td style="border:none; padding:6px 12px;">BS-MS IISER Bhopal</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Antarjot Kaur</td><td style="border:none; padding:6px 12px;">2023</td><td style="border:none; padding:6px 12px;">Thapar University</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Devanshi Singh</td><td style="border:none; padding:6px 12px;">2023</td><td style="border:none; padding:6px 12px;">University of Padua, Italy</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Rishi Dey Chowdhury</td><td style="border:none; padding:6px 12px;">2022</td><td style="border:none; padding:6px 12px;">ISI Kolkata</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Palak Sharma</td><td style="border:none; padding:6px 12px;">2022</td><td style="border:none; padding:6px 12px;">IIT Gandhinagar</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Leesa Joyce</td><td style="border:none; padding:6px 12px;">2020</td><td style="border:none; padding:6px 12px;">IISER Mohali (now LMU Munich)</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Titas Sil</td><td style="border:none; padding:6px 12px;">2019</td><td style="border:none; padding:6px 12px;">IISER Bhopal (now University of Oregon, USA)</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Lipika Taneja</td><td style="border:none; padding:6px 12px;">2018</td><td style="border:none; padding:6px 12px;">IISER Mohali</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Manasi Malik</td><td style="border:none; padding:6px 12px;">2018</td><td style="border:none; padding:6px 12px;">IIIT Delhi (PhD, Johns Hopkins University, USA)</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Shrey Dutta</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">Project Assistant (now PhD, University of Queensland, Australia)</td></tr>
+<tr style="background:#f9f9f9;"><td style="border:none; padding:6px 12px;">Amba Khare</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
+<tr><td style="border:none; padding:6px 12px;">Himadri Agarwal</td><td style="border:none; padding:6px 12px;">—</td><td style="border:none; padding:6px 12px;">IIIT Allahabad</td></tr>
+</table>
 
 </div>
