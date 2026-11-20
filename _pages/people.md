@@ -7,7 +7,7 @@ banner_image: /images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg
 ---
 
 <div class="page-hero-banner" id="cbdl-hero-banner">
-  <img src="/images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg" alt="Cognitive Brain Dynamics Lab People">
+  <img src="/images/cbdl-people-2026.jpeg" alt="Cognitive Brain Dynamics Lab People">
   <div class="hero-overlay">
     <h1 class="hero-title">People</h1>
   </div>
@@ -54,7 +54,7 @@ banner_image: /images/7875056c-830b-4a5b-ac60-b11216b7f5e7.jpeg
 </td>
 <td style="border:none; vertical-align:top; padding:0;">
 <strong style="font-size:24px; font-weight:700; color:#1a1a1a; line-height:1.3;">Dipanjan Roy</strong><br>
-<strong style="color:#333; font-size:18.67px; font-weight:600;">Professor, Centre of Excellence in Brain Science & Applications, School of AI & Data Science, IIT Jodhpur<br>
+<strong style="color:#333; font-size:18.67px; font-weight:600;">Professor, Cognitive Brain Dynamics Lab, Department of Bioscience & Bioengineering, IIT Jodhpur<br>
 Fellow of the National Academy of Sciences India (NASI)<br>
 Adjunct Professor, National Brain Research Center, Manesar</strong><br><br>
 <span style="text-align:left !important; display:block; font-size:18.67px; font-weight:300; line-height:1.6; color:#333;">Dipanjan Roy leads a Cognitive and Computational Neuroscience group dedicated to understanding how the brain represents time scales, organises large-scale network dynamics, and undergoes connectivity changes underlying attention, memory, perception, and multisensory integration. The group's research spans neuroimaging approaches — including EEG, MEG, and fMRI — alongside carefully designed behavioural paradigms and multiscale computational modelling frameworks.</span>
