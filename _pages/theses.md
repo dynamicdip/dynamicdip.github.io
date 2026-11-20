@@ -5,7 +5,7 @@ permalink: /theses/
 author_profile: true
 ---
 
-## [**Dr Ankit Yadav (2026)**](https://drive.google.com/file/d/17i5VxgAO1nuiUoTDODlga4-Fhuzp3iIp/view?usp=sharing, https://drive.google.com/file/d/1ZOmBdPvBQlAxTiqoYXrU-t0wowXG1ZDk/view?usp=sharing) _Neural mechanisms underlying impact of internally and externally directed attention in cognitively demanding contexts_
+## [**Dr Ankit Yadav (2026)**](https://drive.google.com/file/d/17i5VxgAO1nuiUoTDODlga4-Fhuzp3iIp/view?usp=sharing) _Neural mechanisms underlying the impact of internally and externally directed attention in cognitively demanding contexts_
 
 ## [**Dr Abhishek S Narvaria (2025)**](https://cbdlnbrc.weebly.com/uploads/1/2/6/2/126266559/ph.d._thesis_of_abhishek_singh_narvaria_nbrc.pdf) _Neural and Behavioural correlates of how attentional prioritization hinders priority switching in working memory states_
 
