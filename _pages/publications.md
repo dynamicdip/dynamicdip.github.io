@@ -63,20 +63,18 @@ banner_image: /images/fmri-networks-banner.png
 
 †: Corresponding author &nbsp;&nbsp; \*\*: Reviews/Opinion/Perspective/Commentary &nbsp;&nbsp; #: Joint authorship
 
-[80] **Modulation of the speed of Intrinsic Alpha Frequency (IAF) with tACS modulates variability of illusory speech perception**  Deb, S.*, Bhunia, D.*, Singh, V., Muralidharan, V. & **Roy, D.†** (2026). (*Co-first author) https://www.biorxiv.org/content/10.64898/2026.10.07.756537v1  (Under review)
+[79] **Modulation of the speed of Intrinsic Alpha Frequency (IAF) with tACS modulates variability of illusory speech perception**  Deb, S.*, Bhunia, D.*, Singh, V., Muralidharan, V. & **Roy, D.†** (2026). (*Co-first author) https://www.biorxiv.org/content/10.64898/2026.10.07.756537v1  (Under review)
 
-[79] **Distinct transcriptomic and hierarchical organization associated with brain hyperconnectivity and hypoconnectivity in autism spectrum disorder** 
+[78] **Distinct transcriptomic and hierarchical organization associated with brain hyperconnectivity and hypoconnectivity in autism spectrum disorder** 
 Vairam, A., Bhavna, Km., Uddin, L., Misic, B., & **Roy, D.†** (2026) doi: https://doi.org/10.64898/2026.07.31.742105. (Revision stage) 
 
-[78] **A generalized scaling law reveals synchrony-driven reorganization of brain dynamics across the human lifespan.** Saha, S., Hens, C., Chakraborty, P., Kapitaniak, T., Banerjee, A., Deco, G., Dana, S.K., & **Roy, D.†** (2026). *PlosCompBio* (In press).
+[77] **A generalized scaling law reveals synchrony-driven reorganization of brain dynamics across the human lifespan.** Saha, S., Hens, C., Chakraborty, P., Kapitaniak, T., Banerjee, A., Deco, G., Dana, S.K., & **Roy, D.†** (2026). *PlosCompBio* (In press).
 
-[77] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
+[76] **Periventricular White Matter Hyperintensities Collapse Default Mode-Dorsal Attention Network Segregation and Reshape Brain Functional Dynamics During Cognitive Aging** Gupta, N., **Roy, D.**, Tiwari, V.(2026) (under review).
 
-[76] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2026). [DOI](https://doi.org/10.1101/2023.12.22.573029) *Cell Reports*(Revision stage)
+[75] **Diet-induced miRNAs regulate adult neurogenesis and functional activity of nascent neurons in the hypothalamus.** Srinivasan, B., Samaddar, S., **Roy, D.**, & Banerjee, S. (2026). [DOI](https://doi.org/10.1101/2023.12.22.573029) *Cell Reports*(Revision stage)
 
-[75] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
-
-[74] **MIRA-Net: A Cross-Cohort Representation Learning Framework for Parkinson's Disease Classification Using Acoustic and Beta-Band MEG Biomarkers.** Akhila, N., Ekbal, A., & **Roy, D.†** (2026). *medRxiv*. [DOI](https://doi.org/10.64898/2026.07.03.26357258)
+[74] **Aging increases orbitofrontal neural volatility during affective inference.** Majumdar, G., Yazin, F., Banerjee, A., & **Roy, D.†** (2026). *Cerebral Cortex*, 36(4), bhag053.
 
 [73] **Competition in the brain: a conserved principle with lifespan consequences.** **Roy, D.†**, & Banerjee, A. (2026). *Nature Communications Biology*.
 
